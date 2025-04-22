@@ -66,10 +66,14 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
     - [2.3. Needfinding.](#23-needfinding)
     - [2.3.1. User Personas.](#231-user-personas)
     - [2.3.2. User Task Matrix.](#232-user-task-matrix)
+      - [Tareas con mayor frecuencia e importancia:](#tareas-con-mayor-frecuencia-e-importancia)
+      - [Principales diferencias:](#principales-diferencias)
+      - [Coincidencias relevantes:](#coincidencias-relevantes)
     - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping.](#235-as-is-scenario-mapping)
     - [2.4. Ubiquitous Language.](#24-ubiquitous-language)
+    - [Ubiquitous Language – Business Domain Glossary](#ubiquitous-language--business-domain-glossary)
   - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
     - [3.2. User Stories.](#32-user-stories)
@@ -287,53 +291,18 @@ Las productoras tienen dificultades para acceder a clientes fuera de su red de c
 1. **Creemos que** las empresas se encontrarán satisfechas con la búsqueda de productoras para la creación de sus eventos y programas . **Sabremos que** esta afirmación es cierta cuando la mayoría de productoras cuenten con reseñas y comentarios positivos.
 2. **Creemos que** las productoras podrán enontrar fácil alguna empresa que requiera de sus servicios. **Sabremos que** esto es cierto cuando las productoras se centren en la creación de un tipo de evento.
 ### 1.2.2.4. Lean UX Canvas.
-<table>
-  <tr>
-    <th valign="top">
-      <p><b>1. Business Problem</b></p>
-      <p>Varias marcas enfrentan la dificultad de intentar organizar activaciones de marketing efectivas. Los eventos requieren coordinación, creatividad, logística y, sobre todo, proveedores confiables. Sin embargo, el proceso actual suele depender de contactos informales, referencias dispersas y gestiones no muy efectivas que comprometen la calidad del resultado final.</p>
-    </th>
-    <th valign="top">
-      <p><b>2. Business Outcomes</b></p>
-      <p>- Mejorar la calidad de los eventos de las marcas y empresas.</p>
-      <p>- Las productoras puedan ofrecer fácilmente sus servicios a otros clientes.</p>
-      <p>- Las empresas y marcas puedan conseguir contactos confiables.</p>
-      <p>- Conectar empresas y productoras de manera efectiva y rápdida.</p>
-    </th>
-    <th rowspan="2" valign="top">
-      <p><b>5. Solutions</b></p>
-      <p>- Desarrollar una aplicación en donde las empresas y marcas puedan buscar productoras para sus eventos o que las mismas productras brinden sus servicios a marcas.</p>
-      <p>- Que las empresas busquen sus servicios mediante filtros para que se alineen según sus objetivos en el evento que se desea raelizar.</p>
-    </th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p><b>3. Users</b></p>
-      <p>- Marcas y empresas (clientes): Empresas que necesiten de un productor para poder .</p>
-      <p>- Productoras (proveedores): Personas o productoras que cuenten con la capacidad técnica y creativa para realizar los eventos o activaciones de las empresas.</p>
-    </td>
-    <td valign="top">
-      <p><b>4. User Benefits</b></p>
-      <p>- Empresas y Marcas: Poder encontrar rápidamente con un productor que se encargue de gestionar sus eventos de manera productiva.</p>
-      <p>- Productoras: Encontrar una aplicación que les proporcione las herramientas necesarias para poder brindar sus servicios relacionados a la gestión de eventos.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p><b>6. Hypothesis</b></p>
-      <p>- Creemos que las empresas se encontrarán satisfechas con la búsqueda de productoras para la creación de sus eventos y programas.</p>
-      <p>- Sabremos que esta afirmación es cierta cuando la mayoría de productoras cuenten con reseñas y comentarios positivos.</p>
-    </td>
-    <td valign="top">
-      <p><b>7. What’s the most important thing we need to learn first?</b></p>
-      <p>Necesitamos corroborar que las empresas se sientan cómodas con los servicios que puedan brindar los productores. Además, debemos de verificar que las productoras cuenten con las herramientas adecuadas para ofrecer sus servicios.</p>
-    </td>
-    <td valign="top">
-      <p><b>8. What’s the least amount of work we need to do to learn the next most important thing?</b></p>
-      <p>Lanzar una versión de prueba con las funcionalidades más importantes de la aplicación para ver si la misión y el objetivo de la Startup se cumplirán.</p>
-    </td>
-  </tr>
-</table>
+| **1. Business Problem** | **2. Business Outcomes** | **5. Solutions** |
+|------------------------|--------------------------|------------------|
+| Varias marcas enfrentan la dificultad de intentar organizar activaciones de marketing efectivas. Los eventos requieren coordinación, creatividad, logística y, sobre todo, proveedores confiables. Sin embargo, el proceso actual suele depender de contactos informales, referencias dispersas y gestiones no muy efectivas que comprometen la calidad del resultado final. | - Mejorar la calidad de los eventos de las marcas y empresas.  <br> - Las productoras puedan ofrecer fácilmente sus servicios a otros clientes. <br> - Las empresas y marcas puedan conseguir contactos confiables. <br> - Conectar empresas y productoras de manera efectiva y rápida. | - Desarrollar una aplicación en donde las empresas y marcas puedan buscar productoras para sus eventos o que las mismas productoras brinden sus servicios a marcas. <br> - Que las empresas busquen sus servicios mediante filtros para que se alineen según sus objetivos en el evento que se desea realizar. |
+
+| **3. Users** | **4. User Benefits** |
+|--------------|-----------------------|
+| - **Marcas y empresas (clientes):** Empresas que necesiten de un productor para sus activaciones. <br> - **Productoras (proveedores):** Personas o productoras que cuenten con la capacidad técnica y creativa para realizar los eventos o activaciones de las empresas. | - **Empresas y marcas:** Poder encontrar rápidamente un productor que se encargue de gestionar sus eventos de manera productiva. <br> - **Productoras:** Encontrar una aplicación que les proporcione las herramientas necesarias para brindar sus servicios relacionados a la gestión de eventos. |
+
+| **6. Hypothesis** | **7. What’s the most important thing we need to learn first?** | **8. What’s the least amount of work we need to do to learn the next most important thing?** |
+|------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| - Creemos que las empresas se encontrarán satisfechas con la búsqueda de productoras para la creación de sus eventos y programas. <br> - Sabremos que esta afirmación es cierta cuando la mayoría de productoras cuenten con reseñas y comentarios positivos. | Necesitamos corroborar que las empresas se sientan cómodas con los servicios que puedan brindar los productores. Además, debemos verificar que las productoras cuenten con las herramientas adecuadas para ofrecer sus servicios. | Lanzar una versión de prueba con las funcionalidades más importantes de la aplicación para ver si la misión y el objetivo de la startup se cumplirán. |
+
 
 ### 1.3. Segmentos objetivo.
 Hemos decidido dividir nuestros segmentos objetivo en dos usuarios objetivos. Estos son las empresas y marcas que demanden servicios de alguien para poder realizar sus eventos y las productas que se encargarán de brindar sus servicios a las empresas.
@@ -447,134 +416,40 @@ El diseño de entrevistas tiene como objetivo validar los supuestos clave del pr
 ### 2.3.2. User Task Matrix.
 
 - Empresas o Marcas:
-  <table border="1" style="text-align: center;">
-	<tbody>
-		<tr>
-			<td colspan="1" rowspan="2">User Tax Matrix</td>
-            <td colspan="2" rowspan="1">Segmento Objetivo 1</td>            
-		</tr>
-		<tr>
-			<td colspan="1">Frecuencia</td>
-            <td colspan="1">Importancia</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Buscar proveedores para eventoss</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Comparar presupuestos y propuestas</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Revisar portafolios y referencias</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Publicar requerimientos para activaciones</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Comunicarse con potenciales proveedores</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Negociar condiciones (presupuesto, plazos, servicios)</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Calificar o dejar feedback tras un evento</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Media</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Gestionar propuestas comerciales de manera organizada</td>
-			<td colspan="1">Quincenal</td>
-            <td colspan="1">Alta</td>            
-		</tr>        
-      <tr>
-			<td colspan="1">Encontrar soluciones rápidas sin depender de contactos informales</td>
-			<td colspan="1">Siempre</td>
-            <td colspan="1">Alta</td>            
-		</tr>        
-      <tr>
-			<td colspan="1">Evaluar calidad antes de contratar</td>
-			<td colspan="1">Simepre</td>
-            <td colspan="1">Alta</td>            
-		</tr>        
-	</tbody>
-</table>
+  
+ | **User Task Matrix**                                             | **Frecuencia** | **Importancia** |
+|------------------------------------------------------------------|----------------|------------------|
+| **Segmento Objetivo 1**                                          |                |                  |
+| Buscar proveedores para eventos                                  | Mensual        | Alta             |
+| Comparar presupuestos y propuestas                               | Mensual        | Alta             |
+| Revisar portafolios y referencias                                | Mensual        | Alta             |
+| Publicar requerimientos para activaciones                        | Mensual        | Alta             |
+| Comunicarse con potenciales proveedores                          | Mensual        | Alta             |
+| Negociar condiciones (presupuesto, plazos, servicios)            | Mensual        | Alta             |
+| Calificar o dejar feedback tras un evento                        | Mensual        | Media            |
+| Gestionar propuestas comerciales de manera organizada            | Quincenal      | Alta             |
+| Encontrar soluciones rápidas sin depender de contactos informales| Siempre        | Alta             |
+| Evaluar calidad antes de contratar                               | Siempre        | Alta             |
 
 - Productoras Especializadas:
-  <table border="1" style="text-align: center;">
-	<tbody>
-		<tr>
-			<td colspan="1" rowspan="2">User Tax Matrix</td>
-            <td colspan="2" rowspan="1">Segmento Objetivo 2</td>            
-		</tr>
-		<tr>
-			<td colspan="1">Frecuencia</td>
-            <td colspan="1">Importancia</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Revisar portafolios y referencias</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Comunicarse con potenciales clientes</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Negociar condiciones (presupuesto, plazos, servicios)</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Calificar o dejar feedback tras un evento</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Difundir portafolio o servicios de producción</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Captar nuevos clientes fuera de su red de contactos</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>
-        <tr>
-			<td colspan="1">Gestionar propuestas comerciales de manera organizada</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>      
-     <tr>
-			<td colspan="1">Asegurar visibilidad en canales digitales formales</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>           
-     <tr>
-			<td colspan="1">Posicionarse como experto en un nicho de eventos</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>           
-     <tr>
-			<td colspan="1">Evitar pérdida de tiempo con clientes no alineados a su especialidad</td>
-			<td colspan="1">Mensual</td>
-            <td colspan="1">Alta</td>            
-		</tr>           
-	</tbody>
-</table>
 
-<h3>Tareas con mayor frecuencia e importancia:</h3>
+| **User Task Matrix**                                            | **Frecuencia** | **Importancia** |
+|-----------------------------------------------------------------|----------------|------------------|
+| **Segmento Objetivo 2**                                         |                |                  |
+| Revisar portafolios y referencias                               | Mensual        | Alta             |
+| Comunicarse con potenciales clientes                            | Mensual        | Alta             |
+| Negociar condiciones (presupuesto, plazos, servicios)           | Mensual        | Alta             |
+| Calificar o dejar feedback tras un evento                       | Mensual        | Alta             |
+| Difundir portafolio o servicios de producción                   | Mensual        | Alta             |
+| Captar nuevos clientes fuera de su red de contactos             | Mensual        | Alta             |
+| Gestionar propuestas comerciales de manera organizada           | Mensual        | Alta             |
+| Asegurar visibilidad en canales digitales formales              | Mensual        | Alta             |
+| Posicionarse como experto en un nicho de eventos                | Mensual        | Alta             |
+| Evitar pérdida de tiempo con clientes no alineados a su especialidad | Mensual    | Alta             |
+
+
+
+#### Tareas con mayor frecuencia e importancia:
 
 -Ambas partes coinciden en que comunicarse, negociar condiciones y revisar referencias o portafolios son tareas de alta frecuencia e importancia. Estas acciones forman parte esencial del proceso previo a la contratación.
 
@@ -582,13 +457,13 @@ El diseño de entrevistas tiene como objetivo validar los supuestos clave del pr
 
 -Para las productoras, resultan críticas las tareas de difundir su portafolio, captar nuevos clientes y asegurar visibilidad digital, todas con alta importancia, aunque con frecuencias variables dependiendo de sus recursos actuales.
 
-<h3>Principales diferencias:</h3>
+#### Principales diferencias:
 
 -Las empresas priorizan encontrar y seleccionar proveedores adecuados, mientras que las productoras se enfocan más en ser encontradas y mostrarse de forma profesional.
 
 -La gestión de propuestas comerciales y la visibilidad en canales digitales tiene una importancia mayor para las productoras, ya que les permite ampliar su alcance y mejorar sus oportunidades comerciales.
 
-<h3>Coincidencias relevantes:</h3>
+#### Coincidencias relevantes:
 
 -Ambas partes valoran la calidad del contacto y la comunicación directa, así como la posibilidad de revisar y comparar propuestas de manera clara y estructurada.
 
@@ -625,88 +500,46 @@ a la hora de utilizar la aplicación actual.
 ![Empathy Mapping Productoras](images/AsIsProductoras.png)
   
 ### 2.4. Ubiquitous Language.
-<p>Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en 
+
+Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en 
 común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear 
-un nexo entre los usuarios y los desarrolladores:</p>
+un nexo entre los usuarios y los desarrolladores:
 
+### Ubiquitous Language – Business Domain Glossary
 
-  <table>
-    <caption>Ubiquitous Language – Business Domain Glossary</caption>
-    <thead>
-      <tr>
-        <th>Term (English)</th>
-        <th>Término (Español)</th>
-        <th>Definition (Spanish)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Brand Activation</td>
-        <td>Activación de Marca</td>
-        <td>Conjunto de acciones que buscan generar una experiencia memorable para el consumidor y conectar emocionalmente con la marca.</td>
-      </tr>
-      <tr>
-        <td>Experiential Marketing</td>
-        <td>Marketing Experiencial</td>
-        <td>Estrategia de marketing que busca involucrar activamente a los consumidores a través de experiencias sensoriales, emocionales o interactivas.</td>
-      </tr>
-      <tr>
-        <td>Production Company</td>
-        <td>Productora</td>
-        <td>Empresa o equipo especializado en la ejecución técnica y creativa de eventos y activaciones de marca.</td>
-      </tr>
-      <tr>
-        <td>Proposal</td>
-        <td>Propuesta</td>
-        <td>Documento o presentación donde una productora describe su solución creativa y operativa para un requerimiento de activación.</td>
-      </tr>
-      <tr>
-        <td>Client Brief</td>
-        <td>Brief del Cliente</td>
-        <td>Documento inicial proporcionado por la empresa donde se detallan los objetivos, público objetivo, presupuesto y expectativas del evento.</td>
-      </tr>
-      <tr>
-        <td>Quote</td>
-        <td>Cotización</td>
-        <td>Estimación económica que presenta una productora para ejecutar un evento, basada en los requerimientos del cliente.</td>
-      </tr>
-      <tr>
-        <td>Portfolio</td>
-        <td>Portafolio</td>
-        <td>Conjunto de trabajos anteriores que muestra la experiencia, estilo y capacidades de una productora.</td>
-      </tr>
-      <tr>
-        <td>Lead</td>
-        <td>Cliente Potencial</td>
-        <td>Empresa o persona interesada en contratar servicios para una activación o evento, que aún no ha concretado una contratación.</td>
-      </tr>
-      <tr>
-        <td>Engagement</td>
-        <td>Interacción / Compromiso</td>
-        <td>Grado de conexión emocional o participación que un consumidor muestra hacia una marca durante una experiencia.</td>
-      </tr>
-      <tr>
-        <td>Event Staffing</td>
-        <td>Personal de Evento</td>
-        <td>Equipo de trabajo contratado para ejecutar tareas específicas en un evento (anfitriones, promotores, técnicos, etc.).</td>
-      </tr>
-    </tbody>
-  </table>
+| **Term (English)**    | **Término (Español)**           | **Definition (Spanish)**                                                                                 |
+|-----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Brand Activation      | Activación de Marca              | Conjunto de acciones que buscan generar una experiencia memorable para el consumidor y conectar emocionalmente con la marca. |
+| Experiential Marketing| Marketing Experiencial           | Estrategia de marketing que busca involucrar activamente a los consumidores a través de experiencias sensoriales, emocionales o interactivas. |
+| Production Company    | Productora                       | Empresa o equipo especializado en la ejecución técnica y creativa de eventos y activaciones de marca.     |
+| Proposal              | Propuesta                        | Documento o presentación donde una productora describe su solución creativa y operativa para un requerimiento de activación. |
+| Client Brief          | Brief del Cliente                | Documento inicial proporcionado por la empresa donde se detallan los objetivos, público objetivo, presupuesto y expectativas del evento. |
+| Quote                 | Cotización                       | Estimación económica que presenta una productora para ejecutar un evento, basada en los requerimientos del cliente. |
+| Portfolio             | Portafolio                       | Conjunto de trabajos anteriores que muestra la experiencia, estilo y capacidades de una productora.       |
+| Lead                  | Cliente Potencial                | Empresa o persona interesada en contratar servicios para una activación o evento, que aún no ha concretado una contratación. |
+| Engagement            | Interacción / Compromiso         | Grado de conexión emocional o participación que un consumidor muestra hacia una marca durante una experiencia. |
+| Event Staffing        | Personal de Evento               | Equipo de trabajo contratado para ejecutar tareas específicas en un evento (anfitriones, promotores, técnicos, etc.). |
+
 
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping.
 **Etapa de Preparación.**
-<br>En esta fase nos enfocamos en definir claramente el objetivo de la herramienta y comprender los perfiles clave de usuario para guiar la construcción del To-Be Scenario Mapping.
+
+En esta fase nos enfocamos en definir claramente el objetivo de la herramienta y comprender los perfiles clave de usuario para guiar la construcción del To-Be Scenario Mapping.
 
 **Objetivo de la plataforma.**
-<br>Facilitar la conexión entre empresas productoras y marcas que requieren servicios de activación o eventos, centralizando el proceso de búsqueda, evaluación, contratación y gestión en un solo entorno.
+
+Facilitar la conexión entre empresas productoras y marcas que requieren servicios de activación o eventos, centralizando el proceso de búsqueda, evaluación, contratación y gestión en un solo entorno.
 
 **Identificación de usuarios clave:**
-<br>1. Gerente de Marketing: Publica solicitudes de eventos y contrata productoras.
-<br>2. Coordinador Comercial: Publica su portafolio y envía propuestas a solicitudes.
+
+1. Gerente de Marketing: Publica solicitudes de eventos y contrata productoras.
+   
+2. Coordinador Comercial: Publica su portafolio y envía propuestas a solicitudes.
 
 **Brainstorming inicial:**
-<br>Cada miembro del equipo propuso ideas desde la perspectiva de uno de los usuarios. Luego, se recogieron las, se analizaron y se seleccionaron las más relevantes para construir el To-Be Scenario Mapping.
+
+Cada miembro del equipo propuso ideas desde la perspectiva de uno de los usuarios. Luego, se recogieron las, se analizaron y se seleccionaron las más relevantes para construir el To-Be Scenario Mapping.
 
 **Brainstorming con perspectiva del Gerente de Marketing:**
 
@@ -725,7 +558,8 @@ Figura 2: Brainstorming con perspectiva del Coordinador Comercial
 En esta figura el equipo realizó un brainstorming desde la perspectiva del Coordinador Comercial, identificando las necesidades y expectativas al utilizar la plataforma. Se discutieron aspectos como la publicación de su portafolio, el envío de propuestas y la gestión de solicitudes.
 
 **Construcción del To-Be Scenario Mapping:**
-<br>Con base en los resultados del brainstorming, se construyó el To-Be Scenario Mapping, que representa la experiencia ideal de los usuarios al interactuar con la plataforma.
+
+Con base en los resultados del brainstorming, se construyó el To-Be Scenario Mapping, que representa la experiencia ideal de los usuarios al interactuar con la plataforma.
 
 **Figura 3: To-Be Scenario Mapping Gerente de Marketing**
 
@@ -738,6 +572,7 @@ En esta figura, se observa el flujo de acciones del Gerente de Marketing al util
 ![To-Be Scenario Mapping](/images/ToBeScenarioMappingCoordinadorComercial.png)
 
 En esta figura, se observa el flujo de acciones del Coordinador Comercial al utilizar la plataforma. Se destacan las etapas de publicación de portafolio, envío de propuestas y gestión de solicitudes.
+
 ### 3.2. User Stories.
 
 **User Stories y Requisitos**
