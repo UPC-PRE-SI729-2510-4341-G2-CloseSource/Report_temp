@@ -815,6 +815,20 @@ Elementos en el diagrama de contenedores:
 
 ![Software Architecture Container Diagrams](/images/containerDiagram.png)
 ### 4.6.3. Software Architecture Components Diagrams.
+
+**Bounded Context Identity and Access:**
+
+Elementos en el diagrama de componentes:
+- Web Application: Aplicación web que permite a los usuarios interactuar con la plataforma.
+- User Controller: Controlador que gestiona las solicitudes de los usuarios y la autenticación.
+- User Service: Servicio que maneja la lógica de negocio relacionada con los usuarios.
+- User Repository: Repositorio que interactúa con la base de datos para almacenar y recuperar información de los usuarios.
+- Database: Base de datos que almacena la información de los usuarios, solicitudes y servicios.
+
+**Figura 8: Bounded Context Identity and Access**
+
+![Bounded Context Identity and Access](/images/identityAndAccessBoundedContext.png)
+
 ### 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
