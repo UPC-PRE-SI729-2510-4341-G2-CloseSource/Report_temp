@@ -853,6 +853,136 @@ Elementos en el diagrama de componentes:
 
 #### 4.7.2. Class Dictionary
 
+A continuación, se presenta el diccionario de clases correspondiente al modelo de datos de la aplicación MatchEvent. Esta sección describe cada clase identificada en el diagrama de clases, incluyendo sus atributos y relaciones con otras entidades.
+
+---
+
+### 📦 Empresa
+- **Descripción**: Representa a una marca o compañía que solicita servicios de activación de eventos.
+- **Atributos**:
+  - `id_empresa: int` – Identificador único de la empresa.
+  - `ruc: string` – Registro Único de Contribuyente.
+  - `razon_social: string` – Nombre legal de la empresa.
+- **Relaciones**:
+  - Tiene múltiples contactos (`Contacto`).
+  - Negocia con múltiples usuarios (`Usuario`).
+
+---
+
+### 🎥 Productora
+- **Descripción**: Empresa o equipo encargado de ofrecer servicios de producción de eventos.
+- **Atributos**:
+  - `id_productora: int` – Identificador único.
+  - `nombre_comercial: string` – Nombre comercial.
+  - `especialidad: string` – Tipo de eventos que realiza.
+- **Relaciones**:
+  - Ofrece uno o más `Servicio`.
+
+---
+
+### 👤 Usuario
+- **Descripción**: Persona que interactúa con la plataforma, ya sea como empresa o como productora.
+- **Atributos**:
+  - `id_usuario: int`
+  - `nombre: string`
+  - `correo: string`
+  - `contrasena: string`
+  - `tipo_usuario: string` – Puede ser "empresa" o "productora".
+- **Relaciones**:
+  - Crea solicitudes (`SolicitudActivacion`).
+  - Envía y recibe mensajes (`Mensaje`).
+  - Puede emitir y recibir calificaciones (`Calificacion`).
+
+---
+
+### 🤝 Contacto
+- **Descripción**: Representa una relación de comunicación entre una empresa y una productora.
+- **Atributos**:
+  - `id_contacto: int`
+  - `fecha_inicio: date`
+  - `estado_contacto: bool` – Indica si el contacto está activo o no.
+- **Relaciones**:
+  - Contiene múltiples `Mensaje`.
+
+---
+
+### 💬 Mensaje
+- **Descripción**: Comunicación entre dos usuarios dentro de un contacto.
+- **Atributos**:
+  - `id_mensaje: int`
+  - `contenido: string`
+  - `fecha_inicio: datetime`
+  - `visto: bool`
+- **Relaciones**:
+  - Pertenece a un `Contacto`.
+
+---
+
+### 📄 SolicitudActivacion
+- **Descripción**: Requerimiento de una empresa para la organización de un evento.
+- **Atributos**:
+  - `id_solicitud: int`
+  - `titulo_evento: string`
+  - `descripcion_evento: string`
+  - `ubicacion: geography`
+  - `fecha_inicio: date`
+  - `fecha_fin: date`
+  - `estado: string`
+- **Relaciones**:
+  - Recibe múltiples `Propuesta`.
+
+---
+
+### 🛠️ Servicio
+- **Descripción**: Servicio que una productora ofrece dentro de la plataforma.
+- **Atributos**:
+  - `id_servicio: int`
+  - `nombre: string`
+  - `descripcion: string`
+  - `precio: money`
+- **Relaciones**:
+  - Puede ser referenciado por múltiples `Propuesta`.
+
+---
+
+### 📦 Propuesta
+- **Descripción**: Oferta enviada por una productora en respuesta a una solicitud de activación.
+- **Atributos**:
+  - `id_propuesta: int`
+  - `descripcion: string`
+  - `precio_ofertado: float`
+  - `fecha_envio: datetime`
+  - `estado_propuesta: string`
+- **Relaciones**:
+  - Referencia un `Servicio`.
+  - Genera un `Evento`.
+
+---
+
+### 🎉 Evento
+- **Descripción**: Activación de marca confirmada que se ejecutará en una fecha determinada.
+- **Atributos**:
+  - `id_evento: int`
+  - `fecha_inicio: datetime`
+  - `fecha_fin: datetime`
+  - `estado: string`
+  - `calificacion: string`
+- **Relaciones**:
+  - Recibe una o más `Calificacion`.
+
+---
+
+### ⭐ Calificacion
+- **Descripción**: Valoración que un usuario hace sobre la experiencia de un evento.
+- **Atributos**:
+  - `id_calificacion: int`
+  - `puntuacion: float`
+  - `comentario: string`
+- **Relaciones**:
+  - Asociada a un `Evento`.
+  - Tiene un `emisor` y un `receptor` (`Usuario`).
+
+---
 
 ### 4.8. Database Design
 
