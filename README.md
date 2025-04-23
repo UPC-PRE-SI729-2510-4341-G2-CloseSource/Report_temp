@@ -132,6 +132,7 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 - [Conclusiones](#conclusiones)
 - [Recomendaciones](#recomendaciones)
 - [Bibliografía:](#bibliografía)
+- [Anexos](#anexos)
 
 ## Student Outcome
 
@@ -1152,7 +1153,7 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
 | US007 | Sección Quienes somos | TS05 | Implementación de la sección Quienes somos | Implementación de la sección "Quienes somos", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
 | US006 | Sección Footer | TS06 | Implementación de la sección Footer | Implementación de la sección "Footer", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
 
-#### **5.2.1.4. Development Evidence for Sprint Review**
+#### **5.2.1.4. Development Evidence for Sprint Review** 
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on date |
 | :---: | :---: | :---: | :---: | ----- | :---: |
@@ -1173,7 +1174,10 @@ Link del video: https://drive.google.com/file/d/1QT8WiIQAVPe5Z7AJdsWeuyWE4_UwQ5E
 
 No se han implementado servicios para el Landing Page, por lo que no se tiene documentación de los servicios. Por otro lado, aún no hemos desarrollado los servicios para el aplicativo web, lo cual haremos en los siguientes sprints.
 
-#### **5.2.1.7. Software Deployment Evidence for Sprint Review.**   
+#### **5.2.1.7. Software Deployment Evidence for Sprint Review.**  
+
+* Link del Landing Page desplegado: https://upc-pre-si729-2510-4341-g2-closesource.github.io/Landing-Page/
+
 ![Deployment](images/deployment1.PNG) 
 ![Deployment](images/deployment2.PNG)
 
@@ -1184,7 +1188,7 @@ No se han implementado servicios para el Landing Page, por lo que no se tiene do
 
 ## **5.3. Video About-The-Team**
 
-Link de la primera exposición: 
+Link del video: 
 > https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318814_upc_edu_pe/EUyvInesFzdJmWMysZ4lPcIByep3N3oj_vODWkoify006w?e=8AGKCA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
@@ -1215,7 +1219,10 @@ Moser, M. (2012). *Estrategias de marketing experiencial aplicadas al retail*. U
 
 Verhelst, L. (2020). *Evolución del marketing experiencial desde la perspectiva de sus principales exponentes*. (Trabajo de grado, Pontificia Universidad Javeriana). Repositorio Institucional PUJ. Recuperado de https://repository.javeriana.edu.co/handle/10554/52760 [Consulta: 16 de abril de 2025]
 
+# Anexos
 
+* Landing Page link: https://upc-pre-si729-2510-4341-g2-closesource.github.io/Landing-Page/
+  
 
 
 
