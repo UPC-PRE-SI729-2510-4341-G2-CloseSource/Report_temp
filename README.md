@@ -54,7 +54,7 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
     - [2.1. Competidores.](#21-competidores)
     - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-    - [2.2. Entrevistas.](#22-entrevistas)
+    - [2.2. .](#22-)
     - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
       - [Objetivos de la entrevista](#objetivos-de-la-entrevista)
       - [Perfil de entrevistados](#perfil-de-entrevistados)
@@ -103,14 +103,30 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
     - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
     - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
     - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams.](#471-class-diagrams)
-    - [4.7.2. Database Diagram](#472-database-diagram)
+      - [4.7.1. Class Diagrams.](#471-class-diagrams)
+      - [4.7.2. Class Dictionary](#472-class-dictionary)
+    - [📦 Empresa](#-empresa)
+    - [🎥 Productora](#-productora)
+    - [👤 Usuario](#-usuario)
+    - [🤝 Contacto](#-contacto)
+    - [💬 Mensaje](#-mensaje)
+    - [📄 SolicitudActivacion](#-solicitudactivacion)
+    - [🛠️ Servicio](#️-servicio)
+    - [📦 Propuesta](#-propuesta)
+    - [🎉 Evento](#-evento)
+    - [⭐ Calificacion](#-calificacion)
+    - [4.8. Database Design](#48-database-design)
+      - [4.8.1 Database Diagram](#481-database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment.](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management.](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
       - [Software Development](#software-development)
     - [5.1.2. Source Code Management.](#512-source-code-management)
     - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+      - [Git \& Github](#git--github)
+      - [HTML](#html)
+      - [CSS](#css)
+      - [JavaScript](#javascript)
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
   - [**5.2. Landing Page, Services \& Applications Implementation**](#52-landing-page-services--applications-implementation)
     - [**5.2.1. Sprint 1**](#521-sprint-1)
@@ -126,6 +142,7 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
 - [Conclusiones](#conclusiones)
 - [Recomendaciones](#recomendaciones)
 - [Bibliografía:](#bibliografía)
+- [Anexos](#anexos)
 
 ## Student Outcome
 
@@ -350,7 +367,7 @@ Para posicionarse de manera efectiva, se plantean las siguientes estrategias dif
 
 7. **Alianzas estratégicas**  
    Establecer convenios con entidades del sector, agencias o plataformas complementarias para potenciar la red de usuarios y aumentar la credibilidad del producto.
-### 2.2. Entrevistas.
+### 2.2. .
 
 ### 2.2.1. Diseño de entrevistas.
 
@@ -407,7 +424,40 @@ El diseño de entrevistas tiene como objetivo validar los supuestos clave del pr
 - Registro de respuestas mediante notas o grabaciones con consentimiento previo.
 
 ### 2.2.2. Registro de entrevistas.
+
+A continuación, se presenta un cuadro con los enlaces a los videos de las entrevistas realizadas a representantes de los dos segmentos objetivo: empresas/marcas y productoras de eventos. Cada enlace lleva a una entrevista individual realizada como parte del proceso de validación de necesidades.
+
+| Nº | Segmento objetivo         | Link de video                                               |
+|----|---------------------------|--------------------------------------------------------------|
+| 1  | Empresa o marca           | [Entrevista 1](https://www.youtube.com/watch?v=X76bS3vwYbI) |
+| 2  | Productora de eventos     | [Entrevista 2](https://www.youtube.com/watch?v=g6iUemJmMIA) |
+| 3  | Empresa o marca           | [Entrevista 3](https://www.youtube.com/watch?v=fKm5kj0AMhY) |
+| 4  | Productora de eventos     | [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/EcmRlg9SH7hMgicVmwNKdlMBPwKH_j_3IHvtCxIKPzyZkg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aS1JAw) |
+| 5  | Empresa o marca           | [Entrevista 5](https://www.youtube.com/watch?v=xxxxxxxxxxx) |
+| 6  | Productora de eventos     | [Entrevista 6](https://www.youtube.com/watch?v=xxxxxxxxxxx) |
+
+---
+
 ### 2.2.3. Análisis de entrevistas.
+
+**Entrevista 1 – Empresa o marca**  
+En esta entrevista, se identificó al entrevistado como representante del segmento objetivo de empresas o marcas, confirmando su rol al hablar sobre la organización de eventos como lanzamientos de productos y aniversarios. A lo largo de la conversación, se evidenciaron diversas necesidades clave: dificultad para encontrar proveedores confiables, poca transparencia al evaluar experiencias previas y falta de canales centralizados para comparar propuestas. Asimismo, valoró la posibilidad de contar con una plataforma que permita visualizar portafolios, leer testimonios y comunicarse directamente con las productoras. Esta información valida de manera directa los supuestos planteados en el diseño de MatchEvent y respalda funcionalidades esenciales como la comparación de propuestas, el sistema de calificaciones y la mensajería integrada.
+
+**Entrevista 2 – Productora de eventos**  
+En esta entrevista, la participante representa al segmento de productoras de eventos, especializadas en activaciones de marca y eventos corporativos. Actualmente consigue clientes por recomendaciones y redes sociales, pero identifica como reto la falta de visibilidad y diferenciación en un mercado competitivo. Señala la necesidad de una plataforma que permita mostrar un portafolio completo, recibir reseñas, contactar directamente con empresas y filtrar proyectos por tipo de evento. Además, valora que la plataforma funcione como una comunidad confiable, donde se priorice la calidad y se generen oportunidades reales. Sus respuestas validan las funcionalidades clave de MatchEvent enfocadas en reputación, especialización y conexión directa.
+
+**Entrevista 3 – Empresa o marca**  
+En esta entrevista, el gerente Henry, representante de la empresa Tutus, forma parte del segmento objetivo de empresas o marcas. Su empresa organiza activaciones de marca y lanzamientos de productos de forma recurrente, especialmente en campañas clave. Identifica como principales dificultades la falta de referencias confiables, problemas de puntualidad y presupuestos poco claros al contratar productoras. Valora especialmente una plataforma que permita comparar opciones, ver opiniones de clientes, revisar portafolios y precios estimados, además de facilitar la comunicación directa. También comparte una experiencia negativa relacionada con subcontratación sin aviso, lo que refuerza la necesidad de transparencia. Su interés en interactuar directamente con proveedores y contar con reseñas valida funcionalidades clave de MatchEvent, como perfiles detallados, filtros de búsqueda y mensajería integrada.
+
+**Entrevista 4 – Productora de eventos**  
+La entrevistada representa a una joven productora de eventos con conocimientos tecnológicos básicos, lo que sugiere que la plataforma debe ser accesible y compatible con sistemas comunes como Windows, Android y Google Chrome. Su principal desafío es la baja visibilidad frente a competidores, a pesar de usar redes sociales como Instagram y WhatsApp. Destaca la necesidad de una herramienta que le permita presentar su portafolio de forma profesional. Además, depende del boca a boca para captar clientes, por lo que valora un sistema de reseñas. Está dispuesta a especializarse en un tipo de evento si eso mejora su posicionamiento, lo cual respalda la inclusión de filtros por nicho. Finalmente, espera que la plataforma sea transparente, útil y que facilite la gestión de su trabajo, reforzando la importancia de crear una solución práctica y orientada al valor profesional.
+
+**Entrevista 5 – Empresa o marca**  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, elit vel fermentum tincidunt, ligula libero ultrices diam, et pretium lectus erat id urna. Duis sagittis nec sapien ac dapibus. Sed tristique sem sed sem ultrices, ac finibus nunc eleifend.
+
+**Entrevista 6 – Productora de eventos**  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien ac diam imperdiet lacinia. Sed luctus justo non lorem pharetra, in finibus magna pulvinar. Vivamus convallis purus ac velit tincidunt, ac dictum justo convallis.
+
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ![image](https://github.com/user-attachments/assets/fe96f6a1-973b-47ee-9210-12bd43ef37c3)
@@ -446,8 +496,6 @@ El diseño de entrevistas tiene como objetivo validar los supuestos clave del pr
 | Asegurar visibilidad en canales digitales formales              | Mensual        | Alta             |
 | Posicionarse como experto en un nicho de eventos                | Mensual        | Alta             |
 | Evitar pérdida de tiempo con clientes no alineados a su especialidad | Mensual    | Alta             |
-
-
 
 #### Tareas con mayor frecuencia e importancia:
 
@@ -601,6 +649,15 @@ A continuación, se presentan los Epics y User Stories que cubren los requisitos
 | US013           | Contactar a productora desde su perfil          | Como Empresa o marca, quiero poder contactar a una productora desde su perfil, para coordinar los detalles de una posible contratación.                  | - Given que soy una empresa autenticada, When visualizo el perfil de una productora, Then puedo acceder a una opción para iniciar contacto. - Given que inicio un contacto, When la productora recibe la solicitud, Then ambas partes podemos iniciar una negociación.                            | EP004                     |
 | US014           | Contactar a empresa desde una solicitud         | Como Productora especializada, quiero poder contactar a una empresa desde su solicitud de activación, para ofrecer mis servicios y obtener más detalles. | - Given que soy una productora autenticada, When visualizo una solicitud publicada, Then puedo acceder a una opción para iniciar contacto con la empresa. <br> - Given que inicio un contacto, When la empresa recibe la solicitud, Then ambas partes podemos iniciar una negociación.            | EP004                     |
 | US015           | Sistema de mensajería interna                   | Como usuario autenticado, quiero contar con una mensajería dentro de la plataforma, para comunicarme con otras empresas de forma segura y centralizada.  | - Given que estoy autenticado, When accedo a una conversación activa, Then puedo enviar y recibir mensajes. <br> - Given que recibo un nuevo mensaje, When ingreso a la plataforma, Then puedo ver notificaciones en tiempo real o al iniciar sesión.                                             | EP004                     |
+
+**Épicas**
+
+| Epic ID | Título                                      |
+|---------|----------------------------------------------|
+| EP001   | Gestión de solicitudes de activación        |
+| EP002   | Gestión de portafolios de servicios         |
+| EP003   | Landing Page informativa                    |
+| EP004   | Personalización según rol del usuario      |
 
 ### 3.3. Impact Mapping.
 
@@ -768,6 +825,7 @@ En esta sección se explica qué medios de ayuda se brindará al usuario para la
     - Enlaces internos: Habrán enlaces internos tanto en el header como en el footer, que se encargarán de llevar al usuario a diversas partes de la landing page o a lugares externos, como por ejemplo, un link a la red social de la startup.
     
     - Palabras destacadas: Algunas palabras estarán resaltadas en negrita o con un tamaño de letra más grande, que resaltará palabras clave.
+    - 
 ### 4.2.5. Navigation Systems.
 En esta sección se explicará cuáles serán las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones, permitiéndoles cumplir sus metas e interactuar de forma satisfactoria con el producto.
   - **Sistemas de navegación para la Landing Page**
@@ -809,6 +867,7 @@ En esta sección se explicará cuáles serán las acciones y técnicas que guiar
 ![Imagen de WhatsApp 2025-04-23 a las 18 33 07_2df65abb](https://github.com/user-attachments/assets/1727a0c9-7cd6-4305-b36b-d63fd2ed2b35)
 ![Imagen de WhatsApp 2025-04-23 a las 18 33 08_6f6afaee](https://github.com/user-attachments/assets/31a1857c-4a80-4db5-bb4d-dff8d028b474)
 ### 4.4.3. Web Applications User Flow Diagrams.
+![Imagen de WhatsApp 2025-04-23 a las 18 33 08_6f6afaee](/images/wireflow1.png)
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 Domain-Driven software architecture es un enfoque de diseño de software que se centra en la creación de un modelo conceptual del dominio del problema, permitiendo una mejor comprensión y comunicación entre los desarrolladores y los expertos en el dominio. Este enfoque ayuda a alinear el diseño del software con las necesidades del negocio y a crear una arquitectura más flexible y mantenible.
@@ -835,8 +894,9 @@ Elementos en el diagrama de contenedores:
 **Figura 7: Software Architecture Container Diagrams**
 
 ![Software Architecture Container Diagrams](/images/containerDiagram.png)
-### 4.6.3. Software Architecture Components Diagrams.
 
+![Software Architecture Container Diagrams](/images/containerDiagram2.png)
+### 4.6.3. Software Architecture Components Diagrams.
 **Bounded Context Identity and Access:**
 
 Elementos en el diagrama de componentes:
@@ -850,11 +910,207 @@ Elementos en el diagrama de componentes:
 
 ![Bounded Context Identity and Access](/images/identityAndAccessBoundedContext.png)
 
+**Bounded Context Activation Request**
+
+Responsabilidad:
+
+- Creación de solicitudes de activación
+- Edición o eliminación
+- Listado de solicitudes
+- Visualización de detalles de una solicitud
+
+**Figura 9: Bounded Activation Request** 
+
+![Bounded Context Activation Request](/images/activationRequestsBoundedContext.png)
+
+**Bounded Context Activation Quotes**
+
+Responsabilidad:
+- Permitir a una productora enviar una propuesta para una solicitud publicada.
+- Listar propuestas enviadas por cada productora.
+- Posible relación con estados: "enviada", "aceptada", "rechazada".
+
+**Figura 10: Bounded Context Activation Quotes**
+
+![Bounded Context Activation Quotes](/images/activationQuotesBoundedContext.png)
+
+**Bounded Context Activation Management**
+
+Responsabilidad:
+
+- Ver el historial de activaciones (mis activaciones)
+- Ver detalles de cada activación.
+- Cambiar estado: "en curso", "finalizada", "cancelada".
+
+**Figura 11: Bounded Context Activation Management**
+
+![Bounded Context Activation Management](/images/activationManagementBoundedContext.png)
+
+**Bounded Context Portafolio Management**
+
+Responsabilidad:
+- Permitir a una productora registrar y editar su portafolio de servicios.
+- Cada servicio podría tener: nombre, descripción, categoría, precio, etc.
+- Mostrar estos servicios como parte del perfil público de la productora.
+
+**Figura 12: Bounded Context Portafolio Management**
+
+![Bounded Context Portafolio Management](/images/portafolioManagementBoundedContext.png)
+
+**Bounded Context Providers**
+
+Responsabilidad:
+
+- Buscar productoras por nombre, categoría, tags, ubicación, etc.
+- Visualizar perfil público de una productora
+- Filtros
+
+**Figura 13: Bounded Context Providers**
+
+![Bounded Context Providers](/images/providersBoundedContext.png)
+
 ### 4.7. Software Object-Oriented Design.
 
-### 4.7.1. Class Diagrams.
+#### 4.7.1. Class Diagrams.
 ![diagrama-clases](https://github.com/user-attachments/assets/380e381a-ebbe-4255-9195-99cd121cb86e)
-### 4.7.2. Database Diagram
+
+#### 4.7.2. Class Dictionary
+
+A continuación, se presenta el diccionario de clases correspondiente al modelo de datos de la aplicación MatchEvent. Esta sección describe cada clase identificada en el diagrama de clases, incluyendo sus atributos y relaciones con otras entidades.
+
+---
+
+### 📦 Empresa
+- **Descripción**: Representa a una marca o compañía que solicita servicios de activación de eventos.
+- **Atributos**:
+  - `id_empresa: int` – Identificador único de la empresa.
+  - `ruc: string` – Registro Único de Contribuyente.
+  - `razon_social: string` – Nombre legal de la empresa.
+- **Relaciones**:
+  - Tiene múltiples contactos (`Contacto`).
+  - Negocia con múltiples usuarios (`Usuario`).
+
+---
+
+### 🎥 Productora
+- **Descripción**: Empresa o equipo encargado de ofrecer servicios de producción de eventos.
+- **Atributos**:
+  - `id_productora: int` – Identificador único.
+  - `nombre_comercial: string` – Nombre comercial.
+  - `especialidad: string` – Tipo de eventos que realiza.
+- **Relaciones**:
+  - Ofrece uno o más `Servicio`.
+
+---
+
+### 👤 Usuario
+- **Descripción**: Persona que interactúa con la plataforma, ya sea como empresa o como productora.
+- **Atributos**:
+  - `id_usuario: int`
+  - `nombre: string`
+  - `correo: string`
+  - `contrasena: string`
+  - `tipo_usuario: string` – Puede ser "empresa" o "productora".
+- **Relaciones**:
+  - Crea solicitudes (`SolicitudActivacion`).
+  - Envía y recibe mensajes (`Mensaje`).
+  - Puede emitir y recibir calificaciones (`Calificacion`).
+
+---
+
+### 🤝 Contacto
+- **Descripción**: Representa una relación de comunicación entre una empresa y una productora.
+- **Atributos**:
+  - `id_contacto: int`
+  - `fecha_inicio: date`
+  - `estado_contacto: bool` – Indica si el contacto está activo o no.
+- **Relaciones**:
+  - Contiene múltiples `Mensaje`.
+
+---
+
+### 💬 Mensaje
+- **Descripción**: Comunicación entre dos usuarios dentro de un contacto.
+- **Atributos**:
+  - `id_mensaje: int`
+  - `contenido: string`
+  - `fecha_inicio: datetime`
+  - `visto: bool`
+- **Relaciones**:
+  - Pertenece a un `Contacto`.
+
+---
+
+### 📄 SolicitudActivacion
+- **Descripción**: Requerimiento de una empresa para la organización de un evento.
+- **Atributos**:
+  - `id_solicitud: int`
+  - `titulo_evento: string`
+  - `descripcion_evento: string`
+  - `ubicacion: geography`
+  - `fecha_inicio: date`
+  - `fecha_fin: date`
+  - `estado: string`
+- **Relaciones**:
+  - Recibe múltiples `Propuesta`.
+
+---
+
+### 🛠️ Servicio
+- **Descripción**: Servicio que una productora ofrece dentro de la plataforma.
+- **Atributos**:
+  - `id_servicio: int`
+  - `nombre: string`
+  - `descripcion: string`
+  - `precio: money`
+- **Relaciones**:
+  - Puede ser referenciado por múltiples `Propuesta`.
+
+---
+
+### 📦 Propuesta
+- **Descripción**: Oferta enviada por una productora en respuesta a una solicitud de activación.
+- **Atributos**:
+  - `id_propuesta: int`
+  - `descripcion: string`
+  - `precio_ofertado: float`
+  - `fecha_envio: datetime`
+  - `estado_propuesta: string`
+- **Relaciones**:
+  - Referencia un `Servicio`.
+  - Genera un `Evento`.
+
+---
+
+### 🎉 Evento
+- **Descripción**: Activación de marca confirmada que se ejecutará en una fecha determinada.
+- **Atributos**:
+  - `id_evento: int`
+  - `fecha_inicio: datetime`
+  - `fecha_fin: datetime`
+  - `estado: string`
+  - `calificacion: string`
+- **Relaciones**:
+  - Recibe una o más `Calificacion`.
+
+---
+
+### ⭐ Calificacion
+- **Descripción**: Valoración que un usuario hace sobre la experiencia de un evento.
+- **Atributos**:
+  - `id_calificacion: int`
+  - `puntuacion: float`
+  - `comentario: string`
+- **Relaciones**:
+  - Asociada a un `Evento`.
+  - Tiene un `emisor` y un `receptor` (`Usuario`).
+
+---
+
+### 4.8. Database Design
+
+#### 4.8.1 Database Diagram
+
 ![Database](images/diagram_database.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment.
@@ -930,6 +1186,8 @@ Cada nueva característica se desarrolla en una rama separada, que se crea a par
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+#### Git & Github
+
 En relación con las convenciones de programación, utilizaremos los estilos camelCase y UpperCamelCase según corresponda. También seguiremos las pautas de la "Guía de Estilo HTML/CSS de Google" para garantizar una codificación consistente en HTML y CSS.
 
 Para el control de versiones, adoptaremos la metodología de "conventional commits" en la creación de ramas y en los mensajes de commit. Las ramas se nombrarán siguiendo el formato < type >/< title >, mientras que los mensajes de commit seguirán el patrón < type >(scope opcional):< descripción >. Algunos ejemplos serían:
@@ -945,6 +1203,173 @@ Para el control de versiones relacionado con el Report, implementaremos una lige
     Commit: feat: final report structure implemented
 
 En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicará crear ramas de características (feature branches) con la nomenclatura establecida. La rama principal será main, donde se almacenará la versión estable y en producción de la aplicación. Las ramas de características y correcciones se fusionarán eventualmente con la rama main, mientras que, durante el proceso de desarrollo, se integrarán primero en la rama develop hasta que se logre la versión final.
+
+#### HTML
+
+* Uso de etiquetas en minúsculas (Lowercase)
+
+    Es recomendable escribir los nombres de las etiquetas HTML utilizando solo letras minúsculas. Este enfoque mejora la claridad del código y evita posibles errores en navegadores más estrictos.
+
+    ```
+    <body>
+    <p>This is a paragraph</p>
+    <body>
+    ```
+
+* Cierre adecuado de etiquetas
+
+    Es una buena práctica cerrar explícitamente todas las etiquetas HTML, incluso aquellas que podrían parecer opcionales. Esto asegura un mejor mantenimiento y compatibilidad del documento.
+
+    ```
+    <body>
+    <p>This is a paragraph</p>
+    <p>This is another paragraph</p>
+    <body>
+    ```
+
+* Nombres de atributos en minúsculas
+
+    Los atributos dentro de las etiquetas deben estar en minúsculas para mantener uniformidad y asegurar compatibilidad con estándares actuales.
+
+    ```
+    <a href="https://www.w3schools.com/html/">Visit our HTMLtutorial</a>
+    ```
+
+* Definir alt, width y height en imágenes
+
+    Siempre que se utilicen imágenes, es fundamental especificar los atributos alt, width y height. Esto favorece la accesibilidad, optimiza el rendimiento y mantiene el diseño estable incluso si la imagen no se carga.
+
+    ```
+    <img src="html5.gif" alt="HTML5"
+    style="width:128px;height:128px">
+    ```
+
+* Evitar espacios innecesarios en atributos
+  
+    Al declarar atributos dentro de las etiquetas, se recomienda no dejar espacios alrededor del signo igual. Esto contribuye a que el código sea más limpio y fácil de entender.
+
+    ```
+    <link rel="stylesheet" href="styles.css">
+    ```
+* Principales etiquetas utilizadas en el proyecto
+
+    Durante la construcción del sitio web, se aplicaron diversas etiquetas HTML para organizar el contenido de forma estructurada:
+
+    - header: Define la sección inicial del sitio, normalmente incluye elementos como el logo o la barra de búsqueda.
+
+    - nav: Es usada para definir bloques de navegación del sitio, como menús o enlaces internos.
+
+    - div: Permite agrupar elementos y aplicar estilos específicos a cada sección de la página.
+
+    - img: Inserta imágenes en el contenido. Fue utilizada repetidamente en distintas secciones visuales.
+
+    - ul: Crea listas no ordenadas. En este caso, se empleó principalmente para menús de navegación.
+
+    - li: Define cada elemento dentro de una lista. Se usó tanto en los menús como en otras secciones como el blog.
+
+    - a: Se utiliza para insertar enlaces que permiten navegar dentro del sitio o hacia sitios externos.
+
+    - p: Sección utilizada para organizar y presentar el texto en párrafos.
+
+    - button: Representa botones que el usuario puede pulsar para ejecutar acciones.
+
+    - h1 a h4: Se usaron para definir títulos jerárquicos desde el nivel más importante (h1) hasta subniveles (h4).
+
+#### CSS
+
+* Nombres descriptivos para clases e IDs
+
+  Es preferible usar nombres significativos para identificar elementos mediante clases e IDs. Esto hace que el código sea más entendible tanto para el autor como para otros desarrolladores.
+
+  ```
+  #gallery {}
+  #register {}
+  .video {}
+  ```
+
+
+* Estilo de nombres para clases e IDs
+
+  Los nombres deben ser breves, pero lo suficientemente claros como para expresar la función del elemento al que se aplican.
+
+  ```
+  #nav {}
+  .author {}
+  ```
+
+* Uso de propiedades Shorthand
+
+  Se recomienda emplear la forma abreviada de las propiedades CSS siempre que sea posible. Esto ayuda a reducir el tamaño del archivo y hace el código más eficiente.
+
+  ```
+  border-top: 0;
+  font: 100%/1.6 palatino, georgia, serif;
+  padding: 0 1em 2em;
+  ```
+
+* 0 and Units
+
+  Cuando una propiedad tiene valor 0, no es necesario especificar la unidad (como px o %). Omitirla mejora la limpieza del código.
+
+  ```
+  margin: 0;
+  padding: 0;
+  ```
+
+
+* Orden alfabético en declaraciones
+
+  Organizar las declaraciones de estilos CSS en orden alfabético facilita la lectura y el mantenimiento, especialmente en hojas de estilo extensas.
+
+  ```
+  background: fuchsia;
+  border: 1px solid;
+  border-radius: 4px;
+  color: black;
+  ```
+
+#### JavaScript
+
+* Sintaxis expandida
+
+  Se sugiere estructurar el código JavaScript de forma clara, con una instrucción por línea. Las llaves de apertura deben ir en la misma línea que la declaración de la función, y las de cierre en una nueva línea posterior.
+
+  ```
+  function example() {
+  console.log('Hello developer!');
+  };
+  ```
+
+* Convención para nombrar variables
+
+  Para nombrar variables se recomienda seguir el estilo lowerCamelCase, donde la primera palabra comienza en minúscula y las siguientes con mayúscula.
+
+  ```
+  let sumTwoNumbers = 0;
+  let firstNumber = subNumber1 + subNumber2;
+  ```
+
+* Declaración de variables con let y const
+
+  Es preferible utilizar let y const para definir variables, en lugar de var, ya que ofrecen un mayor control sobre el ámbito y el comportamiento de las mismas.
+
+  ```
+  const Name = 'Ethan';
+  console.log(Name);
+  let currentAge = '20';
+  currentAge++;
+  console.log('Happy birthday to you!');
+  ```
+
+* Convención para nombrar funciones
+
+  Las funciones también deben seguir el formato lowerCamelCase, ayudando a mantener la consistencia con los nombres de las variables.
+
+  ```
+  function sayBye() {
+  alert('Bye!');
+  };
+  ```
 
 ### 5.1.4. Software Deployment Configuration.
 
@@ -990,7 +1415,7 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
 | US007 | Sección Quienes somos | TS05 | Implementación de la sección Quienes somos | Implementación de la sección "Quienes somos", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
 | US006 | Sección Footer | TS06 | Implementación de la sección Footer | Implementación de la sección "Footer", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
 
-#### **5.2.1.4. Development Evidence for Sprint Review**
+#### **5.2.1.4. Development Evidence for Sprint Review** 
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on date |
 | :---: | :---: | :---: | :---: | ----- | :---: |
@@ -1011,7 +1436,10 @@ Link del video: https://drive.google.com/file/d/1QT8WiIQAVPe5Z7AJdsWeuyWE4_UwQ5E
 
 No se han implementado servicios para el Landing Page, por lo que no se tiene documentación de los servicios. Por otro lado, aún no hemos desarrollado los servicios para el aplicativo web, lo cual haremos en los siguientes sprints.
 
-#### **5.2.1.7. Software Deployment Evidence for Sprint Review.**   
+#### **5.2.1.7. Software Deployment Evidence for Sprint Review.**  
+
+* Link del Landing Page desplegado: https://upc-pre-si729-2510-4341-g2-closesource.github.io/Landing-Page/
+
 ![Deployment](images/deployment1.PNG) 
 ![Deployment](images/deployment2.PNG)
 
@@ -1022,7 +1450,7 @@ No se han implementado servicios para el Landing Page, por lo que no se tiene do
 
 ## **5.3. Video About-The-Team**
 
-Link de la primera exposición: 
+Link del video: 
 > https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318814_upc_edu_pe/EUyvInesFzdJmWMysZ4lPcIByep3N3oj_vODWkoify006w?e=8AGKCA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
@@ -1053,7 +1481,10 @@ Moser, M. (2012). *Estrategias de marketing experiencial aplicadas al retail*. U
 
 Verhelst, L. (2020). *Evolución del marketing experiencial desde la perspectiva de sus principales exponentes*. (Trabajo de grado, Pontificia Universidad Javeriana). Repositorio Institucional PUJ. Recuperado de https://repository.javeriana.edu.co/handle/10554/52760 [Consulta: 16 de abril de 2025]
 
+# Anexos
 
+* Landing Page link: https://upc-pre-si729-2510-4341-g2-closesource.github.io/Landing-Page/
+  
 
 
 
