@@ -421,10 +421,10 @@ A continuación, se presenta un cuadro con los enlaces a los videos de las entre
 |----|---------------------------|--------------------------------------------------------------|
 | 1  | Empresa o marca           | [Entrevista 1](https://www.youtube.com/watch?v=X76bS3vwYbI) |
 | 2  | Productora de eventos     | [Entrevista 2](https://www.youtube.com/watch?v=g6iUemJmMIA) |
-| 3  | Empresa o marca           | [Entrevista 3](https://www.youtube.com/watch?v=X76bS3vwYbI) |
-| 4  | Productora de eventos     | [Entrevista 4](https://www.youtube.com/watch?v=X76bS3vwYbI) |
-| 5  | Empresa o marca           | [Entrevista 5](https://www.youtube.com/watch?v=X76bS3vwYbI) |
-| 6  | Productora de eventos     | [Entrevista 6](https://www.youtube.com/watch?v=X76bS3vwYbI) |
+| 3  | Empresa o marca           | [Entrevista 3](https://www.youtube.com/watch?v=xxxxxxxxxxx) |
+| 4  | Productora de eventos     | [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/EcmRlg9SH7hMgicVmwNKdlMBPwKH_j_3IHvtCxIKPzyZkg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aS1JAw) |
+| 5  | Empresa o marca           | [Entrevista 5](https://www.youtube.com/watch?v=xxxxxxxxxxx) |
+| 6  | Productora de eventos     | [Entrevista 6](https://www.youtube.com/watch?v=xxxxxxxxxxx) |
 
 ---
 
@@ -440,7 +440,7 @@ En esta entrevista, la participante representa al segmento de productoras de eve
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum lorem sit amet turpis placerat, sed mattis lacus scelerisque. Etiam a mauris a velit euismod bibendum. Nulla non porttitor velit. Morbi ac justo eget erat tincidunt sodales.
 
 **Entrevista 4 – Productora de eventos**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porta laoreet nisi, at posuere massa ultricies nec. Mauris ullamcorper mauris nec tortor ultrices dapibus. Curabitur mattis nisl a risus fermentum, a blandit lacus pulvinar.
+La entrevistada representa a una joven productora de eventos con conocimientos tecnológicos básicos, lo que sugiere que la plataforma debe ser accesible y compatible con sistemas comunes como Windows, Android y Google Chrome. Su principal desafío es la baja visibilidad frente a competidores, a pesar de usar redes sociales como Instagram y WhatsApp. Destaca la necesidad de una herramienta que le permita presentar su portafolio de forma profesional. Además, depende del boca a boca para captar clientes, por lo que valora un sistema de reseñas. Está dispuesta a especializarse en un tipo de evento si eso mejora su posicionamiento, lo cual respalda la inclusión de filtros por nicho. Finalmente, espera que la plataforma sea transparente, útil y que facilite la gestión de su trabajo, reforzando la importancia de crear una solución práctica y orientada al valor profesional.
 
 **Entrevista 5 – Empresa o marca**  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, elit vel fermentum tincidunt, ligula libero ultrices diam, et pretium lectus erat id urna. Duis sagittis nec sapien ac dapibus. Sed tristique sem sed sem ultrices, ac finibus nunc eleifend.
