@@ -103,14 +103,20 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
     - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
     - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
     - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams.](#471-class-diagrams)
-    - [4.7.2. Database Diagram](#472-database-diagram)
+      - [4.7.1. Class Diagrams.](#471-class-diagrams)
+      - [4.7.2. Class Dictionary](#472-class-dictionary)
+    - [4.8. Database Design](#48-database-design)
+      - [4.8.1 Database Diagram](#481-database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment.](#capítulo-v-product-implementation-validation--deployment)
   - [5.1. Software Configuration Management.](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
       - [Software Development](#software-development)
     - [5.1.2. Source Code Management.](#512-source-code-management)
     - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+      - [Git \& Github](#git--github)
+      - [HTML](#html)
+      - [CSS](#css)
+      - [JavaScript](#javascript)
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
   - [**5.2. Landing Page, Services \& Applications Implementation**](#52-landing-page-services--applications-implementation)
     - [**5.2.1. Sprint 1**](#521-sprint-1)
@@ -768,6 +774,7 @@ En esta sección se explica qué medios de ayuda se brindará al usuario para la
     - Enlaces internos: Habrán enlaces internos tanto en el header como en el footer, que se encargarán de llevar al usuario a diversas partes de la landing page o a lugares externos, como por ejemplo, un link a la red social de la startup.
     
     - Palabras destacadas: Algunas palabras estarán resaltadas en negrita o con un tamaño de letra más grande, que resaltará palabras clave.
+    - 
 ### 4.2.5. Navigation Systems.
 En esta sección se explicará cuáles serán las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones, permitiéndoles cumplir sus metas e interactuar de forma satisfactoria con el producto.
   - **Sistemas de navegación para la Landing Page**
@@ -831,9 +838,16 @@ Elementos en el diagrama de componentes:
 
 ### 4.7. Software Object-Oriented Design.
 
-### 4.7.1. Class Diagrams.
+#### 4.7.1. Class Diagrams.
 ![diagrama-clases](https://github.com/user-attachments/assets/380e381a-ebbe-4255-9195-99cd121cb86e)
-### 4.7.2. Database Diagram
+
+#### 4.7.2. Class Dictionary
+
+
+### 4.8. Database Design
+
+#### 4.8.1 Database Diagram
+
 ![Database](images/diagram_database.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment.
@@ -909,6 +923,8 @@ Cada nueva característica se desarrolla en una rama separada, que se crea a par
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+#### Git & Github
+
 En relación con las convenciones de programación, utilizaremos los estilos camelCase y UpperCamelCase según corresponda. También seguiremos las pautas de la "Guía de Estilo HTML/CSS de Google" para garantizar una codificación consistente en HTML y CSS.
 
 Para el control de versiones, adoptaremos la metodología de "conventional commits" en la creación de ramas y en los mensajes de commit. Las ramas se nombrarán siguiendo el formato < type >/< title >, mientras que los mensajes de commit seguirán el patrón < type >(scope opcional):< descripción >. Algunos ejemplos serían:
@@ -924,6 +940,173 @@ Para el control de versiones relacionado con el Report, implementaremos una lige
     Commit: feat: final report structure implemented
 
 En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicará crear ramas de características (feature branches) con la nomenclatura establecida. La rama principal será main, donde se almacenará la versión estable y en producción de la aplicación. Las ramas de características y correcciones se fusionarán eventualmente con la rama main, mientras que, durante el proceso de desarrollo, se integrarán primero en la rama develop hasta que se logre la versión final.
+
+#### HTML
+
+* Uso de etiquetas en minúsculas (Lowercase)
+
+    Es recomendable escribir los nombres de las etiquetas HTML utilizando solo letras minúsculas. Este enfoque mejora la claridad del código y evita posibles errores en navegadores más estrictos.
+
+    ```
+    <body>
+    <p>This is a paragraph</p>
+    <body>
+    ```
+
+* Cierre adecuado de etiquetas
+
+    Es una buena práctica cerrar explícitamente todas las etiquetas HTML, incluso aquellas que podrían parecer opcionales. Esto asegura un mejor mantenimiento y compatibilidad del documento.
+
+    ```
+    <body>
+    <p>This is a paragraph</p>
+    <p>This is another paragraph</p>
+    <body>
+    ```
+
+* Nombres de atributos en minúsculas
+
+    Los atributos dentro de las etiquetas deben estar en minúsculas para mantener uniformidad y asegurar compatibilidad con estándares actuales.
+
+    ```
+    <a href="https://www.w3schools.com/html/">Visit our HTMLtutorial</a>
+    ```
+
+* Definir alt, width y height en imágenes
+
+    Siempre que se utilicen imágenes, es fundamental especificar los atributos alt, width y height. Esto favorece la accesibilidad, optimiza el rendimiento y mantiene el diseño estable incluso si la imagen no se carga.
+
+    ```
+    <img src="html5.gif" alt="HTML5"
+    style="width:128px;height:128px">
+    ```
+
+* Evitar espacios innecesarios en atributos
+  
+    Al declarar atributos dentro de las etiquetas, se recomienda no dejar espacios alrededor del signo igual. Esto contribuye a que el código sea más limpio y fácil de entender.
+
+    ```
+    <link rel="stylesheet" href="styles.css">
+    ```
+* Principales etiquetas utilizadas en el proyecto
+
+    Durante la construcción del sitio web, se aplicaron diversas etiquetas HTML para organizar el contenido de forma estructurada:
+
+    - header: Define la sección inicial del sitio, normalmente incluye elementos como el logo o la barra de búsqueda.
+
+    - nav: Es usada para definir bloques de navegación del sitio, como menús o enlaces internos.
+
+    - div: Permite agrupar elementos y aplicar estilos específicos a cada sección de la página.
+
+    - img: Inserta imágenes en el contenido. Fue utilizada repetidamente en distintas secciones visuales.
+
+    - ul: Crea listas no ordenadas. En este caso, se empleó principalmente para menús de navegación.
+
+    - li: Define cada elemento dentro de una lista. Se usó tanto en los menús como en otras secciones como el blog.
+
+    - a: Se utiliza para insertar enlaces que permiten navegar dentro del sitio o hacia sitios externos.
+
+    - p: Sección utilizada para organizar y presentar el texto en párrafos.
+
+    - button: Representa botones que el usuario puede pulsar para ejecutar acciones.
+
+    - h1 a h4: Se usaron para definir títulos jerárquicos desde el nivel más importante (h1) hasta subniveles (h4).
+
+#### CSS
+
+* Nombres descriptivos para clases e IDs
+
+  Es preferible usar nombres significativos para identificar elementos mediante clases e IDs. Esto hace que el código sea más entendible tanto para el autor como para otros desarrolladores.
+
+  ```
+  #gallery {}
+  #register {}
+  .video {}
+  ```
+
+
+* Estilo de nombres para clases e IDs
+
+  Los nombres deben ser breves, pero lo suficientemente claros como para expresar la función del elemento al que se aplican.
+
+  ```
+  #nav {}
+  .author {}
+  ```
+
+* Uso de propiedades Shorthand
+
+  Se recomienda emplear la forma abreviada de las propiedades CSS siempre que sea posible. Esto ayuda a reducir el tamaño del archivo y hace el código más eficiente.
+
+  ```
+  border-top: 0;
+  font: 100%/1.6 palatino, georgia, serif;
+  padding: 0 1em 2em;
+  ```
+
+* 0 and Units
+
+  Cuando una propiedad tiene valor 0, no es necesario especificar la unidad (como px o %). Omitirla mejora la limpieza del código.
+
+  ```
+  margin: 0;
+  padding: 0;
+  ```
+
+
+* Orden alfabético en declaraciones
+
+  Organizar las declaraciones de estilos CSS en orden alfabético facilita la lectura y el mantenimiento, especialmente en hojas de estilo extensas.
+
+  ```
+  background: fuchsia;
+  border: 1px solid;
+  border-radius: 4px;
+  color: black;
+  ```
+
+#### JavaScript
+
+* Sintaxis expandida
+
+  Se sugiere estructurar el código JavaScript de forma clara, con una instrucción por línea. Las llaves de apertura deben ir en la misma línea que la declaración de la función, y las de cierre en una nueva línea posterior.
+
+  ```
+  function example() {
+  console.log('Hello developer!');
+  };
+  ```
+
+* Convención para nombrar variables
+
+  Para nombrar variables se recomienda seguir el estilo lowerCamelCase, donde la primera palabra comienza en minúscula y las siguientes con mayúscula.
+
+  ```
+  let sumTwoNumbers = 0;
+  let firstNumber = subNumber1 + subNumber2;
+  ```
+
+* Declaración de variables con let y const
+
+  Es preferible utilizar let y const para definir variables, en lugar de var, ya que ofrecen un mayor control sobre el ámbito y el comportamiento de las mismas.
+
+  ```
+  const Name = 'Ethan';
+  console.log(Name);
+  let currentAge = '20';
+  currentAge++;
+  console.log('Happy birthday to you!');
+  ```
+
+* Convención para nombrar funciones
+
+  Las funciones también deben seguir el formato lowerCamelCase, ayudando a mantener la consistencia con los nombres de las variables.
+
+  ```
+  function sayBye() {
+  alert('Bye!');
+  };
+  ```
 
 ### 5.1.4. Software Deployment Configuration.
 
