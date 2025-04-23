@@ -12,7 +12,7 @@
 <h2 style="text-align:center;">Producto: MatchEvent</h2>
 <h2 style="text-align:center;">Integrantes:</h2>
 <h3 style="text-align:center;">Aaron Alexander Avila Palacios</h3>
-<h3 style="text-align:center;">Gabriel Anthony Braithuaite Toledo - u20201e889</h3>
+<h3 style="text-align:center;">Gabriel Anthony Braithuaite Toledo</h3>
 <h3 style="text-align:center;">Kevin Alexander Castañeda Llanos</h3>
 <h3 style="text-align:center;">Ivan Jeanpierre La Madrid Lozano</h3>
 <h3 style="text-align:center;">Max Anthony Paitan Pumacahua</h3>
