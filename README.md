@@ -54,7 +54,7 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
     - [2.1. Competidores.](#21-competidores)
     - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
-    - [2.2. Entrevistas.](#22-entrevistas)
+    - [2.2. .](#22-)
     - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
       - [Objetivos de la entrevista](#objetivos-de-la-entrevista)
       - [Perfil de entrevistados](#perfil-de-entrevistados)
@@ -105,6 +105,16 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
     - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
       - [4.7.1. Class Diagrams.](#471-class-diagrams)
       - [4.7.2. Class Dictionary](#472-class-dictionary)
+    - [📦 Empresa](#-empresa)
+    - [🎥 Productora](#-productora)
+    - [👤 Usuario](#-usuario)
+    - [🤝 Contacto](#-contacto)
+    - [💬 Mensaje](#-mensaje)
+    - [📄 SolicitudActivacion](#-solicitudactivacion)
+    - [🛠️ Servicio](#️-servicio)
+    - [📦 Propuesta](#-propuesta)
+    - [🎉 Evento](#-evento)
+    - [⭐ Calificacion](#-calificacion)
     - [4.8. Database Design](#48-database-design)
       - [4.8.1 Database Diagram](#481-database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment.](#capítulo-v-product-implementation-validation--deployment)
@@ -856,6 +866,7 @@ En esta sección se explicará cuáles serán las acciones y técnicas que guiar
 ![Imagen de WhatsApp 2025-04-23 a las 18 33 07_2df65abb](https://github.com/user-attachments/assets/1727a0c9-7cd6-4305-b36b-d63fd2ed2b35)
 ![Imagen de WhatsApp 2025-04-23 a las 18 33 08_6f6afaee](https://github.com/user-attachments/assets/31a1857c-4a80-4db5-bb4d-dff8d028b474)
 ### 4.4.3. Web Applications User Flow Diagrams.
+![Imagen de WhatsApp 2025-04-23 a las 18 33 08_6f6afaee](/images/wireflow1.png)
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 Domain-Driven software architecture es un enfoque de diseño de software que se centra en la creación de un modelo conceptual del dominio del problema, permitiendo una mejor comprensión y comunicación entre los desarrolladores y los expertos en el dominio. Este enfoque ayuda a alinear el diseño del software con las necesidades del negocio y a crear una arquitectura más flexible y mantenible.
@@ -882,8 +893,9 @@ Elementos en el diagrama de contenedores:
 **Figura 7: Software Architecture Container Diagrams**
 
 ![Software Architecture Container Diagrams](/images/containerDiagram.png)
-### 4.6.3. Software Architecture Components Diagrams.
 
+![Software Architecture Container Diagrams](/images/containerDiagram2.png)
+### 4.6.3. Software Architecture Components Diagrams.
 **Bounded Context Identity and Access:**
 
 Elementos en el diagrama de componentes:
@@ -896,6 +908,65 @@ Elementos en el diagrama de componentes:
 **Figura 8: Bounded Context Identity and Access**
 
 ![Bounded Context Identity and Access](/images/identityAndAccessBoundedContext.png)
+
+**Bounded Context Activation Request**
+
+Responsabilidad:
+
+- Creación de solicitudes de activación
+- Edición o eliminación
+- Listado de solicitudes
+- Visualización de detalles de una solicitud
+
+**Figura 9: Bounded Activation Request** 
+
+![Bounded Context Activation Request](/images/activationRequestsBoundedContext.png)
+
+**Bounded Context Activation Quotes**
+
+Responsabilidad:
+- Permitir a una productora enviar una propuesta para una solicitud publicada.
+- Listar propuestas enviadas por cada productora.
+- Posible relación con estados: "enviada", "aceptada", "rechazada".
+
+**Figura 10: Bounded Context Activation Quotes**
+
+![Bounded Context Activation Quotes](/images/activationQuotesBoundedContext.png)
+
+**Bounded Context Activation Management**
+
+Responsabilidad:
+
+- Ver el historial de activaciones (mis activaciones)
+- Ver detalles de cada activación.
+- Cambiar estado: "en curso", "finalizada", "cancelada".
+
+**Figura 11: Bounded Context Activation Management**
+
+![Bounded Context Activation Management](/images/activationManagementBoundedContext.png)
+
+**Bounded Context Portafolio Management**
+
+Responsabilidad:
+- Permitir a una productora registrar y editar su portafolio de servicios.
+- Cada servicio podría tener: nombre, descripción, categoría, precio, etc.
+- Mostrar estos servicios como parte del perfil público de la productora.
+
+**Figura 12: Bounded Context Portafolio Management**
+
+![Bounded Context Portafolio Management](/images/portafolioManagementBoundedContext.png)
+
+**Bounded Context Providers**
+
+Responsabilidad:
+
+- Buscar productoras por nombre, categoría, tags, ubicación, etc.
+- Visualizar perfil público de una productora
+- Filtros
+
+**Figura 13: Bounded Context Providers**
+
+![Bounded Context Providers](/images/providersBoundedContext.png)
 
 ### 4.7. Software Object-Oriented Design.
 
