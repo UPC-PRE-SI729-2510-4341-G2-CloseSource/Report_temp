@@ -414,7 +414,40 @@ El diseño de entrevistas tiene como objetivo validar los supuestos clave del pr
 - Registro de respuestas mediante notas o grabaciones con consentimiento previo.
 
 ### 2.2.2. Registro de entrevistas.
+
+A continuación, se presenta un cuadro con los enlaces a los videos de las entrevistas realizadas a representantes de los dos segmentos objetivo: empresas/marcas y productoras de eventos. Cada enlace lleva a una entrevista individual realizada como parte del proceso de validación de necesidades.
+
+| Nº | Segmento objetivo         | Link de video                                               |
+|----|---------------------------|--------------------------------------------------------------|
+| 1  | Empresa o marca           | [Entrevista 1](https://www.youtube.com/watch?v=X76bS3vwYbI) |
+| 2  | Productora de eventos     | [Entrevista 2](https://www.youtube.com/watch?v=g6iUemJmMIA) |
+| 3  | Empresa o marca           | [Entrevista 3](https://www.youtube.com/watch?v=X76bS3vwYbI) |
+| 4  | Productora de eventos     | [Entrevista 4](https://www.youtube.com/watch?v=X76bS3vwYbI) |
+| 5  | Empresa o marca           | [Entrevista 5](https://www.youtube.com/watch?v=X76bS3vwYbI) |
+| 6  | Productora de eventos     | [Entrevista 6](https://www.youtube.com/watch?v=X76bS3vwYbI) |
+
+---
+
 ### 2.2.3. Análisis de entrevistas.
+
+**Entrevista 1 – Empresa o marca**  
+En esta entrevista, se identificó al entrevistado como representante del segmento objetivo de empresas o marcas, confirmando su rol al hablar sobre la organización de eventos como lanzamientos de productos y aniversarios. A lo largo de la conversación, se evidenciaron diversas necesidades clave: dificultad para encontrar proveedores confiables, poca transparencia al evaluar experiencias previas y falta de canales centralizados para comparar propuestas. Asimismo, valoró la posibilidad de contar con una plataforma que permita visualizar portafolios, leer testimonios y comunicarse directamente con las productoras. Esta información valida de manera directa los supuestos planteados en el diseño de MatchEvent y respalda funcionalidades esenciales como la comparación de propuestas, el sistema de calificaciones y la mensajería integrada.
+
+**Entrevista 2 – Productora de eventos**  
+En esta entrevista, la participante representa al segmento de productoras de eventos, especializadas en activaciones de marca y eventos corporativos. Actualmente consigue clientes por recomendaciones y redes sociales, pero identifica como reto la falta de visibilidad y diferenciación en un mercado competitivo. Señala la necesidad de una plataforma que permita mostrar un portafolio completo, recibir reseñas, contactar directamente con empresas y filtrar proyectos por tipo de evento. Además, valora que la plataforma funcione como una comunidad confiable, donde se priorice la calidad y se generen oportunidades reales. Sus respuestas validan las funcionalidades clave de MatchEvent enfocadas en reputación, especialización y conexión directa.
+
+**Entrevista 3 – Empresa o marca**  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum lorem sit amet turpis placerat, sed mattis lacus scelerisque. Etiam a mauris a velit euismod bibendum. Nulla non porttitor velit. Morbi ac justo eget erat tincidunt sodales.
+
+**Entrevista 4 – Productora de eventos**  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porta laoreet nisi, at posuere massa ultricies nec. Mauris ullamcorper mauris nec tortor ultrices dapibus. Curabitur mattis nisl a risus fermentum, a blandit lacus pulvinar.
+
+**Entrevista 5 – Empresa o marca**  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, elit vel fermentum tincidunt, ligula libero ultrices diam, et pretium lectus erat id urna. Duis sagittis nec sapien ac dapibus. Sed tristique sem sed sem ultrices, ac finibus nunc eleifend.
+
+**Entrevista 6 – Productora de eventos**  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien ac diam imperdiet lacinia. Sed luctus justo non lorem pharetra, in finibus magna pulvinar. Vivamus convallis purus ac velit tincidunt, ac dictum justo convallis.
+
 ### 2.3. Needfinding.
 ### 2.3.1. User Personas.
 ![image](https://github.com/user-attachments/assets/fe96f6a1-973b-47ee-9210-12bd43ef37c3)
@@ -453,8 +486,6 @@ El diseño de entrevistas tiene como objetivo validar los supuestos clave del pr
 | Asegurar visibilidad en canales digitales formales              | Mensual        | Alta             |
 | Posicionarse como experto en un nicho de eventos                | Mensual        | Alta             |
 | Evitar pérdida de tiempo con clientes no alineados a su especialidad | Mensual    | Alta             |
-
-
 
 #### Tareas con mayor frecuencia e importancia:
 
