@@ -357,7 +357,7 @@ Para posicionarse de manera efectiva, se plantean las siguientes estrategias dif
 
 7. **Alianzas estratégicas**  
    Establecer convenios con entidades del sector, agencias o plataformas complementarias para potenciar la red de usuarios y aumentar la credibilidad del producto.
-### 2.2. Entrevistas.
+### 2.2. .
 
 ### 2.2.1. Diseño de entrevistas.
 
@@ -421,7 +421,7 @@ A continuación, se presenta un cuadro con los enlaces a los videos de las entre
 |----|---------------------------|--------------------------------------------------------------|
 | 1  | Empresa o marca           | [Entrevista 1](https://www.youtube.com/watch?v=X76bS3vwYbI) |
 | 2  | Productora de eventos     | [Entrevista 2](https://www.youtube.com/watch?v=g6iUemJmMIA) |
-| 3  | Empresa o marca           | [Entrevista 3](https://www.youtube.com/watch?v=xxxxxxxxxxx) |
+| 3  | Empresa o marca           | [Entrevista 3](https://www.youtube.com/watch?v=fKm5kj0AMhY) |
 | 4  | Productora de eventos     | [Entrevista 4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/EcmRlg9SH7hMgicVmwNKdlMBPwKH_j_3IHvtCxIKPzyZkg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aS1JAw) |
 | 5  | Empresa o marca           | [Entrevista 5](https://www.youtube.com/watch?v=xxxxxxxxxxx) |
 | 6  | Productora de eventos     | [Entrevista 6](https://www.youtube.com/watch?v=xxxxxxxxxxx) |
@@ -437,7 +437,7 @@ En esta entrevista, se identificó al entrevistado como representante del segmen
 En esta entrevista, la participante representa al segmento de productoras de eventos, especializadas en activaciones de marca y eventos corporativos. Actualmente consigue clientes por recomendaciones y redes sociales, pero identifica como reto la falta de visibilidad y diferenciación en un mercado competitivo. Señala la necesidad de una plataforma que permita mostrar un portafolio completo, recibir reseñas, contactar directamente con empresas y filtrar proyectos por tipo de evento. Además, valora que la plataforma funcione como una comunidad confiable, donde se priorice la calidad y se generen oportunidades reales. Sus respuestas validan las funcionalidades clave de MatchEvent enfocadas en reputación, especialización y conexión directa.
 
 **Entrevista 3 – Empresa o marca**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum lorem sit amet turpis placerat, sed mattis lacus scelerisque. Etiam a mauris a velit euismod bibendum. Nulla non porttitor velit. Morbi ac justo eget erat tincidunt sodales.
+En esta entrevista, el gerente Henry, representante de la empresa Tutus, forma parte del segmento objetivo de empresas o marcas. Su empresa organiza activaciones de marca y lanzamientos de productos de forma recurrente, especialmente en campañas clave. Identifica como principales dificultades la falta de referencias confiables, problemas de puntualidad y presupuestos poco claros al contratar productoras. Valora especialmente una plataforma que permita comparar opciones, ver opiniones de clientes, revisar portafolios y precios estimados, además de facilitar la comunicación directa. También comparte una experiencia negativa relacionada con subcontratación sin aviso, lo que refuerza la necesidad de transparencia. Su interés en interactuar directamente con proveedores y contar con reseñas valida funcionalidades clave de MatchEvent, como perfiles detallados, filtros de búsqueda y mensajería integrada.
 
 **Entrevista 4 – Productora de eventos**  
 La entrevistada representa a una joven productora de eventos con conocimientos tecnológicos básicos, lo que sugiere que la plataforma debe ser accesible y compatible con sistemas comunes como Windows, Android y Google Chrome. Su principal desafío es la baja visibilidad frente a competidores, a pesar de usar redes sociales como Instagram y WhatsApp. Destaca la necesidad de una herramienta que le permita presentar su portafolio de forma profesional. Además, depende del boca a boca para captar clientes, por lo que valora un sistema de reseñas. Está dispuesta a especializarse en un tipo de evento si eso mejora su posicionamiento, lo cual respalda la inclusión de filtros por nicho. Finalmente, espera que la plataforma sea transparente, útil y que facilite la gestión de su trabajo, reforzando la importancia de crear una solución práctica y orientada al valor profesional.
