@@ -1153,7 +1153,7 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
 | US007 | Sección Quienes somos | TS05 | Implementación de la sección Quienes somos | Implementación de la sección "Quienes somos", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
 | US006 | Sección Footer | TS06 | Implementación de la sección Footer | Implementación de la sección "Footer", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
 
-#### **5.2.1.4. Development Evidence for Sprint Review**
+#### **5.2.1.4. Development Evidence for Sprint Review** 
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on date |
 | :---: | :---: | :---: | :---: | ----- | :---: |
