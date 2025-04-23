@@ -785,8 +785,28 @@ En esta sección se explicará cuáles serán las acciones y técnicas que guiar
 ![MockUp del Landing Page](images/MockUpLanding.png)
 ### 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+![Imagen de WhatsApp 2025-04-23 a las 18 30 08_a4425784](https://github.com/user-attachments/assets/9f5df8c3-bb12-41c4-94d0-7285fa1cf0f7)
+![Imagen de WhatsApp 2025-04-23 a las 18 30 08_2a73fd3b](https://github.com/user-attachments/assets/e2de93a7-155f-4ca5-80b4-d86d6c0b0b51)
+![Imagen de WhatsApp 2025-04-23 a las 18 30 08_72a69ae1](https://github.com/user-attachments/assets/d190434f-14e7-4d8c-a418-48e6bf1893be)
+![Imagen de WhatsApp 2025-04-23 a las 18 30 08_bdd41016](https://github.com/user-attachments/assets/f64717a5-0c20-4c91-9317-6a966db01982)
+![Imagen de WhatsApp 2025-04-23 a las 18 30 08_86cd069f](https://github.com/user-attachments/assets/5fffe2a8-b7f7-47c9-b802-18aa8e3d6fc8)
+![Imagen de WhatsApp 2025-04-23 a las 18 30 09_cc12d505](https://github.com/user-attachments/assets/afda922c-3c13-4217-8def-02fc998791a2)
+![Imagen de WhatsApp 2025-04-23 a las 18 30 09_754c0668](https://github.com/user-attachments/assets/32961d00-7f2d-4c59-93ff-ecbd281fa767)
+![Imagen de WhatsApp 2025-04-23 a las 18 30 09_c385783d](https://github.com/user-attachments/assets/7ec1e0fe-52ac-4f3d-91d3-7467e53f3680)
+![Imagen de WhatsApp 2025-04-23 a las 18 30 09_f2628220](https://github.com/user-attachments/assets/8b03dcf3-ed74-4346-b6f0-fa6c1d2fa9c1)
+![Imagen de WhatsApp 2025-04-23 a las 18 30 09_3a1ab92e](https://github.com/user-attachments/assets/41436ca4-c718-4660-8ee1-7b1df8e83789)
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
+![Imagen de WhatsApp 2025-04-23 a las 18 33 06_db9017a1](https://github.com/user-attachments/assets/2a6635cc-35ed-42ca-b4f4-ce9460d05d2d)
+![Imagen de WhatsApp 2025-04-23 a las 18 33 06_086bcc56](https://github.com/user-attachments/assets/befa5c6f-15fc-45d2-a9ff-5cafe3e357e6)
+![Imagen de WhatsApp 2025-04-23 a las 18 33 06_30a3100f](https://github.com/user-attachments/assets/6265fd47-62ac-4597-8a2a-5d42383ef22c)
+![Imagen de WhatsApp 2025-04-23 a las 18 33 07_be358643](https://github.com/user-attachments/assets/ac7eff66-435d-4eba-bb55-7e76b34f6ed2)
+![Imagen de WhatsApp 2025-04-23 a las 18 33 07_c8571cb8](https://github.com/user-attachments/assets/17a75f86-e5f8-4da9-82bd-ba929b471169)
+![Imagen de WhatsApp 2025-04-23 a las 18 33 07_31b32b2f](https://github.com/user-attachments/assets/b2805d70-bff6-4433-b260-2ff812b76f22)
+![Imagen de WhatsApp 2025-04-23 a las 18 33 07_c0617160](https://github.com/user-attachments/assets/98f32083-7559-4458-8cbc-0a6377a5ab92)
+![Imagen de WhatsApp 2025-04-23 a las 18 33 07_1f4e5e7d](https://github.com/user-attachments/assets/90b2c936-f2f2-4714-8a4f-2675f21eb11e)
+![Imagen de WhatsApp 2025-04-23 a las 18 33 07_2df65abb](https://github.com/user-attachments/assets/1727a0c9-7cd6-4305-b36b-d63fd2ed2b35)
+![Imagen de WhatsApp 2025-04-23 a las 18 33 08_6f6afaee](https://github.com/user-attachments/assets/31a1857c-4a80-4db5-bb4d-dff8d028b474)
 ### 4.4.3. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
