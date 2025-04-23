@@ -609,6 +609,15 @@ A continuación, se presentan los Epics y User Stories que cubren los requisitos
 | US014           | Contactar a empresa desde una solicitud         | Como Productora especializada, quiero poder contactar a una empresa desde su solicitud de activación, para ofrecer mis servicios y obtener más detalles. | - Given que soy una productora autenticada, When visualizo una solicitud publicada, Then puedo acceder a una opción para iniciar contacto con la empresa. <br> - Given que inicio un contacto, When la empresa recibe la solicitud, Then ambas partes podemos iniciar una negociación.            | EP004                     |
 | US015           | Sistema de mensajería interna                   | Como usuario autenticado, quiero contar con una mensajería dentro de la plataforma, para comunicarme con otras empresas de forma segura y centralizada.  | - Given que estoy autenticado, When accedo a una conversación activa, Then puedo enviar y recibir mensajes. <br> - Given que recibo un nuevo mensaje, When ingreso a la plataforma, Then puedo ver notificaciones en tiempo real o al iniciar sesión.                                             | EP004                     |
 
+**Épicas**
+
+| Epic ID | Título                                      |
+|---------|----------------------------------------------|
+| EP001   | Gestión de solicitudes de activación        |
+| EP002   | Gestión de portafolios de servicios         |
+| EP003   | Landing Page informativa                    |
+| EP004   | Personalización según rol del usuario      |
+
 ### 3.3. Impact Mapping.
 
 En esta sección se presenta el Impact Mapping realizado para nuestros dos user personas previamente definidos: el Gerente de Marketing de una empresa o marca, y el Coordinador Comercial de una empresa productora de eventos.
