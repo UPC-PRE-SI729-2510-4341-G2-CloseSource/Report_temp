@@ -210,60 +210,66 @@ En el siguiente punto, vamos a realizar la investigación a detalle el problema.
 
 * ¿Qué problema hay?
   
-  Actualmente, muchas empresas que desean realizar activaciones de marca enfrentan dificultades para encontrar proveedores confiables que se ajusten a sus necesidades específicas. Este proceso suele depender de contactos informales, referencias poco verificables y una gestión manual que puede ser ineficiente y poco transparente. Al mismo tiempo, productoras con amplia capacidad para ejecutar este tipo de eventos no siempre tienen acceso a un canal que les permita captar nuevos clientes de manera estructurada ni mostrar adecuadamente su portafolio de servicios.
+  Muchas empresas enfrentan dificultades para encontrar proveedores confiables para ejecutar activaciones de marca. Este proceso depende en gran medida de contactos informales, recomendaciones poco verificables y una gestión manual que genera ineficiencias, demoras y falta de transparencia. Por otro lado, las productoras que sí están capacitadas para ejecutar estos eventos no cuentan con canales claros ni estructurados para acceder a nuevas oportunidades comerciales, lo que limita su alcance en el mercado.
 
 **When?**
 
 * ¿Cuándo sucede el problema?
   
-  Este problema es constante y ocurre cada vez que una empresa necesita lanzar una campaña de marketing que implique una experiencia directa con el consumidor, como ferias, activaciones en centros comerciales, eventos callejeros, entre otros. La necesidad se intensifica durante temporadas clave como campañas estacionales, lanzamientos de productos o fechas festivas.
+  Este problema surge cada vez que una empresa inicia la planificación de una activación de marca, especialmente en momentos clave como campañas estacionales, lanzamientos de productos o eventos masivos. Las dificultades se hacen más evidentes en los primeros pasos del proceso, cuando se necesita filtrar opciones, solicitar cotizaciones y comparar propuestas de manera eficiente.
 
-* ¿Cuándo el cliente necesita el producto?
-  
-  Las empresas necesitan el sistema en las etapas iniciales de planificación de sus campañas de marketing, cuando buscan proveedores y elaboran presupuestos. Las productoras lo necesitan para recibir oportunidades y organizar sus propuestas y operaciones con antelación.
 
 **Where?**
 
-* ¿Dónde el cliente usará el producto?
+* ¿Dónde sucede el problema?
   
-  El producto será utilizado en contextos urbanos, principalmente en ciudades como Lima, donde existe una alta concentración de marcas, agencias y productoras. La plataforma estará disponible de manera web, por lo que podrá ser usada desde computadoras o dispositivos móviles por parte de las empresas y productoras, tanto desde oficinas como desde cualquier lugar con conexión a internet.
+  El problema se presenta principalmente en contextos urbanos con alta concentración de marcas y productoras, como Lima y otras grandes ciudades. Las limitaciones se evidencian tanto en oficinas corporativas al buscar proveedores como en agencias de producción que intentan posicionarse sin herramientas digitales adecuadas.
 
 **Why?**
 
-* ¿Por qué se genera el producto?
+* ¿Por qué existe este problema?
   
-  La plataforma se crea para resolver una necesidad real de conexión entre dos actores clave del ecosistema de marketing: las empresas que buscan ejecutar campañas de alto impacto y las productoras que pueden llevarlas a cabo. Se busca brindar una solución más eficiente, digitalizada y transparente, que elimine fricciones y fomente relaciones comerciales más fluidas y confiables.
+  El problema existe porque no hay un sistema estructurado, confiable y centralizado que conecte la demanda empresarial con la oferta especializada de servicios para activaciones de marca. Esto genera un entorno fragmentado, donde se pierde tiempo, oportunidades y se corre el riesgo de contratar proveedores sin experiencia comprobada. Además, la falta de digitalización dificulta la comparación objetiva y la toma de decisiones informadas.
 
 **Who?**
 
-* ¿Quién usará el producto?
+* ¿A quién afecta el problema?
   
-  **Empresas o marcas**: Usuarios que buscan realizar activaciones de marca y necesitan contactar productoras para recibir propuestas, cotizaciones o contratar servicios de producción de eventos.
-  
-  **Productoras especializadas**: Empresas o equipos de producción que ofrecen servicios relacionados a la ejecución de activaciones y eventos de marca, y que desean expandir su base de clientes o mejorar su visibilidad en el mercado.
+  **Empresas y marcas:** Pierden tiempo y recursos buscando proveedores adecuados y enfrentan incertidumbre al no contar con referencias claras.
+
+  **Productoras especializadas:** Tienen dificultades para visibilizar su trabajo, acceder a nuevas oportunidades y competir en igualdad de condiciones.
+
+  **Agencias de marketing:** También enfrentan desafíos al coordinar proveedores confiables dentro de sus campañas integradas.
 
 **How?**
 
-* ¿Cómo se usará?
-  El aplicativo web permitirá a las empresas registrarse, publicar una solicitud con detalles de la activación que desean realizar (tipo de evento, ubicación, fechas, presupuesto estimado), y recibir propuestas de diferentes productoras interesadas. Las productoras, por su parte, podrán crear un perfil con su información, portafolio de servicios, casos anteriores y calificaciones. A partir de allí, podrán postularse a proyectos, enviar cotizaciones y comunicarse con los clientes directamente a través de la plataforma.
+* ¿Cómo se manifiesta el problema?
   
-  Principales funcionalidades:
+  El problema se manifiesta a través de:
 
-  - Registro de empresas y productoras.
+  - Búsqueda ineficiente de proveedores (vía WhatsApp, recomendaciones informales, correos dispersos).
 
-  - Publicación de requerimientos por parte de las empresas.
+  - Procesos manuales para comparar cotizaciones y propuestas.
 
-  - Postulación de productoras con propuestas personalizadas.
+  - Dificultad para validar experiencia previa de las productoras.
 
-  - Sistema de mensajería y seguimiento de propuestas.
-
-  - Historial de contrataciones y sistema de calificación.
+  - Falta de trazabilidad, historial o retroalimentación sobre experiencias pasadas.
 
 **How much?**
 
-* ¿Cuánto costará?
+* ¿Cuánto puede costar el problema generado?
   
-  El modelo económico está en etapa de diseño, pero se proyecta que la plataforma funcione bajo un esquema freemium para las productoras (registro gratuito, con posibles comisiones por proyecto adjudicado o acceso a funciones premium). Para las empresas, el acceso básico sería gratuito, con posibles planes para funciones avanzadas como soporte personalizado o gestión de múltiples proyectos simultáneos.
+  Si bien no se puede cuantificar el posible costo, este problema si que puede generar gastos ocultos importantes, los cuales pueden afectar a los involucrados. Estos costos podrían darse por:
+
+  - Pérdida de tiempo en procesos de selección.
+
+  - Retrasos en campañas por mala planificación o contrataciones fallidas.
+
+  - Costos financieros por contratar proveedores inadecuados.
+
+  - Daño reputacional en casos de ejecución deficiente del evento.
+
+  - Oportunidades comerciales perdidas por no conectar con el proveedor adecuado a tiempo.
 
 ### **1.2.2 Lean UX Process.**  
       
@@ -271,42 +277,81 @@ En el siguiente punto, vamos a realizar la investigación a detalle el problema.
       
 **Problem Statement 1: Empresas que necesitan realizar activaciones de marca**
 
-MatchEvent es una plataforma web diseñada para conectar a empresas interesadas en ejecutar campañas de activación de marca con productoras que pueden hacerlas realidad. La propuesta de valor está enfocada en facilitar el acceso a proveedores confiables, comparar propuestas y agilizar el proceso de contratación para campañas publicitarias o eventos promocionales.
-
-Hemos identificado una dificultad importante que enfrentan las empresas al intentar ejecutar estrategias de marketing experiencial.
-
 **Problema:**  
 
-Las empresas tienen problemas para encontrar productoras adecuadas para sus activaciones, debido a la informalidad en el proceso de búsqueda, falta de referencias verificadas, dificultad para comparar presupuestos, y poca visibilidad del portafolio de las productoras. Esto genera retrasos, riesgos de mala ejecución y un mayor costo operativo.
+Las empresas que buscan ejecutar activaciones de marca enfrentan múltiples barreras durante la búsqueda de proveedores adecuados. Este proceso suele ser informal, fragmentado y poco estructurado. Las decisiones de contratación se basan en recomendaciones no verificadas, lo que incrementa el riesgo de contratar a proveedores con poca experiencia o sin respaldo comprobable. Además, las empresas tienen dificultades para comparar propuestas de manera objetiva, lo que deriva en retrasos en la planificación, mayores costos operativos y posibles fallos en la ejecución del evento.
 
 **Pregunta central:**  
 
-¿Cómo podríamos ayudar a las empresas a encontrar y contratar productoras confiables de forma más rápida, transparente y eficiente, asegurando una mejor ejecución de sus activaciones de marca?
+¿Cómo podríamos entender y abordar las dificultades que enfrentan las empresas al intentar encontrar y evaluar proveedores para activaciones de marca en un entorno informal y poco transparente?
 
 **Problem Statement 2: Productoras de activaciones y eventos**
 
-MatchEvent también busca empoderar a las productoras brindándoles un canal formal y digital para captar nuevos clientes, mostrar su experiencia y competir de manera justa por oportunidades en el mercado de eventos y activaciones.
-
-Hemos detectado una necesidad relevante en este segmento en relación con su visibilidad y gestión de propuestas comerciales.
-
 **Problema:**  
-Las productoras tienen dificultades para acceder a clientes fuera de su red de contactos. Esto limita su crecimiento, ya que no pueden mostrar fácilmente su portafolio, ni competir con otras productoras en igualdad de condiciones. La falta de herramientas para gestionar propuestas y recibir solicitudes directas también dificulta su operación.
+Las productoras especializadas en activaciones enfrentan serias limitaciones para acceder a nuevos clientes fuera de su red de contactos habitual. Su visibilidad en el mercado es baja, y muchas veces dependen exclusivamente del boca a boca o de conexiones personales para obtener oportunidades laborales. Además, carecen de herramientas adecuadas para mostrar su experiencia, organizar sus propuestas comerciales o recibir solicitudes de manera estructurada. Esto reduce su competitividad y limita su potencial de crecimiento en un mercado exigente.
 
 **Pregunta central:**  
-¿Cómo podríamos brindar a las productoras una plataforma donde puedan aumentar su visibilidad, mostrar sus trabajos anteriores y recibir solicitudes de forma organizada, profesional y con mayor alcance?
+¿Cómo podríamos comprender mejor las barreras que impiden a las productoras visibilizar su experiencia y acceder a oportunidades de negocio más allá de sus contactos directos?
 
 ### 1.2.2.2. Lean UX Assumptions.
- - **Asumimos que** las productoras que se encarguen de ejecutar los eventos cuenten con la capacidad técnica para realizar el evento que necesite la empresa que demanda el servicio.
-     - **Sabremos que esto es cierto cuando** la empresa que necesita el evento vea las descripciones de cada productora para saber cual se alinea más a los objetivos.
- - **Asumimos que** las productoras valoran construir una reputación positiva dentro de la plataforma.
-     - **Sabremos que esto es cierto cuando** las empresas den reseñas positivas a los eventos realizados y gestionados por la productora.
- - **Asumimos que** las marcas buscan un espacio centralizado donde encontrar productoras para sus eventos.
-     - **Sabremos que esto es cierto cuando** la mayoría de las empresas u organizaciones nuevas completan la búsqueda o solicitud de una productora en su primera visita.
- - **Asumimos que** las marcas no tienen contactos o tienen poca experiencia técnica al organizar eventos y necesitan orientación durante el proceso.
-     - **Sabremos que esto es cierto cuando** interactue con las productoras oral o textualmente para que les expliquen paso a paso los procesos de gestión, marketing, auspiciadores, entre otros.
+- *Asumimos que* las empresas no tienen procesos claros para encontrar productoras confiables para activaciones de marca. *Sabremos* que esto es cierto cuando al menos el 60% de las empresas afirme haber buscado proveedores por referencias informales o redes sociales.
+
+- *Asumimos que* las productoras desean un canal digital para captar nuevos clientes. *Sabremo* que esto es cierto cuando más del 70% de las productoras registradas complete su perfil dentro de los primeros 3 días.
+
+- *Asumimos que* las empresas necesitan comparar fácilmente múltiples propuestas antes de tomar decisiones. *Sabremos* que esto es cierto cuando al menos el 80% revise más de una propuesta antes de adjudicar un proyecto.
+
+- *Asumimos que* las productoras quieren destacar su experiencia previa mediante un portafolio visual. *Sabremos* que esto es cierto cuando al menos el 75% suba contenido multimedia a su perfil.
+
+- *Asumimos que* las empresas valoran la reputación basada en calificaciones y comentarios. *Sabremos* que esto es cierto cuando más del 50% consulte reseñas antes de contactar a una productora.
+
+- *Asumimos que* las productoras están dispuestas a postular a proyectos incluso si no conocen al cliente. *Sabremos* que esto es cierto cuando se registren postulaciones a solicitudes de empresas nuevas en la plataforma.
+
+- *Asumimos que* las empresas necesitan poder comunicarse directamente con productoras interesadas. *Sabremos* que esto es cierto cuando más del 60% de las interacciones entre empresas y productoras usen el chat interno.
+
+- *Asumimos que* las empresas tienen dificultades para estimar el costo de una activación. *Sabremos* que esto es cierto cuando más del 40% consulte precios de propuestas sin aún haber publicado un requerimiento.
+
+- *Asumimos que* las productoras prefieren recibir notificaciones cuando se publique un proyecto alineado a sus servicios. *Sabremos* que esto es cierto cuando más del 50% active las notificaciones automáticas de oportunidades.
+
+- *Asumimos que* tanto empresas como productoras valoran tener un historial de contrataciones. *Sabremos* que esto es cierto cuando más del 70% consulte el historial antes de tomar decisiones.
+
+- *Asumimos que* las productoras quieren recibir retroalimentación sobre sus propuestas. *Sabremos* que esto es cierto cuando más del 60% solicite comentarios tras no ganar un proyecto.
+
+- *Asumimos que* las empresas quieren poder guardar o marcar productoras favoritas. *Sabremos* que esto es cierto cuando al menos el 50% utilice esta función si se habilita.
+
+- *Asumimos que* muchas activaciones se planifican en períodos cortos de tiempo. *Sabremos* que esto es cierto cuando más del 40% de las solicitudes tengan plazos de ejecución menores a un mes.
+
+- *Asumimos que* las productoras buscan diferenciarse con propuestas creativas y personalizadas. *Sabremos* que esto es cierto cuando al menos el 60% redacte propuestas únicas en lugar de usar plantillas.
+  
 ### 1.2.2.3. Lean UX Hypothesis Statements.
-1. **Creemos que** las empresas se encontrarán satisfechas con la búsqueda de productoras para la creación de sus eventos y programas . **Sabremos que** esta afirmación es cierta cuando la mayoría de productoras cuenten con reseñas y comentarios positivos.
-2. **Creemos que** las productoras podrán enontrar fácil alguna empresa que requiera de sus servicios. **Sabremos que** esto es cierto cuando las productoras se centren en la creación de un tipo de evento.
+
+- *Creemos que* las empresas necesitan un canal centralizado para encontrar productoras confiables. *Sabremos* que tenemos razón si al menos el 70% de usuarios nuevos publica un requerimiento en su primera semana.
+
+- *Creemos que* las productoras valoran una plataforma donde puedan mostrar su trabajo. *Sabremos* que tenemos razón si el 75% de productoras completan su portafolio en los primeros 3 días.
+
+- *Creemos que* las empresas quieren ver múltiples propuestas antes de contratar. *Sabremos* que tenemos razón si el 80% de las solicitudes recibe al menos 2 propuestas.
+
+- *Creemos que* las calificaciones de clientes influyen en la decisión de contratación. *Sabremos* que tenemos razón si más del 60% de empresas menciona la reputación como factor clave en encuestas.
+
+- *Creemos que* las productoras quieren recibir notificaciones automáticas de nuevos proyectos. *Sabremos* que tenemos razón si más del 50% activa esta opción.
+
+- *Creemos que* las empresas se comunican más con productoras cuando existe un canal directo dentro de la plataforma. *Sabremos* que tenemos razón si más del 60% de los mensajes se envían vía el sistema interno.
+
+- *Creemos que* las empresas quieren tener un historial organizado de sus contrataciones. *Sabremos* que tenemos razón si al menos el 70% consulta el historial antes de repetir una contratación.
+
+- *Creemos que* las productoras necesitan datos claros sobre las solicitudes (presupuesto, fecha, lugar). *Sabremos* que tenemos razón si las solicitudes incompletas reciben menos del 30% de postulaciones.
+
+- *Creemos que* una interfaz sencilla aumentará el número de requerimientos publicados. *Sabremos* que tenemos razón si los formularios se completan en menos de 3 minutos en el 80% de los casos.
+
+- *Creemos que* las empresas valoran recibir propuestas en menos de 48 horas. *Sabremos* que tenemos razón si el 75% considera el tiempo de respuesta como factor clave en encuestas.
+
+- *Creemos que* las productoras participarán más si pueden recibir métricas sobre su desempeño. *Sabremos* que tenemos razón si más del 50% revisa su tasa de propuestas ganadas.
+
+- *Creemos que* la posibilidad de crear plantillas de propuestas agilizará el proceso para las productoras. *Sabremos* que tenemos razón si más del 60% usa esta función repetidamente.
+
+- *Creemos que* las empresas necesitan asistencia para redactar correctamente sus requerimientos. *Sabremos* que tenemos razón si al menos el 40% utiliza ayudas o plantillas disponibles en la plataforma.
+
+- *Creemos que* la reputación positiva dentro de la plataforma influirá en la fidelización de empresas. *Sabremos* que tenemos razón si más del 50% de contrataciones repetidas se hacen con productoras bien calificadas.
+
 ### 1.2.2.4. Lean UX Canvas.
 | **1. Business Problem** | **2. Business Outcomes** | **5. Solutions** |
 |------------------------|--------------------------|------------------|
@@ -1416,6 +1461,8 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
 
 #### **5.2.1.4. Development Evidence for Sprint Review** 
 
+Durante este sprint se avanzó con el desarrollo de la primera versión de la Landing Page de nuestro proyecto, registrando los avances en el repositorio. Esta versión inicial incluye la estructura básica del sitio, siguiendo el patrón de diseño en Z, con enfoque en la responsividad, el uso de imágenes relevantes y la implementación de los elementos esenciales de una landing page efectiva: encabezados claros, botones Call to Action, secciones informativas y estilos coherentes con la identidad visual definida para el proyecto; además, tenemos que considerar que, al ser la primera versión, pasará por los cambios que sean necesarios a futuro. El código fuente está organizado y distribuido en archivos independientes de HTML, CSS y JavaScript, permitiendo una mejor mantenibilidad y escalabilidad futura. Así pues, los commits reflejan la implementación de las funcionalidades planeadas para la primera versión del landing page.
+
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on date |
 | :---: | :---: | :---: | :---: | ----- | :---: |
 | CloseSource-Landing-Page | landingPage_v1 | 1bff1d65627964230ae650fe9924be36eb87b533 | Feature: Initial commit | —---------- | 15/04/2025 |
@@ -1428,21 +1475,67 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
 | CloseSource-Landing-Page | landingPage_v1 | a4836aefc9a32ad80ea647f7647510b17fe83875 | Fix: fix the activation image's size | —---------- | 20/04/2025 |
 
 #### **5.2.1.5. Execution Evidence for Sprint Review** 
+Para el sprint 1, como ya hemos mencionado, se ha implementado la primera versión del landing page, además de haberse desplegado. Se ha priorizado el avance de las partes planteadas en el Producto Backlog para el landing, además de desarrollar características primordiales como el patrón de diseño "Z" aplicado, hacerla responsive y completar una distribución uniforme de los componentes. Esta primera versión cuenta con las partes importantes ya hechas, las cuales son:
 
-Link del video: https://drive.google.com/file/d/1QT8WiIQAVPe5Z7AJdsWeuyWE4_UwQ5Eh/view?usp=drive_link
+- Cómo funciona:
+  ![Landing page-Cómo funciona](images/como_funciona.PNG) 
+- Call to action:
+  ![Landing page-Call to action](images/call_to_action.PNG) 
+- Beneficios para empresas productoras:
+  ![Landing page-Beneficios para empresas productoras](images/beneficios_productoras.PNG) 
+- Beneficios para marcas:
+  ![Landing page-Beneficios para marcas](images/beneficios_marcas.PNG) 
+- Quienes somos:
+  ![Landing page-Quienes somos](images/quienes_somos.PNG) 
+- Footer:
+  ![Landing page-Footer](images/footer.PNG) 
+
+Link del video demostrativo del Landing Page: https://drive.google.com/file/d/1QT8WiIQAVPe5Z7AJdsWeuyWE4_UwQ5Eh/view?usp=drive_link
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
 No se han implementado servicios para el Landing Page, por lo que no se tiene documentación de los servicios. Por otro lado, aún no hemos desarrollado los servicios para el aplicativo web, lo cual haremos en los siguientes sprints.
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review.**  
+Durante este Sprint se realizó el despliegue de la primera versión de la Landing Page de nuestro proyecto CloseSource utilizando GitHub Pages como entorno de publicación. Este paso permitió que la página esté accesible públicamente desde un navegador web, facilitando la revisión del entregable por parte del equipo, el docente y otros stakeholders/interesados del proyecto. El objetivo principal fue validar el diseño, estructura y comportamiento responsive inicial de la landing page en un entorno real.
 
-* Link del Landing Page desplegado: https://upc-pre-si729-2510-4341-g2-closesource.github.io/Landing-Page/
+Los pasos seguidos para el despliegue son los siguientes:
+
+- Creación del repositorio remoto en GitHub con el nombre CloseSource/Landing-Page.
+
+- Organización del proyecto local con los archivos necesarios:
+
+  - index.html (estructura de la landing page)
+
+  - style.css (estilos y diseño)
+
+  - script.js (funcionalidades básicas)
+
+- Carpeta /images con imágenes para la presentación visual.
+
+- Confirmación de que el archivo index.html se encuentra en la raíz del repositorio, ya que GitHub Pages toma este archivo como punto de entrada.
+
+- Push del proyecto a la rama feature/landingPage_v1 usando Git, además de GitHub Desktop. Posteriormente, se hizo push a las ramas develop y main.
+
+- En GitHub, se configuró la opción de GitHub Pages desde la rama Main, seleccionando la carpeta raíz como fuente de despliegue.
+
+- Una vez activado, GitHub generó una URL pública, donde se puede acceder a la landing page desplegada.
+  - Link del Landing Page desplegado: https://upc-pre-si729-2510-4341-g2-closesource.github.io/Landing-Page/
+
+- Se verificó que el sitio se visualice correctamente en distintos dispositivos y navegadores, confirmando su comportamiento responsive y su diseño en patrón Z.
+
+Estas son capturas del despliegue realizado:
 
 ![Deployment](images/deployment1.PNG) 
 ![Deployment](images/deployment2.PNG)
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint.** 
+
+Durante este Sprint, el equipo acordó que la implementación de la primera versión de la Landing Page fuera realizada por un solo integrante, dado que se trataba de una versión inicial, estática y con bajo nivel de complejidad técnica.
+
+El equipo colaboró en la definición del contenido y estructura de la página, revisando los elementos clave como: el enfoque comunicacional, los textos base, los botones de llamado a la acción (CTA), y el uso del patrón de diseño en Z. Una vez definidos estos lineamientos, se asignó la tarea de implementación y despliegue a un integrante del equipo.
+
+La colaboración se mantuvo activa mediante revisiones asincrónicas en el repositorio y espacios breves de retroalimentación, asegurando que el resultado se alinee con los objetivos del Sprint y con el documento de requisitos establecido. Esta forma de trabajo permitió avanzar eficientemente sin generar sobrecarga innecesaria para el equipo, lo cual podría haber afectado el normal desarrollo de sus demás tareas.
 
 ![Team collaboration insights](images/collaboration1.PNG)
 ![Team collaboration insights](images/collaboration2.PNG)
