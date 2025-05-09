@@ -825,7 +825,7 @@ En esta sección se explica qué medios de ayuda se brindará al usuario para la
     - Enlaces internos: Habrán enlaces internos tanto en el header como en el footer, que se encargarán de llevar al usuario a diversas partes de la landing page o a lugares externos, como por ejemplo, un link a la red social de la startup.
     
     - Palabras destacadas: Algunas palabras estarán resaltadas en negrita o con un tamaño de letra más grande, que resaltará palabras clave.
-    - 
+      
 ### 4.2.5. Navigation Systems.
 En esta sección se explicará cuáles serán las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones, permitiéndoles cumplir sus metas e interactuar de forma satisfactoria con el producto.
   - **Sistemas de navegación para la Landing Page**
