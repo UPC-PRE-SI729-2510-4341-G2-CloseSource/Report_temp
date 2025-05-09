@@ -823,8 +823,8 @@ Considerando que somos estudiantes, decidimos adoptar un formato jerárquico est
 **Landing page**: Donde se presenta las principales características que tiene el aplicativo web, orientado a los dos segmentos objetivos. Este contará con una sección de inicio, Features, About us y Contact Us.
 
  - Visual Herarchy: El contenido se organiza de forma clara, destacando los elementos más importantes en la parte superior, como el nombre de la app, la navegación y el botón de llamada a la acción (CTA). Las secciones están organizadas de arriba hacia abajo, priorizando información clave como características, acerca de y beneficios.
-    - Categorización de contenido:
-      - Por público objetivo: La información de la Landing Page se dividirá por temas, en donde se se mostrará información tanto de empresas y productoras (beneficios, características, etc) al ser dos usuarios distintos, por lo que se agruparían por secciones.
+  - Categorización de contenido:
+    - Por público objetivo: La información de la Landing Page se dividirá por temas, en donde se se mostrará información tanto de empresas y productoras (beneficios, características, etc) al ser dos usuarios distintos, por lo que se agruparían por secciones.
 
 **Web Application**: Donde se brinda acceso a los dos segmentos objetivos, para que puedan buscar y generar contactos entre ambos, para el desarrollo de sus eventos/activaciones.
 
