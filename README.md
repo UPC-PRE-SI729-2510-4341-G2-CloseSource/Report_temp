@@ -870,7 +870,9 @@ En esta sección se explica qué medios de ayuda se brindará al usuario para la
     - Enlaces internos: Habrán enlaces internos tanto en el header como en el footer, que se encargarán de llevar al usuario a diversas partes de la landing page o a lugares externos, como por ejemplo, un link a la red social de la startup.
     
     - Palabras destacadas: Algunas palabras estarán resaltadas en negrita o con un tamaño de letra más grande, que resaltará palabras clave.
-    - 
+    - Visual Herarchy: El contenido se organiza de forma clara, destacando los elementos más importantes en la parte superior, como el nombre de la app, la navegación y el botón de llamada a la acción (CTA). Las secciones están organizadas de arriba hacia abajo, priorizando información clave como características, acerca de y beneficios.
+    - Categorización de contenido:
+      - Por público objetivo: La información de la Landing Page se dividirá por temas, en donde se se mostrará información tanto de empresas y productoras (beneficios, características, etc) al ser dos usuarios distintos, por lo que se agruparían por secciones.
 ### 4.2.5. Navigation Systems.
 En esta sección se explicará cuáles serán las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones, permitiéndoles cumplir sus metas e interactuar de forma satisfactoria con el producto.
   - **Sistemas de navegación para la Landing Page**
