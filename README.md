@@ -1155,7 +1155,7 @@ A continuación, se presenta el diccionario de clases correspondiente al modelo 
 
 #### 4.8.1 Database Diagram
 
-![Database](images/diagram_database.png)
+![Database](images/database.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment.
 
