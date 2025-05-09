@@ -127,7 +127,12 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
       - [HTML](#html)
       - [CSS](#css)
       - [JavaScript](#javascript)
+      - [Typescript](#typescript)
+      - [Java](#java)
     - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+        - [Consideraciones antes del despliegue](#consideraciones-antes-del-despliegue)
+        - [Requisitos para el despliegue](#requisitos-para-el-despliegue)
+        - [Pasos para desplegar la landing page](#pasos-para-desplegar-la-landing-page)
   - [**5.2. Landing Page, Services \& Applications Implementation**](#52-landing-page-services--applications-implementation)
     - [**5.2.1. Sprint 1**](#521-sprint-1)
       - [**5.2.1.1. Sprint Planning 1**](#5211-sprint-planning-1)
@@ -1239,6 +1244,48 @@ GitFlow es una estrategia estructurada para el control de versiones en Git, que 
 
 Cada nueva característica se desarrolla en una rama separada, que se crea a partir de la rama develop. Estas ramas permiten mantener el trabajo en curso aislado, lo que facilita la integración de nuevas funcionalidades sin interrumpir el flujo principal de desarrollo.
 
+**Release Branches:**
+
+Las ramas release se utilizan para preparar una versión estable del proyecto que está próxima a desplegarse. Se crean desde la rama develop una vez que se ha completado y probado un conjunto significativo de funcionalidades. Su uso permite estabilizar la versión, hacer pruebas finales, documentar y realizar pequeñas correcciones sin interrumpir el desarrollo de nuevas funcionalidades en curso.
+
+Convención de nombres: release/vX.Y.Z, aplicando Semantic Versioning:
+
+    X = versión mayor (cambios incompatibles)
+
+    Y = versión menor (nuevas funcionalidades compatibles)
+
+    Z = parche (correcciones menores)
+
+Solo se permiten tareas como:
+
+  - Correcciones de bugs
+
+  - Ajustes menores en la interfaz
+
+  - Revisión de documentación
+
+Una vez que la rama release está lista, se fusiona en main (para despliegue) y en develop (para mantener actualizada la base de desarrollo). Por ejemplo, una rama release/v1.1.0 indicaría que se está preparando la segunda versión menor del sistema con mejoras sobre una versión previamente estable.
+
+**Hotfix Branches:**
+
+Utilizaremos las ramas hotfix cuando sea necesario resolver un error crítico que afecta a la versión en producción y requiere una solución inmediata, sin esperar al próximo ciclo de desarrollo. Estas ramas son creadas directamente desde main y su objetivo es implementar una solución rápida, pero controlada.
+
+Convención de nombres: hotfix/fix-descripcion-breve, por ejemplo:
+
+  - hotfix/fix-login-error
+
+  - hotfix/fix-css-navbar
+
+Se aplican para:
+
+  - Fallos críticos en producción
+
+  - Correcciones urgentes de seguridad
+
+  - Errores funcionales graves
+
+Una vez corregido el problema, la rama hotfix se fusiona tanto en main como en develop, para que el arreglo forme parte del historial del proyecto en ambas líneas. Además, se actualiza el número de versión siguiendo Semantic Versioning, generalmente con un incremento en el parche (por ejemplo, de v1.1.0 a v1.1.1).
+
 ![Feature Branches](images/Features_branches.png)
 
 ### 5.1.3. Source Code Style Guide & Conventions.
@@ -1262,6 +1309,8 @@ Para el control de versiones relacionado con el Report, implementaremos una lige
 En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicará crear ramas de características (feature branches) con la nomenclatura establecida. La rama principal será main, donde se almacenará la versión estable y en producción de la aplicación. Las ramas de características y correcciones se fusionarán eventualmente con la rama main, mientras que, durante el proceso de desarrollo, se integrarán primero en la rama develop hasta que se logre la versión final.
 
 #### HTML
+
+Se seguirán las recomendaciones de estilo definidas por la Guía de Estilo de HTML/CSS de Google, priorizando buenas prácticas de accesibilidad, claridad y mantenimiento del código.
 
 * Uso de etiquetas en minúsculas (Lowercase)
 
@@ -1334,6 +1383,8 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
 
 #### CSS
 
+Las reglas de estilo están basadas en la Guía de Estilo de HTML/CSS de Google, que promueve consistencia, legibilidad y eficiencia en las hojas de estilo.
+
 * Nombres descriptivos para clases e IDs
 
   Es preferible usar nombres significativos para identificar elementos mediante clases e IDs. Esto hace que el código sea más entendible tanto para el autor como para otros desarrolladores.
@@ -1387,6 +1438,8 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
 
 #### JavaScript
 
+Se adoptarán las convenciones de la Guía de Estilo de JavaScript de Google, enfocadas en mantener un código legible, coherente y fácil de mantener en proyectos colaborativos.
+
 * Sintaxis expandida
 
   Se sugiere estructurar el código JavaScript de forma clara, con una instrucción por línea. Las llaves de apertura deben ir en la misma línea que la declaración de la función, y las de cierre en una nueva línea posterior.
@@ -1428,8 +1481,152 @@ En cuanto a la gestión de ramas, utilizaremos el modelo GitFlow. Esto implicar�
   };
   ```
 
-### 5.1.4. Software Deployment Configuration.
+#### Typescript
 
+Se seguirán las convenciones propuestas por la Guía de Estilo Oficial de TypeScript, priorizando tipado explícito, legibilidad y organización coherente del código.
+
+* Estilo de nombres para variables y funciones
+
+Se recomienda utilizar el estilo lowerCamelCase para nombrar variables y funciones. Este formato comienza con minúscula y cada palabra adicional inicia en mayúscula.
+
+```
+let userName = 'Carlos';
+function getUserAge() {
+  return 30;
+}
+```
+
+* Estilo de nombres para clases e interfaces
+
+Las clases e interfaces deben seguir el formato UpperCamelCase (PascalCase), con cada palabra empezando con mayúscula. Esto permite diferenciarlas visualmente de funciones o variables.
+
+```
+class UserProfile {
+  constructor(public name: string, public age: number) {}
+}
+
+interface ProductCard {
+  title: string;
+  price: number;
+}
+```
+
+* Uso estricto de tipos
+
+TypeScript se basa en tipado estático. Es importante declarar explícitamente los tipos para variables, parámetros y funciones, lo que ayuda a prevenir errores en tiempo de compilación.
+
+```
+const totalPrice: number = 199.99;
+function calculateDiscount(price: number): number {
+  return price * 0.1;
+}
+```
+
+* Declaración de constantes y variables
+
+Se prioriza el uso de const para valores inmutables y let para aquellos que pueden cambiar. Se evita el uso de var.
+
+```
+const maxItems = 10;
+let currentCount = 0;
+```
+
+#### Java
+
+Se adoptarán las convenciones oficiales de codificación de Java establecidas por Oracle, que definen reglas claras sobre nombres, estructura y estilo del código.
+
+* Convención para nombres de clases y métodos
+
+Las clases deben nombrarse en formato UpperCamelCase, mientras que los métodos deben seguir lowerCamelCase, conforme a las convenciones oficiales de Java.
+
+```
+public class UserService {
+    public void createUser() {
+        // lógica para crear usuario
+    }
+}
+```
+
+* Declaración de constantes
+
+Las constantes se declaran usando final y deben escribirse completamente en mayúsculas, separando las palabras con guiones bajos.
+
+```
+public static final int MAX_USERS = 100;
+```
+
+* Uso adecuado de let y const (no aplica en Java)
+
+Java no cuenta con let ni const, por lo tanto, las variables se declaran con su tipo y pueden o no ser final según si cambiarán su valor.
+
+```
+int userAge = 25;
+final String APP_NAME = "MiAplicación";
+```
+
+* Comentarios en el código
+
+Los comentarios deben explicar el propósito del código. Se recomienda usar // para comentarios de línea y /** */ para documentar clases y métodos públicos.
+
+```
+// Inicializa el contador de usuarios
+int counter = 0;
+
+/**
+ * Devuelve el nombre completo del usuario
+ */
+public String getFullName(String firstName, String lastName) {
+    return firstName + " " + lastName;
+}
+```
+
+* Organización del código
+
+Cada clase debe estar en un archivo separado, con el nombre del archivo igual al de la clase pública. Las llaves de apertura se colocan al final de la línea de declaración.
+
+```
+public class LoginService {
+    public boolean validate(String username, String password) {
+        return username.equals("admin");
+    }
+}
+```
+
+
+### 5.1.4. Software Deployment Configuration.
+Para el despliegue de la aplicación hemos utilizado GitHub Pages, una herramienta gratuita y confiable para publicar sitios web estáticos directamente desde un repositorio GitHub. A continuación describiremos las consideraciones previas, los requerimientos y los pasos realizados para completar el proceso de despliegue.
+
+##### Consideraciones antes del despliegue
+  
+  - Tecnologías del sitio
+
+    El sitio fue desarrollado utilizando archivos HTML, CSS y JavaScript. Se verificó que todo el contenido estuviera correctamente estructurado en estos formatos para garantizar compatibilidad con GitHub Pages y funcionamiento óptimo en navegadores modernos. Las imágenes fueron incluidas en distintos formatos estándares como .jpg, .png y .webp, priorizando la optimización del rendimiento (todo en la carpeta /images).
+
+  - Repositorio compartido
+   
+    Todo el código fuente se encuentra en un repositorio compartido dentro de la organización del grupo en GitHub. Este enfoque facilita el trabajo colaborativo y permite a todos los integrantes contribuir en paralelo a través de ramas específicas y solicitudes de cambios (pull requests).
+
+  - Pruebas previas al despliegue
+  
+    Antes de cada despliegue, se realizaron pruebas de funcionalidad para asegurar el correcto comportamiento de la interfaz y la navegación.
+
+##### Requisitos para el despliegue
+  - Repositorio alojado en una organización de GitHub (en nuestro caso, tenemos un repositorio específico para el landing page).
+
+  - Visibilidad pública del repositorio para permitir el acceso a cualquier usuario.
+
+  - Código fuente completo y actualizado de la landing page.
+
+  - Permisos adecuados para modificar la configuración del repositorio y activar GitHub Pages.
+
+##### Pasos para desplegar la landing page
+  - Se subió el código fuente al repositorio correspondiente en GitHub (Landing Page).
+
+  - Desde la pestaña de Settings, se accedió a la sección Pages.
+
+  - Se configuró la publicación seleccionando la rama main y la carpeta raíz (/root) como fuente del contenido.
+
+  - Una vez guardados los cambios, GitHub generó automáticamente el sitio y nos proporcionó un enlace público para acceder a la landing page desplegada.
 
 ## **5.2. Landing Page, Services & Applications Implementation**  
 ### **5.2.1. Sprint 1**  
