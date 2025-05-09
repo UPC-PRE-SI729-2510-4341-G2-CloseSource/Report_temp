@@ -822,7 +822,19 @@ Considerando que somos estudiantes, decidimos adoptar un formato jerárquico est
 
 **Landing page**: Donde se presenta las principales características que tiene el aplicativo web, orientado a los dos segmentos objetivos. Este contará con una sección de inicio, Features, About us y Contact Us.
 
+ - Visual Herarchy: El contenido se organiza de forma clara, destacando los elementos más importantes en la parte superior, como el nombre de la app, la navegación y el botón de llamada a la acción (CTA). Las secciones están organizadas de arriba hacia abajo, priorizando información clave como características, acerca de y beneficios.
+    - Categorización de contenido:
+      - Por público objetivo: La información de la Landing Page se dividirá por temas, en donde se se mostrará información tanto de empresas y productoras (beneficios, características, etc) al ser dos usuarios distintos, por lo que se agruparían por secciones.
+
 **Web Application**: Donde se brinda acceso a los dos segmentos objetivos, para que puedan buscar y generar contactos entre ambos, para el desarrollo de sus eventos/activaciones.
+
+  - Visual Herarchy: La aplicación tiene un diseño de menú de navegación claro, donde las funciones más importantes están destacadas (dashboard, búsqueda, perfil). Los elementos interactivos están priorizados visualmente.
+  - Step-by-Step to Accomplish: En funciones específicas, como el registro del tipo de usuario, la configuración del perfil o creación de un nuevo evento por parte de las empresas, se sigue un flujo paso a paso para guiar al usuario de manera intuitiva.
+  - Matricial: Para funcionalidades avanzadas, como un sistema de búsqueda o un panel de control, se puede utilizar una organización matricial, permitiendo al usuario visualizar múltiples opciones al mismo tiempo (filtros, categorías, resultados).
+  - Categorización del contenido:
+    - Por función: Las secciones de la aplicación, variarán dependiendo de las funciones principales. *Ejemplo: La sección de "Crear Propuesta" presentará la función de que las productoras de eventos formen una propuesta para la gestión de un evento*.
+    - Por rol de usuario: La interfaz del usuario variará dependiendo del **tipo de cuenta**, es decir, la interfaz no será igual para productoras y empresas ya que los objetivos de cada uno son distintos.
+      
 
 ### 4.2.2. Labeling Systems.
 En esta sección se explicará como se representará la información de la Landing Page de nuestra startup con una organización clara y concisa.
@@ -870,9 +882,7 @@ En esta sección se explica qué medios de ayuda se brindará al usuario para la
     - Enlaces internos: Habrán enlaces internos tanto en el header como en el footer, que se encargarán de llevar al usuario a diversas partes de la landing page o a lugares externos, como por ejemplo, un link a la red social de la startup.
     
     - Palabras destacadas: Algunas palabras estarán resaltadas en negrita o con un tamaño de letra más grande, que resaltará palabras clave.
-    - Visual Herarchy: El contenido se organiza de forma clara, destacando los elementos más importantes en la parte superior, como el nombre de la app, la navegación y el botón de llamada a la acción (CTA). Las secciones están organizadas de arriba hacia abajo, priorizando información clave como características, acerca de y beneficios.
-    - Categorización de contenido:
-      - Por público objetivo: La información de la Landing Page se dividirá por temas, en donde se se mostrará información tanto de empresas y productoras (beneficios, características, etc) al ser dos usuarios distintos, por lo que se agruparían por secciones.
+   
 ### 4.2.5. Navigation Systems.
 En esta sección se explicará cuáles serán las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones, permitiéndoles cumplir sus metas e interactuar de forma satisfactoria con el producto.
   - **Sistemas de navegación para la Landing Page**
