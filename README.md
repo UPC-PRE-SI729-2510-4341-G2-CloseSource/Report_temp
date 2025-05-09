@@ -12,7 +12,7 @@
 <h2 style="text-align:center;">Producto: MatchEvent</h2>
 <h2 style="text-align:center;">Integrantes:</h2>
 <h3 style="text-align:center;">Aaron Alexander Avila Palacios</h3>
-<h3 style="text-align:center;">Gabriel Anthony Braithuaite Toledo - u20201e889</h3>
+<h3 style="text-align:center;">Gabriel Anthony Braithuaite Toledo</h3>
 <h3 style="text-align:center;">Kevin Alexander Castañeda Llanos</h3>
 <h3 style="text-align:center;">Ivan Jeanpierre La Madrid Lozano</h3>
 <h3 style="text-align:center;">Max Anthony Paitan Pumacahua</h3>
@@ -882,7 +882,7 @@ En esta sección se explica qué medios de ayuda se brindará al usuario para la
     - Enlaces internos: Habrán enlaces internos tanto en el header como en el footer, que se encargarán de llevar al usuario a diversas partes de la landing page o a lugares externos, como por ejemplo, un link a la red social de la startup.
     
     - Palabras destacadas: Algunas palabras estarán resaltadas en negrita o con un tamaño de letra más grande, que resaltará palabras clave.
-   
+
 ### 4.2.5. Navigation Systems.
 En esta sección se explicará cuáles serán las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones, permitiéndoles cumplir sus metas e interactuar de forma satisfactoria con el producto.
   - **Sistemas de navegación para la Landing Page**
@@ -911,6 +911,7 @@ En esta sección se explicará cuáles serán las acciones y técnicas que guiar
 ![Imagen de WhatsApp 2025-04-23 a las 18 30 09_f2628220](https://github.com/user-attachments/assets/8b03dcf3-ed74-4346-b6f0-fa6c1d2fa9c1)
 ![Imagen de WhatsApp 2025-04-23 a las 18 30 09_3a1ab92e](https://github.com/user-attachments/assets/41436ca4-c718-4660-8ee1-7b1df8e83789)
 ### 4.4.2. Web Applications Wireflow Diagrams.
+![Imagen de WhatsApp 2025-04-23 a las 18 37 58_6c910836](https://github.com/user-attachments/assets/c23f74af-9c92-41bd-b895-de8d6c209ba1)
 ### 4.4.2. Web Applications Mock-ups.
 ![Imagen de WhatsApp 2025-04-23 a las 18 33 06_db9017a1](https://github.com/user-attachments/assets/2a6635cc-35ed-42ca-b4f4-ce9460d05d2d)
 ![Imagen de WhatsApp 2025-04-23 a las 18 33 06_086bcc56](https://github.com/user-attachments/assets/befa5c6f-15fc-45d2-a9ff-5cafe3e357e6)
