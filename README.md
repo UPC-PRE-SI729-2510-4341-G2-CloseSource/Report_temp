@@ -138,6 +138,7 @@ URL del repositorio de la Organizacion: https://github.com/UPC-PRE-SI729-2510-43
       - [**5.2.1.1. Sprint Planning 1**](#5211-sprint-planning-1)
       - [**5.2.1.2. Aspect Leaders and Collaborators**](#5212-aspect-leaders-and-collaborators)
       - [**5.2.1.3. Sprint Backlog 1**](#5213-sprint-backlog-1)
+    - [Sprint Backlog - Sprint 1](#sprint-backlog---sprint-1)
       - [**5.2.1.4. Development Evidence for Sprint Review**](#5214-development-evidence-for-sprint-review)
       - [**5.2.1.5. Execution Evidence for Sprint Review**](#5215-execution-evidence-for-sprint-review)
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review**](#5216-services-documentation-evidence-for-sprint-review)
@@ -1632,9 +1633,11 @@ Para el despliegue de la aplicación hemos utilizado GitHub Pages, una herramien
 ### **5.2.1. Sprint 1**  
 #### **5.2.1.1. Sprint Planning 1**
 
+  Podemos considerar al Sprint Planning como una "ceremonia" fundamental dentro de la metodología ágil Scrum. Su propósito es definir el objetivo del sprint y planificar el trabajo que se realizará durante el mismo. En esta primera planificación, como detallaremos en adelante, el equipo se reunió para analizar los requerimientos del proyecto, priorizar las tareas del backlog y asignar responsabilidades entre los integrantes. Esta sesión permitió establecer una visión compartida sobre los entregables a corto plazo y sentar las bases del desarrollo inicial de la aplicación, partiendo del desarrollo del landing page.
+
 | **Sprint #**                | 1                                  |
 | :-------------------------: |------------------------------------|
-| **Sprint Planning Background**                                     |
+| **Sprint Planning Background**    |                                 |
 | **Date**                    | 12/04/2025                         |
 | **Time**                    | 8:00 pm                            |
 | **Location**                | Reunión virtual a través del canal de discord del equipo llamado “Team CloseSource” |
@@ -1648,26 +1651,49 @@ Para el despliegue de la aplicación hemos utilizado GitHub Pages, una herramien
 | **Sum of Story Points**     | 11                                 |
 
 #### **5.2.1.2. Aspect Leaders and Collaborators**
-| Team Member | GitHub username | Diseño de la UI del Landing Page | Programación de la sección "Inicio"  | Programación de la sección "Features" | Programación de la sección "About Us" | Programación de la sección "Contact Us" |
-| :--: | :--: | :--: |:--: | :--: | :--: | :--: |
-| Aaron Alexander Avila Palacios | AaronAvilap | - | - | - | - | - |
-| Gabriel Anthony Braithuaite Toledo | Gaboo04 | -| - | -| -| -|
-| Kevin Alexander Castañeda Llanos | KevCast1604 | -| -| -| - | - |
-| Ivan Jeanpierre La Madrid Lozano | ivanlamadrid | -| -| -| -| -|
-| Max Anthony Paitan Pumacahua | MaxPaitanP | L | L | L | L | L |
+
+En este Sprint, como grupo identificamos los aspectos principales en los que íbamos a enfocar nuestro trabajo. Para este sprint, decidimos dedicarnos por completo al desarrollo de la primera versión del landing page, completando el diseño por completo, empezando por la presentación del proyecto, los call to action, las características ofrecidas a cada segmento objetivo y nuestra información como desarrolladores. Resaltamos que, si bien está completo a nivel de estructura, aún falta realizar correcciones y modificaciones conforme se avance el proyecto principal.
+
+Cada aspecto representa una parte del alcance funcional del landing page.Esta división nos permitió organizarnos mejor, asignando a uno como responsable principal, mientras que el resto colaboró según la necesidad del desarrollo. A continuación, mostramos un cuadro donde se detallan los líderes y colaboradores asignados a cada aspecto trabajado durante el Sprint:
+
+| Team Member | GitHub username | Diseño de la UI del Landing Page | Programación de la sección "Cómo funciona"  | Programación de la sección "Productoras" | Programación de la sección "Empresas" | Programación de la sección "Call to action" | Programación de la sección "Quienes somos" | Programación de la sección "Footer" |
+| :--: | :--: | :--: |:--: | :--: | :--: | :--: | :--: | :--: |
+| Aaron Alexander Avila Palacios | AaronAvilap | C | C | C | C | C | C | C |
+| Gabriel Anthony Braithuaite Toledo | Gaboo04 | C | C | C | C | C | C | C | 
+| Kevin Alexander Castañeda Llanos | KevCast1604 | C | C | C | C | C | C | C |
+| Ivan Jeanpierre La Madrid Lozano | ivanlamadrid | C | C | C | C | C | C | C |
+| Max Anthony Paitan Pumacahua | MaxPaitanP | L | L | L | L | L | L | L |
 
 #### **5.2.1.3. Sprint Backlog 1**
+El objetivo principal de este Sprint fue avanzar en el desarrollo de las funcionalidades clave de nuestra solución, priorizando aquellas que nos permitieran entregar una versión funcional inicial de la Landing Page y establecer las bases para el desarrollo posterior del sistema. Para organizar y dar seguimiento a las tareas, utilizamos la herramienta Trello como nuestro tablero de control, donde cada integrante podía visualizar, actualizar y colaborar en las actividades asignadas. A continuación, se presenta una captura del tablero correspondiente al sprint 1:
 
-| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+  ![Board en Trello, para el sprint backlog 1](images/boardSprint1.PNG)   
+Link del board en Trello: https://trello.com/b/8b0Ucgzs/sprint-1
+
+Esta es la tabla del Sprint Backlog 1:
+
+### Sprint Backlog - Sprint 1
+
+| Sprint # | Sprint 1 |  |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | User Story |  | Work-Item / Task |  |  |  |  |  |
-| ID  | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US003 | Sección Cómo funciona	 | TS01 | Implementación de la sección Cómo funciona | Implementación de la sección "Cómo funciona", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
-| US004 | Sección Productoras | TS02 | Implementación de la sección Productoras | Implementación de la sección "Productoras", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
-| US005 | Sección Empresas | TS03 | Implementación de la sección Empresas | Implementación de la sección "Empresas", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
-| US008 | Sección Call to action | TS04 | Implementación de la sección Call to action | Implementación de la sección "Call to action", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
-| US007 | Sección Quienes somos | TS05 | Implementación de la sección Quienes somos | Implementación de la sección "Quienes somos", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
-| US006 | Sección Footer | TS06 | Implementación de la sección Footer | Implementación de la sección "Footer", con las características establecidas en el mockup desarrollado | 2 hours | Max | Done |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US003 | Sección Cómo funciona | TS01 | Maquetar estructura HTML | Crear estructura HTML semántica de la sección según mockup | 1 | Max | Done |
+|  |  | TS02 | Aplicar estilos CSS | Dar estilos visuales con CSS respetando el diseño definido | 1 | Max | Done |
+| US004 | Sección Productoras | TS03 | Estructurar HTML | Crear el layout HTML con base en el mockup | 1.5 | Max | Done |
+|  |  | TS04 | Estilizar sección | Aplicar CSS para diseño responsivo y visualmente atractivo | 1 | Max | Done |
+| US005 | Sección Empresas | TS05 | HTML de la sección | Construcción de la estructura HTML semántica | 1.5 | Max | Done |
+|  |  | TS06 | CSS de la sección | Estilos visuales y adaptación responsiva | 1 | Max | Done |
+| US008 | Sección Call to action | TS07 | Estructura HTML del CTA | Maquetar la sección de llamada a la acción | 1 | Max | Done |
+|  |  | TS08 | Estilos y botones del CTA | Aplicar estilos y lógica visual al botón principal | 1 | Max | Done |
+| US007 | Sección Quiénes somos | TS09 | Maquetar HTML | Crear la estructura base de la sección informativa | 1.5 | Max | Done |
+|  |  | TS10 | Aplicar estilos | Dar formato visual mediante CSS, asegurando adaptabilidad | 1.5 | Max | Done |
+| US006 | Sección Footer | TS11 | HTML del Footer | Maquetación básica del pie de página con enlaces e íconos | 0.5 | Max | Done |
+|  |  | TS12 | CSS del Footer | Aplicar diseño visual y responsive | 1 | Max | Done |
+| — | Task general | TS13 | Configurar GitHub Pages | Habilitar GitHub Pages y asegurar despliegue automático desde rama main | 1 | Max | Done |
+| — | Task general | TS14 | Revisión de accesibilidad básica | Verificar contraste, etiquetas y estructura para accesibilidad mínima | 1 | Max | Done |
+
+
 
 #### **5.2.1.4. Development Evidence for Sprint Review** 
 
