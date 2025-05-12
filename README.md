@@ -894,10 +894,37 @@ En esta sección se explicará cuáles serán las acciones y técnicas que guiar
     - Navegación basada en tipo de usuario: Dependiendo de la clase de usuario que se desee ser (empresa o productora), las funciones de la aplicación variarán ya que cada uno de los segmentos objetivos demandan un objetivo diferente.
     - Ayuda contextual: Se presentará un mini tutorial sobre el uso de la aplicación web para ayudar al usuario a poder entender el funcionamiento de la app.
 ### 4.3. Landing Page UI Design.
-### 4.3.1. Landing Page Wireframe.
-![Wireframe del Landing Page](images/WireframeLanding.png)
-### 4.3.2. Landing Page Mock-up.
-![MockUp del Landing Page](images/MockUpLanding.png)
+### 4.3.1. Landing Page Wireframe  
+![WireframeLanding](https://github.com/user-attachments/assets/24f5f748-cec6-4213-a73b-ac4f5253b6af)
+
+> **Descripción del wireframe**  
+> El bosquejo en baja fidelidad define **la estructura jerárquica** sin distracciones visuales.  
+>
+> | Sección | Objetivo | Componentes claves |
+> |---------|----------|--------------------|
+> | **Header** | Navegación principal | Logo, menú de 5 enlaces y botón CTA destacado |
+> | **Hero (faja en Z-pattern)** | Mensaje de valor + acción inmediata | Título triple-línea, copy breve, 2 CTAs paralelos |
+> | **Bloque “Para Empresas”** | Beneficios dirigidos al segmento demandante | Cuadro de título + 4 tarjetas de ícono/beneficio |
+> | **Bloque “Para Productoras”** | Beneficios al segmento proveedor | Estructura gemela al bloque anterior |
+> | **Proceso Paso-a-Paso** | Explicar flujo MatchEvent | Columna izquierda “Para Empresas” vs. derecha “Para Productoras” con bullet-steps y check-icons |
+> | **Sobre Nosotros** | Presentar al equipo | Avatares circulares y nombres debajo |
+> | **Footer CTA** | Conversión final | Copy de cierre + botones Registro / Iniciar Sesión + footer legal oscuro |
+
+---
+
+### 4.3.2. Landing Page Mock-up  
+![MockUpLanding](https://github.com/user-attachments/assets/a79c6de3-8b0a-4245-b801-2db4e3e94b34)
+
+> **Descripción del mock-up**  
+> La maqueta en alta fidelidad aplica los estilos definidos (paleta azul-mostaza, Roboto, patrón Z) y valida **tono visual y jerarquía de contenidos** antes del prototipo interactivo.  
+>
+> - **Header**: logo minimalista + navegación en texto gris y CTA “Iniciar Sesión” en mostaza para contraste.  
+> - **Hero**: fondo azul medio con pattern, headline centrado (“Conecta con las mejores productoras…”), subcopy y CTAs diferenciados por rol (“Buscar Productora” vs. “Registrarme como Productora”).  
+> - **Secciones de beneficio**: tarjetas con bordes suaves y placeholder de imagen, manteniendo consistencia cromática.  
+> - **Proceso**: dos tarjetas blancas con sombra sutil; bullets azules y numeración clara para reforzar facilidad de uso.  
+> - **Sobre Nosotros**: avatares gris claro listos para foto real; nombres en gris oscuro bajo cada círculo.  
+> - **Footer**: banda azul oscuro replicando el hero; CTA final doble y créditos en gris claro sobre fondo casi negro para completar el patrón Z y reforzar contraste.
+
 ### 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ![Imagen de WhatsApp 2025-04-23 a las 18 30 08_a4425784](https://github.com/user-attachments/assets/9f5df8c3-bb12-41c4-94d0-7285fa1cf0f7)
