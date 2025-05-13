@@ -387,6 +387,7 @@ El mercado de plataformas para la gestión y contratación de servicios para eve
 - **eEvents Live**: Especializada en eventos digitales e híbridos. Brinda herramientas completas para la organización, promoción y análisis de eventos.
 
 - **GoTab**: Plataforma orientada a mejorar la experiencia del asistente mediante pedidos y pagos sin contacto, enfocándose en la eficiencia operativa durante el evento.
+![image](https://github.com/user-attachments/assets/04c71035-2cd4-4dc2-abaa-e1bcd946907d)
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -412,6 +413,61 @@ Para posicionarse de manera efectiva, se plantean las siguientes estrategias dif
 
 7. **Alianzas estratégicas**  
    Establecer convenios con entidades del sector, agencias o plataformas complementarias para potenciar la red de usuarios y aumentar la credibilidad del producto.
+### 2.2. Entrevistas.
+
+### 2.2.1. Diseño de entrevistas.
+
+El diseño de entrevistas tiene como objetivo validar los supuestos clave del proyecto, entender las necesidades reales de los usuarios y recopilar información cualitativa que permita orientar el desarrollo de la plataforma. Se proponen dos perfiles principales a entrevistar: **empresas/marcas** que requieren servicios de producción de eventos y **productoras** que ofrecen dichos servicios.
+
+#### Objetivos de la entrevista
+
+- Identificar las principales dificultades que enfrentan las empresas al organizar eventos.
+- Validar el interés en una plataforma centralizada para conectar con productoras.
+- Comprender cómo las productoras gestionan actualmente la captación de clientes.
+- Evaluar la disposición de ambos perfiles a utilizar una solución tecnológica para este fin.
+- Identificar las funcionalidades más valoradas por cada tipo de usuario.
+
+#### Perfil de entrevistados
+
+- **Empresas y marcas**:
+  - Responsables de marketing, comunicación o eventos.
+  - Empresas que hayan organizado al menos un evento en el último año.
+  - Empresas sin experiencia previa pero con intención de realizar eventos en el corto plazo.
+
+- **Productoras**:
+  - Empresas o freelancers dedicados a la producción de eventos o activaciones de marca.
+  - Productoras con experiencia en diversos tipos de eventos (corporativos, BTL, culturales, etc.).
+  - Interesados en aumentar su visibilidad o ampliar su cartera de clientes.
+
+#### Guía de preguntas para empresas/marcas
+
+1. ¿Qué tipo de eventos organiza su empresa y con qué frecuencia?
+2. ¿Cómo suele encontrar proveedores para la producción de eventos?
+3. ¿Qué dificultades ha tenido al contratar una productora?
+4. ¿Qué valoraría más en una plataforma para encontrar productoras?
+5. ¿Qué criterios utiliza para seleccionar una productora?
+6. ¿Ha tenido experiencias negativas en la organización de eventos? ¿Por qué?
+7. ¿Le interesaría una plataforma donde pueda ver reseñas y comparar ofertas?
+8. ¿Qué información le gustaría ver en el perfil de una productora?
+9. ¿Estaría dispuesto a interactuar directamente por la plataforma con los proveedores?
+
+#### Guía de preguntas para productoras
+
+1. ¿Qué tipo de eventos realiza su productora con mayor frecuencia?
+2. ¿Cómo consigue actualmente nuevos clientes?
+3. ¿Cuáles son los mayores retos al promocionar sus servicios?
+4. ¿Qué canales utiliza para mostrar su portafolio o experiencia?
+5. ¿Le interesaría una plataforma donde pudiera conectarse directamente con empresas interesadas?
+6. ¿Qué herramientas considera necesarias dentro de una plataforma de este tipo?
+7. ¿Cómo influye la reputación o las reseñas en la captación de nuevos clientes?
+8. ¿Estaría dispuesto a especializarse en un tipo de evento dentro de la plataforma?
+9. ¿Qué espera de una plataforma que busca profesionalizar la conexión entre marcas y productoras?
+
+#### Formato y duración
+
+- Entrevistas semiestructuradas de 30 a 45 minutos.
+- Modalidad virtual o presencial según disponibilidad.
+- Registro de respuestas mediante notas o grabaciones con consentimiento previo.
 ### 2.2. .
 
 ### 2.2.1. Diseño de entrevistas.
@@ -1099,31 +1155,43 @@ En esta sección se explicará cuáles serán las acciones y técnicas que guiar
 > - **Footer**: banda azul oscuro replicando el hero; CTA final doble y créditos en gris claro sobre fondo casi negro para completar el patrón Z y reforzar contraste.
 
 ### 4.4. Web Applications UX/UI Design.
-### 4.4.1. Web Applications Wireframes.
-![Imagen de WhatsApp 2025-04-23 a las 18 30 08_a4425784](https://github.com/user-attachments/assets/9f5df8c3-bb12-41c4-94d0-7285fa1cf0f7)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 08_2a73fd3b](https://github.com/user-attachments/assets/e2de93a7-155f-4ca5-80b4-d86d6c0b0b51)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 08_72a69ae1](https://github.com/user-attachments/assets/d190434f-14e7-4d8c-a418-48e6bf1893be)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 08_bdd41016](https://github.com/user-attachments/assets/f64717a5-0c20-4c91-9317-6a966db01982)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 08_86cd069f](https://github.com/user-attachments/assets/5fffe2a8-b7f7-47c9-b802-18aa8e3d6fc8)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 09_cc12d505](https://github.com/user-attachments/assets/afda922c-3c13-4217-8def-02fc998791a2)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 09_754c0668](https://github.com/user-attachments/assets/32961d00-7f2d-4c59-93ff-ecbd281fa767)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 09_c385783d](https://github.com/user-attachments/assets/7ec1e0fe-52ac-4f3d-91d3-7467e53f3680)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 09_f2628220](https://github.com/user-attachments/assets/8b03dcf3-ed74-4346-b6f0-fa6c1d2fa9c1)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 09_3a1ab92e](https://github.com/user-attachments/assets/41436ca4-c718-4660-8ee1-7b1df8e83789)
+### 4.4.1. Web Applications – Wireframes  
+
+> Los wireframes a continuación muestran la navegación núcleo de la aplicación web antes de aplicar estilos finales. Se enumeran en el mismo orden en que un usuario típico (empresa o productora) los encontraría.
+
+| # | Pantalla (wireframe) | Propósito y componentes principales |
+|---|----------------------|-------------------------------------|
+| 1 | ![WF-Home](https://github.com/user-attachments/assets/9f5df8c3-bb12-41c4-94d0-7285fa1cf0f7) | **Home feed** tras iniciar sesión: hero contextual, buscador rápido y carrusel de tarjetas con oportunidades destacadas. |
+| 2 | ![WF-Directory](https://github.com/user-attachments/assets/e2de93a7-155f-4ca5-80b4-d86d6c0b0b51) | **Directorio de productoras** / solicitudes: filtros superiores y tarjetas con mini-portafolio, rating y CTA “Conectar”. |
+| 3 | ![WF-DashboardProd](https://github.com/user-attachments/assets/d190434f-14e7-4d8c-a418-48e6bf1893be) | **Dashboard de productora**: KPIs (propuestas enviadas, contratos, rating) y lista de solicitudes pendientes. |
+| 4 | ![WF-ProfileEdit](https://github.com/user-attachments/assets/f64717a5-0c20-4c91-9317-6a966db01982) | **Edición de perfil** (empresa o productora): avatar, datos de contacto y servicios ofrecidos. |
+| 5 | ![WF-Wizard](https://github.com/user-attachments/assets/5fffe2a8-b7f7-47c9-b802-18aa8e3d6fc8) | **Wizard de publicación de solicitud** (paso a paso, 3 steps): selección de tipo de evento, fechas y presupuesto. |
+| 6 | ![WF-Inbox/List](https://github.com/user-attachments/assets/afda922c-3c13-4217-8def-02fc998791a2) | **Lista de conversaciones / propuestas**: búsqueda, pestañas por estado y paginado inferior. |
+| 7 | ![WF-Login](https://github.com/user-attachments/assets/32961d00-7f2d-4c59-93ff-ecbd281fa767) | **Login simple** con correo y contraseña; enlace a registro y recuperación. |
+| 8 | ![WF-Signup](https://github.com/user-attachments/assets/7ec1e0fe-52ac-4f3d-91d3-7467e53f3680) | **Registro**: selector de tipo de cuenta, datos básicos y doble contraseña. |
+| 9 | ![WF-Verify](https://github.com/user-attachments/assets/8b03dcf3-ed74-4346-b6f0-fa6c1d2fa9c1) | **Pantalla de verificación de correo** con CTA para volver al login. |
+|10 | ![WF-RequestForm](https://github.com/user-attachments/assets/41436ca4-c718-4660-8ee1-7b1df8e83789) | **Formulario completo de solicitud de activación**: detalles del evento, servicios requeridos y fechas. |
+
+Cada wireframe se diseñó en **blanco y negro** para concentrarse en la disposición de elementos, jerarquía visual y flujos de usuario antes de aplicar color, tipografía y componentes definitivos de UI.
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ![Imagen de WhatsApp 2025-04-23 a las 18 37 58_6c910836](https://github.com/user-attachments/assets/c23f74af-9c92-41bd-b895-de8d6c209ba1)
-### 4.4.2. Web Applications Mock-ups.
-![Imagen de WhatsApp 2025-04-23 a las 18 33 06_db9017a1](https://github.com/user-attachments/assets/2a6635cc-35ed-42ca-b4f4-ce9460d05d2d)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 06_086bcc56](https://github.com/user-attachments/assets/befa5c6f-15fc-45d2-a9ff-5cafe3e357e6)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 06_30a3100f](https://github.com/user-attachments/assets/6265fd47-62ac-4597-8a2a-5d42383ef22c)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_be358643](https://github.com/user-attachments/assets/ac7eff66-435d-4eba-bb55-7e76b34f6ed2)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_c8571cb8](https://github.com/user-attachments/assets/17a75f86-e5f8-4da9-82bd-ba929b471169)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_31b32b2f](https://github.com/user-attachments/assets/b2805d70-bff6-4433-b260-2ff812b76f22)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_c0617160](https://github.com/user-attachments/assets/98f32083-7559-4458-8cbc-0a6377a5ab92)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_1f4e5e7d](https://github.com/user-attachments/assets/90b2c936-f2f2-4714-8a4f-2675f21eb11e)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_2df65abb](https://github.com/user-attachments/assets/1727a0c9-7cd6-4305-b36b-d63fd2ed2b35)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 08_6f6afaee](https://github.com/user-attachments/assets/31a1857c-4a80-4db5-bb4d-dff8d028b474)
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.2. Web Applications Mock-ups  
+
+| # | Mock-up | Pantalla / flujo representado | Resumen funcional |
+|---|---------|------------------------------|-------------------|
+| 1 | ![Directorio de productoras](https://github.com/user-attachments/assets/2a6635cc-35ed-42ca-b4f4-ce9460d05d2d) | **Directorio – vista Empresas** | Tarjetas con mini-portafolio, rating y CTA *Ver perfil*; buscador + filtros por categoría/intereses. |
+| 2 | ![Dashboard productora](https://github.com/user-attachments/assets/befa5c6f-15fc-45d2-a9ff-5cafe3e357e6) | **Dashboard – vista Productoras** | KPIs (solicitudes recibidas, contratos, rating), tabs por estado y botón *Enviar propuesta*. |
+| 3 | ![Perfil empresa](https://github.com/user-attachments/assets/6265fd47-62ac-4597-8a2a-5d42383ef22c) | **Perfil de empresa editable** | Sidebar con métricas + formulario con datos, intereses y seguridad. |
+| 4 | ![Wizard nueva solicitud](https://github.com/user-attachments/assets/ac7eff66-435d-4eba-bb55-7e76b34f6ed2) | **Wizard paso 1 – Nueva solicitud** | Selección de tipo de servicio en pasos progresivos (1/3). |
+| 5 | ![Wizard nueva solicitud – pasos](https://github.com/user-attachments/assets/17a75f86-e5f8-4da9-82bd-ba929b471169) | **Wizard paso 2–3** | Datos logísticos y confirmación antes de publicar la solicitud. |
+| 6 | ![Historial solicitudes](https://github.com/user-attachments/assets/b2805d70-bff6-4433-b260-2ff812b76f22) | **Historial de solicitudes** | Listado paginado con filtros (todos/en revisión) y CTA *Ver detalle* / *Cancelar*. |
+| 7 | ![Login](https://github.com/user-attachments/assets/90b2c936-f2f2-4714-8a4f-2675f21eb11e) | **Inicio de sesión** | Logotipo, campos de credenciales y enlaces a registro / recuperación. |
+| 8 | ![Verificación email](https://github.com/user-attachments/assets/1727a0c9-7cd6-4305-b36b-d63fd2ed2b35) | **Confirmación de correo** | Mensaje de éxito con CTA para volver al login. |
+| 9 | ![Formulario publicación solicitud](https://github.com/user-attachments/assets/31a1857c-4a80-4db5-bb4d-dff8d028b474) | **Publicar solicitud (formulario completo)** | Campos de información general, logística y presupuesto con validaciones obligatorias. |
+| 10 | ![Portafolio servicios](https://github.com/user-attachments/assets/98f32083-7559-4458-8cbc-0a6377a5ab92) | **Gestión de portafolio – Productoras** | Alta de nuevos servicios: nombre, categoría, precio, disponibilidad y upload de imagen. |
+
+Cada mock-up aplica la **paleta azul–mostaza y la tipografía Roboto** definida en las *Style Guides*, ilustrando la experiencia final tras la fase de prototipado.### 4.4.3. Web Applications User Flow Diagrams.
 ![Imagen de WhatsApp 2025-04-23 a las 18 33 08_6f6afaee](/images/wireflow1.png)
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
