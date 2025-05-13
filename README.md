@@ -1238,7 +1238,7 @@ Responsabilidad:
 ### 4.7. Software Object-Oriented Design.
 
 #### 4.7.1. Class Diagrams.
-![diagrama-clases](https://github.com/user-attachments/assets/380e381a-ebbe-4255-9195-99cd121cb86e)
+![diagrama-de-clases](https://github.com/user-attachments/assets/3dd6e07b-c408-4975-b5ff-3b1845a87fb2)
 
 #### 4.7.2. Class Dictionary
 
