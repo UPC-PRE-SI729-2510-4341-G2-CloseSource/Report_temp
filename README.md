@@ -1135,11 +1135,20 @@ Cada wireframe se diseñó en **blanco y negro** para concentrarse en la disposi
 Cada mock-up aplica la **paleta azul–mostaza y la tipografía Roboto** definida en las *Style Guides*, ilustrando la experiencia final tras la fase de prototipado.### 4.4.3. Web Applications User Flow Diagrams.
 ![Imagen de WhatsApp 2025-04-23 a las 18 33 08_6f6afaee](/images/wireflow1.png)
 ### 4.5. Web Applications Prototyping.
+
 ### 4.6. Domain-Driven Software Architecture.
-Domain-Driven software architecture es un enfoque de diseño de software que se centra en la creación de un modelo conceptual del dominio del problema, permitiendo una mejor comprensión y comunicación entre los desarrolladores y los expertos en el dominio. Este enfoque ayuda a alinear el diseño del software con las necesidades del negocio y a crear una arquitectura más flexible y mantenible.
-MatchEvent es un ejemplo de una aplicación web que utiliza este enfoque, permitiendo a las empresas y productoras gestionar sus eventos de manera eficiente.
+
+Domain-Driven software architecture es un enfoque de diseño de software que se centra en la creación de un modelo
+conceptual del dominio del problema, permitiendo una mejor comprensión y comunicación entre los desarrolladores y los
+expertos en el dominio. Este enfoque ayuda a alinear el diseño del software con las necesidades del negocio y a crear
+una arquitectura más flexible y mantenible.
+MatchEvent es un ejemplo de una aplicación web que utiliza este enfoque, permitiendo a las empresas y productoras
+gestionar sus eventos de manera eficiente.
+
 ### 4.6.1. Software Architecture Context Diagram.
+
 Elementos en el diagrama de contexto:
+
 - MatchEvent: Aplicación web que conecta empresas y productoras.
 - Visitor: Usuario no autenticado que navega por la landing page.
 - Customer: Empresa o marca que publica solicitudes de activación o compañía productora que publica su portafolio.
@@ -1147,29 +1156,38 @@ Elementos en el diagrama de contexto:
 **Figura 6: Software Architecture Context Diagram**
 
 ![Software Architecture Context Diagram](/images/contextDiagram.png)
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
 Elementos en el diagrama de contenedores:
+
 - Web Application: Aplicación web que permite a los usuarios interactuar con la plataforma.
 - Database: Base de datos que almacena la información de los usuarios, solicitudes y servicios.
 - Backend API: API que gestiona la lógica de negocio y la comunicación entre la aplicación web y la base de datos.
-- Landing Page: Página de inicio que proporciona información sobre la plataforma y permite a los usuarios registrarse o iniciar sesión.
+- Landing Page: Página de inicio que proporciona información sobre la plataforma y permite a los usuarios registrarse o
+  iniciar sesión.
 - Developer: Desarrollador que trabaja en la implementación y mantenimiento de la aplicación.
 - Visitor: Usuario no autenticado que navega por la landing page.
-- Customer: Empresa o marca que publica solicitudes de activación o compañía productora que publica su portafolio.
+- Empresa o marca: Segmento objetivo que publica solicitudes de activación 
+- Productoras Especializadas: Compañía productora que publica su portafolio.
 
 **Figura 7: Software Architecture Container Diagrams**
 
 ![Software Architecture Container Diagrams](/images/containerDiagram.png)
 
 ![Software Architecture Container Diagrams](/images/containerDiagram2.png)
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
 **Bounded Context Identity and Access:**
 
 Elementos en el diagrama de componentes:
+
 - Web Application: Aplicación web que permite a los usuarios interactuar con la plataforma.
 - User Controller: Controlador que gestiona las solicitudes de los usuarios y la autenticación.
 - User Service: Servicio que maneja la lógica de negocio relacionada con los usuarios.
-- User Repository: Repositorio que interactúa con la base de datos para almacenar y recuperar información de los usuarios.
+- User Repository: Repositorio que interactúa con la base de datos para almacenar y recuperar información de los
+  usuarios.
 - Database: Base de datos que almacena la información de los usuarios, solicitudes y servicios.
 
 **Figura 8: Bounded Context Identity and Access**
@@ -1185,13 +1203,14 @@ Responsabilidad:
 - Listado de solicitudes
 - Visualización de detalles de una solicitud
 
-**Figura 9: Bounded Activation Request** 
+**Figura 9: Bounded Activation Request**
 
 ![Bounded Context Activation Request](/images/activationRequestsBoundedContext.png)
 
 **Bounded Context Activation Quotes**
 
 Responsabilidad:
+
 - Permitir a una productora enviar una propuesta para una solicitud publicada.
 - Listar propuestas enviadas por cada productora.
 - Posible relación con estados: "enviada", "aceptada", "rechazada".
@@ -1215,6 +1234,7 @@ Responsabilidad:
 **Bounded Context Portafolio Management**
 
 Responsabilidad:
+
 - Permitir a una productora registrar y editar su portafolio de servicios.
 - Cada servicio podría tener: nombre, descripción, categoría, precio, etc.
 - Mostrar estos servicios como parte del perfil público de la productora.
