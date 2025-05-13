@@ -387,7 +387,7 @@ El mercado de plataformas para la gestión y contratación de servicios para eve
 - **eEvents Live**: Especializada en eventos digitales e híbridos. Brinda herramientas completas para la organización, promoción y análisis de eventos.
 
 - **GoTab**: Plataforma orientada a mejorar la experiencia del asistente mediante pedidos y pagos sin contacto, enfocándose en la eficiencia operativa durante el evento.
-![image](https://github.com/user-attachments/assets/04c71035-2cd4-4dc2-abaa-e1bcd946907d)
+![image](https://github.com/user-attachments/assets/563692ce-2eab-4061-80be-c39ce2d35d86)
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
