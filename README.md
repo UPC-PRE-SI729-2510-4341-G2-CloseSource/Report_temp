@@ -694,7 +694,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien a
 	</tbody>
 </table>
 
-<h3>Tareas con mayor frecuencia e importancia:</h3>
+**Tareas con mayor frecuencia e importancia:**
 
 -Ambas partes coinciden en que comunicarse, negociar condiciones y revisar referencias o portafolios son tareas de alta frecuencia e importancia. Estas acciones forman parte esencial del proceso previo a la contratación.
 
@@ -702,13 +702,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien a
 
 -Para las productoras, resultan críticas las tareas de difundir su portafolio, captar nuevos clientes y asegurar visibilidad digital, todas con alta importancia, aunque con frecuencias variables dependiendo de sus recursos actuales.
 
-<h3>Principales diferencias:</h3>
+**Principales diferencias:**
 
 -Las empresas priorizan encontrar y seleccionar proveedores adecuados, mientras que las productoras se enfocan más en ser encontradas y mostrarse de forma profesional.
 
 -La gestión de propuestas comerciales y la visibilidad en canales digitales tiene una importancia mayor para las productoras, ya que les permite ampliar su alcance y mejorar sus oportunidades comerciales.
 
-<h3>Coincidencias relevantes:</h3>
+**Coincidencias relevantes:**
 
 -Ambas partes valoran la calidad del contacto y la comunicación directa, así como la posibilidad de revisar y comparar propuestas de manera clara y estructurada.
 
@@ -751,7 +751,8 @@ La curva emocional del mapeo muestra un ascenso desde la incertidumbre inicial h
   Carla comienza su recorrido cuando surge una nueva campaña que requiere una activación de marca. En ese momento, inicia una búsqueda informal de proveedores, se comunica con algunos recomendados, y solicita cotizaciones que evalúa con incertidumbre. Tras negociar, 
   contrata una productora con la esperanza de obtener buenos resultados, aunque el proceso fue largo y poco claro. Al finalizar el evento, Carla recibe resultados, pero sin métricas claras ni seguimiento profesional.
   
-  <img src="/images/User journey map Carla.png" alt="Carla Ramírez"/>
+  ![User journey map Carla](/images/UserjourneymapCarla.png)
+  
 
 - Andrés Gutiérrez – Productora Especializada:
   
