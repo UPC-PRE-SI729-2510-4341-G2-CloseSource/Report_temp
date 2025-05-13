@@ -618,14 +618,43 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien a
 
 -También existe coincidencia en la importancia de calificar el trabajo recibido o realizado, lo que refuerza la necesidad de sistemas de reputación y feedback dentro de la plataforma.
 
-### 2.3.3. User Journey Mapping.
+### 2.3.3. User Journey Mapping
 
-- Empresas o Marcas:
-![User Journey Empresas o Marcas](images/UserJourneyEmpresas.png)
+A continuación, el **recorrido end-to-end** que la plataforma MatchEvent busca transformar:
 
+1. **AWARE** –  
+   - *Empresa*: Detecta la necesidad de una activación para campaña o lanzamiento.  
+   - *Productora*: Percibe una posible oportunidad de negocio.  
+   Ambos se mueven en canales informales y comparten la frustración de no saber a quién acudir.
 
-- Productoras Especializadas:
-![User Journey Productoras](images/UserJourneyProductoras.png)
+2. **JOIN** –  
+   - *Empresa*: Contacta varios proveedores sin criterio estandarizado.  
+   - *Productora*: Se presenta con información básica, sin garantía de ser escuchada.  
+   La validación de experiencia y calidad es el principal dolor.
+
+3. **USE** –  
+   - Intercambio de propuestas, revisión de portafolios y negociación.  
+   La comunicación dispersa (WhatsApp, e-mail) provoca ciclos lentos y confusión, aunque crece la expectativa de concretar el proyecto.
+
+4. **LEAVE** –  
+   - Ejecución del evento y cierre.  
+   - Empresa mide impacto de forma manual; productora espera testimonios y reputación.  
+   Falta un sistema post-evento de métricas y calificaciones que capture el valor generado.
+
+La curva emocional del mapeo muestra un ascenso desde la incertidumbre inicial hasta la satisfacción final, evidenciando cuatro *insights* claves que MatchEvent atenderá:
+
+* Centralizar proveedores con filtros especializados.  
+* Portafolios y propuestas estructuradas y verificadas.  
+* Comunicación y seguimiento dentro de la misma aplicación.  
+* Métricas post-evento y reputación bilateral.
+
+---
+
+#### Empresas o Marcas
+![UserJourneyEmpresas](https://github.com/user-attachments/assets/8bab8358-1907-473f-9708-f8f32dd0b62e)
+
+#### Productoras Especializadas
+![UserJourneyProductoras](https://github.com/user-attachments/assets/0eed9ff7-681c-4a4a-bc9e-b7f2c7e4f406)
 
 ### 2.3.4. Empathy Mapping.
 
