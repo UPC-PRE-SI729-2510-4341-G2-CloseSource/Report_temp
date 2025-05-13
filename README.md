@@ -1834,7 +1834,7 @@ En este Sprint, como grupo identificamos los aspectos principales en los que íb
 #### **5.2.2.3. Sprint Backlog 2**
 El objetivo principal de este Sprint fue avanzar en el desarrollo de las secciones core business, es decir, las más importantes que cumplan con el objetivo de nuestro negocio. Decidimos dividir varios bounded contexts para de esta manera poder crear algunas secciones, utilizando herramientas FrontEnd como Angular y Typescript. También, nos centramos en las correciones de algunas partes del informe, detallando y añadiendo información.
 
-  ![Board en Trello, para el sprint backlog 2](images/trello2.PNG)   
+  ![Board en Trello, para el sprint backlog 2](images/trello2.png)   
 [Link del board en Trello: https://trello.com/b/8b0Ucgzs/sprint-2](https://trello.com/invite/b/681be2187eb81b9994744840/ATTI60721459bd21236fea3fa6001b829db5420B8F21/matchevent)
 
 Esta es la tabla del Sprint Backlog 2:
