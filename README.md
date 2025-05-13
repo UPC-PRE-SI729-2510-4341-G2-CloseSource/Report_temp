@@ -567,38 +567,134 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien a
 ### 2.3.2. User Task Matrix.
 
 - Empresas o Marcas:
-  
- | **User Task Matrix**                                             | **Frecuencia** | **Importancia** |
-|------------------------------------------------------------------|----------------|------------------|
-| **Segmento Objetivo 1**                                          |                |                  |
-| Buscar proveedores para eventos                                  | Mensual        | Alta             |
-| Comparar presupuestos y propuestas                               | Mensual        | Alta             |
-| Revisar portafolios y referencias                                | Mensual        | Alta             |
-| Publicar requerimientos para activaciones                        | Mensual        | Alta             |
-| Comunicarse con potenciales proveedores                          | Mensual        | Alta             |
-| Negociar condiciones (presupuesto, plazos, servicios)            | Mensual        | Alta             |
-| Calificar o dejar feedback tras un evento                        | Mensual        | Media            |
-| Gestionar propuestas comerciales de manera organizada            | Quincenal      | Alta             |
-| Encontrar soluciones rápidas sin depender de contactos informales| Siempre        | Alta             |
-| Evaluar calidad antes de contratar                               | Siempre        | Alta             |
+  <table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 1</td>            
+		</tr>
+		<tr>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Buscar proveedores para eventoss</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Comparar presupuestos y propuestas</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Revisar portafolios y referencias</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Publicar requerimientos para activaciones</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Comunicarse con potenciales proveedores</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Negociar condiciones (presupuesto, plazos, servicios)</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Calificar o dejar feedback tras un evento</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Media</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Gestionar propuestas comerciales de manera organizada</td>
+			<td colspan="1">Quincenal</td>
+            <td colspan="1">Alta</td>            
+		</tr>        
+      <tr>
+			<td colspan="1">Encontrar soluciones rápidas sin depender de contactos informales</td>
+			<td colspan="1">Siempre</td>
+            <td colspan="1">Alta</td>            
+		</tr>        
+      <tr>
+			<td colspan="1">Evaluar calidad antes de contratar</td>
+			<td colspan="1">Simepre</td>
+            <td colspan="1">Alta</td>            
+		</tr>        
+	</tbody>
+</table>
 
 - Productoras Especializadas:
+  <table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 2</td>            
+		</tr>
+		<tr>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Revisar portafolios y referencias</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Comunicarse con potenciales clientes</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Negociar condiciones (presupuesto, plazos, servicios)</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Calificar o dejar feedback tras un evento</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Difundir portafolio o servicios de producción</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Captar nuevos clientes fuera de su red de contactos</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Gestionar propuestas comerciales de manera organizada</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>      
+     <tr>
+			<td colspan="1">Asegurar visibilidad en canales digitales formales</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>           
+     <tr>
+			<td colspan="1">Posicionarse como experto en un nicho de eventos</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>           
+     <tr>
+			<td colspan="1">Evitar pérdida de tiempo con clientes no alineados a su especialidad</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>           
+	</tbody>
+</table>
 
-| **User Task Matrix**                                            | **Frecuencia** | **Importancia** |
-|-----------------------------------------------------------------|----------------|------------------|
-| **Segmento Objetivo 2**                                         |                |                  |
-| Revisar portafolios y referencias                               | Mensual        | Alta             |
-| Comunicarse con potenciales clientes                            | Mensual        | Alta             |
-| Negociar condiciones (presupuesto, plazos, servicios)           | Mensual        | Alta             |
-| Calificar o dejar feedback tras un evento                       | Mensual        | Alta             |
-| Difundir portafolio o servicios de producción                   | Mensual        | Alta             |
-| Captar nuevos clientes fuera de su red de contactos             | Mensual        | Alta             |
-| Gestionar propuestas comerciales de manera organizada           | Mensual        | Alta             |
-| Asegurar visibilidad en canales digitales formales              | Mensual        | Alta             |
-| Posicionarse como experto en un nicho de eventos                | Mensual        | Alta             |
-| Evitar pérdida de tiempo con clientes no alineados a su especialidad | Mensual    | Alta             |
-
-#### Tareas con mayor frecuencia e importancia:
+<h3>Tareas con mayor frecuencia e importancia:</h3>
 
 -Ambas partes coinciden en que comunicarse, negociar condiciones y revisar referencias o portafolios son tareas de alta frecuencia e importancia. Estas acciones forman parte esencial del proceso previo a la contratación.
 
@@ -606,19 +702,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien a
 
 -Para las productoras, resultan críticas las tareas de difundir su portafolio, captar nuevos clientes y asegurar visibilidad digital, todas con alta importancia, aunque con frecuencias variables dependiendo de sus recursos actuales.
 
-#### Principales diferencias:
+<h3>Principales diferencias:</h3>
 
 -Las empresas priorizan encontrar y seleccionar proveedores adecuados, mientras que las productoras se enfocan más en ser encontradas y mostrarse de forma profesional.
 
 -La gestión de propuestas comerciales y la visibilidad en canales digitales tiene una importancia mayor para las productoras, ya que les permite ampliar su alcance y mejorar sus oportunidades comerciales.
 
-#### Coincidencias relevantes:
+<h3>Coincidencias relevantes:</h3>
 
 -Ambas partes valoran la calidad del contacto y la comunicación directa, así como la posibilidad de revisar y comparar propuestas de manera clara y estructurada.
 
 -También existe coincidencia en la importancia de calificar el trabajo recibido o realizado, lo que refuerza la necesidad de sistemas de reputación y feedback dentro de la plataforma.
 
-### 2.3.3. User Journey Mapping
+### 2.3.3. User Journey Mapping.
 
 A continuación, el **recorrido end-to-end** que la plataforma MatchEvent busca transformar:
 
@@ -650,21 +746,29 @@ La curva emocional del mapeo muestra un ascenso desde la incertidumbre inicial h
 
 ---
 
-#### Empresas o Marcas
-![UserJourneyEmpresas](https://github.com/user-attachments/assets/8bab8358-1907-473f-9708-f8f32dd0b62e)
+- Carla Ramírez – Empresa / Marca:
+  
+  Carla comienza su recorrido cuando surge una nueva campaña que requiere una activación de marca. En ese momento, inicia una búsqueda informal de proveedores, se comunica con algunos recomendados, y solicita cotizaciones que evalúa con incertidumbre. Tras negociar, 
+  contrata una productora con la esperanza de obtener buenos resultados, aunque el proceso fue largo y poco claro. Al finalizar el evento, Carla recibe resultados, pero sin métricas claras ni seguimiento profesional.
+  
+  <img src="/images/User journey map Carla.png" alt="Carla Ramírez"/>
 
-#### Productoras Especializadas
-![UserJourneyProductoras](https://github.com/user-attachments/assets/0eed9ff7-681c-4a4a-bc9e-b7f2c7e4f406)
-
+- Andrés Gutiérrez – Productora Especializada:
+  
+  Andrés inicia su recorrido al identificar posibles oportunidades de trabajo, normalmente por referencias o publicaciones informales. Se contacta directamente con empresas enviando propuestas, muchas veces sin obtener respuesta. Cuando logra negociar, enfrenta un
+  proceso complejo para cerrar el trato. Luego ejecuta el evento con dedicación, pero sin recibir siempre retroalimentación ni lograr una relación sostenida con el cliente, sintiendo que su trabajo no se valoró del todo.
+  
+  <img src="/images/User journey map Andres.png" alt="Andres Gutierrez"/> 
+  
 ### 2.3.4. Empathy Mapping.
 
 - Empresas o Marcas:
-![Empathy Mapping Empresas o Marcas](images/EmpathyEmpresas.png)
 
+  <img src="images/Empathy map Empresas o Marcas.png" alt="Carla Ramírez"/>
 
 - Productoras Especializadas:
-![Empathy Mapping Productoras](images/EmpathyProductoras.png)
 
+  <img src="/images/Empathy map Productoras Especializadas.png" alt="Andrés Gutiérrez"/>
   
 ### 2.3.5. As-is Scenario Mapping.
 
@@ -672,31 +776,81 @@ El As-Is Scenario Mapping es una herramienta para identificar los pensamientos q
 a la hora de utilizar la aplicación actual.
 
 - Empresas o Marcas:
-![Empathy Mapping Productoras](images/AsIsEmpresas.png)
+
+  <img src="/images/As-is Scenario Mapping_Empresas o Marcas.png" alt="Empresas o Marcas"/>
 
 - Productoras Especializadas:
-![Empathy Mapping Productoras](images/AsIsProductoras.png)
+
+  <img src="/images/As-is Scenario Mapping_Productoras Especializadas.png" alt="Productoras Especializadas"/>
   
 ### 2.4. Ubiquitous Language.
-
-Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en 
+<p>Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en 
 común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear 
-un nexo entre los usuarios y los desarrolladores:
+un nexo entre los usuarios y los desarrolladores:</p>
 
-### Ubiquitous Language – Business Domain Glossary
 
-| **Term (English)**    | **Término (Español)**           | **Definition (Spanish)**                                                                                 |
-|-----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Brand Activation      | Activación de Marca              | Conjunto de acciones que buscan generar una experiencia memorable para el consumidor y conectar emocionalmente con la marca. |
-| Experiential Marketing| Marketing Experiencial           | Estrategia de marketing que busca involucrar activamente a los consumidores a través de experiencias sensoriales, emocionales o interactivas. |
-| Production Company    | Productora                       | Empresa o equipo especializado en la ejecución técnica y creativa de eventos y activaciones de marca.     |
-| Proposal              | Propuesta                        | Documento o presentación donde una productora describe su solución creativa y operativa para un requerimiento de activación. |
-| Client Brief          | Brief del Cliente                | Documento inicial proporcionado por la empresa donde se detallan los objetivos, público objetivo, presupuesto y expectativas del evento. |
-| Quote                 | Cotización                       | Estimación económica que presenta una productora para ejecutar un evento, basada en los requerimientos del cliente. |
-| Portfolio             | Portafolio                       | Conjunto de trabajos anteriores que muestra la experiencia, estilo y capacidades de una productora.       |
-| Lead                  | Cliente Potencial                | Empresa o persona interesada en contratar servicios para una activación o evento, que aún no ha concretado una contratación. |
-| Engagement            | Interacción / Compromiso         | Grado de conexión emocional o participación que un consumidor muestra hacia una marca durante una experiencia. |
-| Event Staffing        | Personal de Evento               | Equipo de trabajo contratado para ejecutar tareas específicas en un evento (anfitriones, promotores, técnicos, etc.). |
+  <table>
+    <caption>Ubiquitous Language – Business Domain Glossary</caption>
+    <thead>
+      <tr>
+        <th>Term (English)</th>
+        <th>Término (Español)</th>
+        <th>Definition (Spanish)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Brand Activation</td>
+        <td>Activación de Marca</td>
+        <td>Conjunto de acciones que buscan generar una experiencia memorable para el consumidor y conectar emocionalmente con la marca.</td>
+      </tr>
+      <tr>
+        <td>Experiential Marketing</td>
+        <td>Marketing Experiencial</td>
+        <td>Estrategia de marketing que busca involucrar activamente a los consumidores a través de experiencias sensoriales, emocionales o interactivas.</td>
+      </tr>
+      <tr>
+        <td>Production Company</td>
+        <td>Productora</td>
+        <td>Empresa o equipo especializado en la ejecución técnica y creativa de eventos y activaciones de marca.</td>
+      </tr>
+      <tr>
+        <td>Proposal</td>
+        <td>Propuesta</td>
+        <td>Documento o presentación donde una productora describe su solución creativa y operativa para un requerimiento de activación.</td>
+      </tr>
+      <tr>
+        <td>Client Brief</td>
+        <td>Brief del Cliente</td>
+        <td>Documento inicial proporcionado por la empresa donde se detallan los objetivos, público objetivo, presupuesto y expectativas del evento.</td>
+      </tr>
+      <tr>
+        <td>Quote</td>
+        <td>Cotización</td>
+        <td>Estimación económica que presenta una productora para ejecutar un evento, basada en los requerimientos del cliente.</td>
+      </tr>
+      <tr>
+        <td>Portfolio</td>
+        <td>Portafolio</td>
+        <td>Conjunto de trabajos anteriores que muestra la experiencia, estilo y capacidades de una productora.</td>
+      </tr>
+      <tr>
+        <td>Lead</td>
+        <td>Cliente Potencial</td>
+        <td>Empresa o persona interesada en contratar servicios para una activación o evento, que aún no ha concretado una contratación.</td>
+      </tr>
+      <tr>
+        <td>Engagement</td>
+        <td>Interacción / Compromiso</td>
+        <td>Grado de conexión emocional o participación que un consumidor muestra hacia una marca durante una experiencia.</td>
+      </tr>
+      <tr>
+        <td>Event Staffing</td>
+        <td>Personal de Evento</td>
+        <td>Equipo de trabajo contratado para ejecutar tareas específicas en un evento (anfitriones, promotores, técnicos, etc.).</td>
+      </tr>
+    </tbody>
+  </table>
 
 ## Capítulo III: Requirements Specification
 
