@@ -751,7 +751,8 @@ La curva emocional del mapeo muestra un ascenso desde la incertidumbre inicial h
   Carla comienza su recorrido cuando surge una nueva campaña que requiere una activación de marca. En ese momento, inicia una búsqueda informal de proveedores, se comunica con algunos recomendados, y solicita cotizaciones que evalúa con incertidumbre. Tras negociar, 
   contrata una productora con la esperanza de obtener buenos resultados, aunque el proceso fue largo y poco claro. Al finalizar el evento, Carla recibe resultados, pero sin métricas claras ni seguimiento profesional.
   
-  ![User journey map Carla](/images/UserjourneymapCarla.png)
+  ![User journey map Carla](/images/UserJourneymapCarla.png)
+  
   
 
 - Andrés Gutiérrez – Productora Especializada:
@@ -759,17 +760,17 @@ La curva emocional del mapeo muestra un ascenso desde la incertidumbre inicial h
   Andrés inicia su recorrido al identificar posibles oportunidades de trabajo, normalmente por referencias o publicaciones informales. Se contacta directamente con empresas enviando propuestas, muchas veces sin obtener respuesta. Cuando logra negociar, enfrenta un
   proceso complejo para cerrar el trato. Luego ejecuta el evento con dedicación, pero sin recibir siempre retroalimentación ni lograr una relación sostenida con el cliente, sintiendo que su trabajo no se valoró del todo.
   
-  <img src="/images/User journey map Andres.png" alt="Andres Gutierrez"/> 
+ ![User journey map Andrés](/images/UserjourneymapAndres.png)
   
 ### 2.3.4. Empathy Mapping.
 
 - Empresas o Marcas:
 
-  <img src="images/Empathy map Empresas o Marcas.png" alt="Carla Ramírez"/>
+  ![Empathy map Empresas o Marcas](/images/EmpathymapEmpresasoMarcas.png)
 
 - Productoras Especializadas:
 
-  <img src="/images/Empathy map Productoras Especializadas.png" alt="Andrés Gutiérrez"/>
+  ![Empathy map Productoras Especializadas](/images/EmpathymapProductorasEspecializadas.png)
   
 ### 2.3.5. As-is Scenario Mapping.
 
@@ -778,11 +779,11 @@ a la hora de utilizar la aplicación actual.
 
 - Empresas o Marcas:
 
-  <img src="/images/As-is Scenario Mapping_Empresas o Marcas.png" alt="Empresas o Marcas"/>
+  ![As-is Scenario Mapping_Empresas o Marcas.png](/images/As-isScenarioMapping_EmpresasoMarcas.png)
 
 - Productoras Especializadas:
-
-  <img src="/images/As-is Scenario Mapping_Productoras Especializadas.png" alt="Productoras Especializadas"/>
+  
+   ![As-is Scenario Mapping_Productoras Especializadas](/images/As-isScenarioMapping_ProductorasEspecializadas.png)
   
 ### 2.4. Ubiquitous Language.
 <p>Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en 
