@@ -393,6 +393,7 @@ El mercado de plataformas para la gestión y contratación de servicios para eve
 - **eEvents Live**: Especializada en eventos digitales e híbridos. Brinda herramientas completas para la organización, promoción y análisis de eventos.
 
 - **GoTab**: Plataforma orientada a mejorar la experiencia del asistente mediante pedidos y pagos sin contacto, enfocándose en la eficiencia operativa durante el evento.
+![image](https://github.com/user-attachments/assets/04c71035-2cd4-4dc2-abaa-e1bcd946907d)
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -418,6 +419,61 @@ Para posicionarse de manera efectiva, se plantean las siguientes estrategias dif
 
 7. **Alianzas estratégicas**  
    Establecer convenios con entidades del sector, agencias o plataformas complementarias para potenciar la red de usuarios y aumentar la credibilidad del producto.
+### 2.2. Entrevistas.
+
+### 2.2.1. Diseño de entrevistas.
+
+El diseño de entrevistas tiene como objetivo validar los supuestos clave del proyecto, entender las necesidades reales de los usuarios y recopilar información cualitativa que permita orientar el desarrollo de la plataforma. Se proponen dos perfiles principales a entrevistar: **empresas/marcas** que requieren servicios de producción de eventos y **productoras** que ofrecen dichos servicios.
+
+#### Objetivos de la entrevista
+
+- Identificar las principales dificultades que enfrentan las empresas al organizar eventos.
+- Validar el interés en una plataforma centralizada para conectar con productoras.
+- Comprender cómo las productoras gestionan actualmente la captación de clientes.
+- Evaluar la disposición de ambos perfiles a utilizar una solución tecnológica para este fin.
+- Identificar las funcionalidades más valoradas por cada tipo de usuario.
+
+#### Perfil de entrevistados
+
+- **Empresas y marcas**:
+  - Responsables de marketing, comunicación o eventos.
+  - Empresas que hayan organizado al menos un evento en el último año.
+  - Empresas sin experiencia previa pero con intención de realizar eventos en el corto plazo.
+
+- **Productoras**:
+  - Empresas o freelancers dedicados a la producción de eventos o activaciones de marca.
+  - Productoras con experiencia en diversos tipos de eventos (corporativos, BTL, culturales, etc.).
+  - Interesados en aumentar su visibilidad o ampliar su cartera de clientes.
+
+#### Guía de preguntas para empresas/marcas
+
+1. ¿Qué tipo de eventos organiza su empresa y con qué frecuencia?
+2. ¿Cómo suele encontrar proveedores para la producción de eventos?
+3. ¿Qué dificultades ha tenido al contratar una productora?
+4. ¿Qué valoraría más en una plataforma para encontrar productoras?
+5. ¿Qué criterios utiliza para seleccionar una productora?
+6. ¿Ha tenido experiencias negativas en la organización de eventos? ¿Por qué?
+7. ¿Le interesaría una plataforma donde pueda ver reseñas y comparar ofertas?
+8. ¿Qué información le gustaría ver en el perfil de una productora?
+9. ¿Estaría dispuesto a interactuar directamente por la plataforma con los proveedores?
+
+#### Guía de preguntas para productoras
+
+1. ¿Qué tipo de eventos realiza su productora con mayor frecuencia?
+2. ¿Cómo consigue actualmente nuevos clientes?
+3. ¿Cuáles son los mayores retos al promocionar sus servicios?
+4. ¿Qué canales utiliza para mostrar su portafolio o experiencia?
+5. ¿Le interesaría una plataforma donde pudiera conectarse directamente con empresas interesadas?
+6. ¿Qué herramientas considera necesarias dentro de una plataforma de este tipo?
+7. ¿Cómo influye la reputación o las reseñas en la captación de nuevos clientes?
+8. ¿Estaría dispuesto a especializarse en un tipo de evento dentro de la plataforma?
+9. ¿Qué espera de una plataforma que busca profesionalizar la conexión entre marcas y productoras?
+
+#### Formato y duración
+
+- Entrevistas semiestructuradas de 30 a 45 minutos.
+- Modalidad virtual o presencial según disponibilidad.
+- Registro de respuestas mediante notas o grabaciones con consentimiento previo.
 ### 2.2. .
 
 ### 2.2.1. Diseño de entrevistas.
@@ -517,38 +573,134 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien a
 ### 2.3.2. User Task Matrix.
 
 - Empresas o Marcas:
-  
- | **User Task Matrix**                                             | **Frecuencia** | **Importancia** |
-|------------------------------------------------------------------|----------------|------------------|
-| **Segmento Objetivo 1**                                          |                |                  |
-| Buscar proveedores para eventos                                  | Mensual        | Alta             |
-| Comparar presupuestos y propuestas                               | Mensual        | Alta             |
-| Revisar portafolios y referencias                                | Mensual        | Alta             |
-| Publicar requerimientos para activaciones                        | Mensual        | Alta             |
-| Comunicarse con potenciales proveedores                          | Mensual        | Alta             |
-| Negociar condiciones (presupuesto, plazos, servicios)            | Mensual        | Alta             |
-| Calificar o dejar feedback tras un evento                        | Mensual        | Media            |
-| Gestionar propuestas comerciales de manera organizada            | Quincenal      | Alta             |
-| Encontrar soluciones rápidas sin depender de contactos informales| Siempre        | Alta             |
-| Evaluar calidad antes de contratar                               | Siempre        | Alta             |
+  <table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 1</td>            
+		</tr>
+		<tr>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Buscar proveedores para eventoss</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Comparar presupuestos y propuestas</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Revisar portafolios y referencias</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Publicar requerimientos para activaciones</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Comunicarse con potenciales proveedores</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Negociar condiciones (presupuesto, plazos, servicios)</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Calificar o dejar feedback tras un evento</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Media</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Gestionar propuestas comerciales de manera organizada</td>
+			<td colspan="1">Quincenal</td>
+            <td colspan="1">Alta</td>            
+		</tr>        
+      <tr>
+			<td colspan="1">Encontrar soluciones rápidas sin depender de contactos informales</td>
+			<td colspan="1">Siempre</td>
+            <td colspan="1">Alta</td>            
+		</tr>        
+      <tr>
+			<td colspan="1">Evaluar calidad antes de contratar</td>
+			<td colspan="1">Simepre</td>
+            <td colspan="1">Alta</td>            
+		</tr>        
+	</tbody>
+</table>
 
 - Productoras Especializadas:
+  <table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 2</td>            
+		</tr>
+		<tr>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Revisar portafolios y referencias</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Comunicarse con potenciales clientes</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Negociar condiciones (presupuesto, plazos, servicios)</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Calificar o dejar feedback tras un evento</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Difundir portafolio o servicios de producción</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Captar nuevos clientes fuera de su red de contactos</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>
+        <tr>
+			<td colspan="1">Gestionar propuestas comerciales de manera organizada</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>      
+     <tr>
+			<td colspan="1">Asegurar visibilidad en canales digitales formales</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>           
+     <tr>
+			<td colspan="1">Posicionarse como experto en un nicho de eventos</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>           
+     <tr>
+			<td colspan="1">Evitar pérdida de tiempo con clientes no alineados a su especialidad</td>
+			<td colspan="1">Mensual</td>
+            <td colspan="1">Alta</td>            
+		</tr>           
+	</tbody>
+</table>
 
-| **User Task Matrix**                                            | **Frecuencia** | **Importancia** |
-|-----------------------------------------------------------------|----------------|------------------|
-| **Segmento Objetivo 2**                                         |                |                  |
-| Revisar portafolios y referencias                               | Mensual        | Alta             |
-| Comunicarse con potenciales clientes                            | Mensual        | Alta             |
-| Negociar condiciones (presupuesto, plazos, servicios)           | Mensual        | Alta             |
-| Calificar o dejar feedback tras un evento                       | Mensual        | Alta             |
-| Difundir portafolio o servicios de producción                   | Mensual        | Alta             |
-| Captar nuevos clientes fuera de su red de contactos             | Mensual        | Alta             |
-| Gestionar propuestas comerciales de manera organizada           | Mensual        | Alta             |
-| Asegurar visibilidad en canales digitales formales              | Mensual        | Alta             |
-| Posicionarse como experto en un nicho de eventos                | Mensual        | Alta             |
-| Evitar pérdida de tiempo con clientes no alineados a su especialidad | Mensual    | Alta             |
-
-#### Tareas con mayor frecuencia e importancia:
+<h3>Tareas con mayor frecuencia e importancia:</h3>
 
 -Ambas partes coinciden en que comunicarse, negociar condiciones y revisar referencias o portafolios son tareas de alta frecuencia e importancia. Estas acciones forman parte esencial del proceso previo a la contratación.
 
@@ -556,13 +708,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien a
 
 -Para las productoras, resultan críticas las tareas de difundir su portafolio, captar nuevos clientes y asegurar visibilidad digital, todas con alta importancia, aunque con frecuencias variables dependiendo de sus recursos actuales.
 
-#### Principales diferencias:
+<h3>Principales diferencias:</h3>
 
 -Las empresas priorizan encontrar y seleccionar proveedores adecuados, mientras que las productoras se enfocan más en ser encontradas y mostrarse de forma profesional.
 
 -La gestión de propuestas comerciales y la visibilidad en canales digitales tiene una importancia mayor para las productoras, ya que les permite ampliar su alcance y mejorar sus oportunidades comerciales.
 
-#### Coincidencias relevantes:
+<h3>Coincidencias relevantes:</h3>
 
 -Ambas partes valoran la calidad del contacto y la comunicación directa, así como la posibilidad de revisar y comparar propuestas de manera clara y estructurada.
 
@@ -570,22 +722,59 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed sapien a
 
 ### 2.3.3. User Journey Mapping.
 
-- Empresas o Marcas:
-![User Journey Empresas o Marcas](images/UserJourneyEmpresas.png)
+A continuación, el **recorrido end-to-end** que la plataforma MatchEvent busca transformar:
 
+1. **AWARE** –  
+   - *Empresa*: Detecta la necesidad de una activación para campaña o lanzamiento.  
+   - *Productora*: Percibe una posible oportunidad de negocio.  
+   Ambos se mueven en canales informales y comparten la frustración de no saber a quién acudir.
 
-- Productoras Especializadas:
-![User Journey Productoras](images/UserJourneyProductoras.png)
+2. **JOIN** –  
+   - *Empresa*: Contacta varios proveedores sin criterio estandarizado.  
+   - *Productora*: Se presenta con información básica, sin garantía de ser escuchada.  
+   La validación de experiencia y calidad es el principal dolor.
 
+3. **USE** –  
+   - Intercambio de propuestas, revisión de portafolios y negociación.  
+   La comunicación dispersa (WhatsApp, e-mail) provoca ciclos lentos y confusión, aunque crece la expectativa de concretar el proyecto.
+
+4. **LEAVE** –  
+   - Ejecución del evento y cierre.  
+   - Empresa mide impacto de forma manual; productora espera testimonios y reputación.  
+   Falta un sistema post-evento de métricas y calificaciones que capture el valor generado.
+
+La curva emocional del mapeo muestra un ascenso desde la incertidumbre inicial hasta la satisfacción final, evidenciando cuatro *insights* claves que MatchEvent atenderá:
+
+* Centralizar proveedores con filtros especializados.  
+* Portafolios y propuestas estructuradas y verificadas.  
+* Comunicación y seguimiento dentro de la misma aplicación.  
+* Métricas post-evento y reputación bilateral.
+
+---
+
+- Carla Ramírez – Empresa / Marca:
+  
+  Carla comienza su recorrido cuando surge una nueva campaña que requiere una activación de marca. En ese momento, inicia una búsqueda informal de proveedores, se comunica con algunos recomendados, y solicita cotizaciones que evalúa con incertidumbre. Tras negociar, 
+  contrata una productora con la esperanza de obtener buenos resultados, aunque el proceso fue largo y poco claro. Al finalizar el evento, Carla recibe resultados, pero sin métricas claras ni seguimiento profesional.
+  
+  <img src="/images/User journey map Carla.png" alt="Carla Ramírez"/>
+
+- Andrés Gutiérrez – Productora Especializada:
+  
+  Andrés inicia su recorrido al identificar posibles oportunidades de trabajo, normalmente por referencias o publicaciones informales. Se contacta directamente con empresas enviando propuestas, muchas veces sin obtener respuesta. Cuando logra negociar, enfrenta un
+  proceso complejo para cerrar el trato. Luego ejecuta el evento con dedicación, pero sin recibir siempre retroalimentación ni lograr una relación sostenida con el cliente, sintiendo que su trabajo no se valoró del todo.
+  
+  <img src="/images/User journey map Andres.png" alt="Andres Gutierrez"/> 
+  
 ### 2.3.4. Empathy Mapping.
 
 - Empresas o Marcas:
-![Empathy Mapping Empresas o Marcas](images/EmpathyEmpresas.png)
 
+  <img src="images/Empathy map Empresas o Marcas.png" alt="Carla Ramírez"/>
 
 - Productoras Especializadas:
-![Empathy Mapping Productoras](images/EmpathyProductoras.png)
 
+  <img src="/images/Empathy map Productoras Especializadas.png" alt="Andrés Gutiérrez"/>
   
 ### 2.3.5. As-is Scenario Mapping.
 
@@ -593,52 +782,101 @@ El As-Is Scenario Mapping es una herramienta para identificar los pensamientos q
 a la hora de utilizar la aplicación actual.
 
 - Empresas o Marcas:
-![Empathy Mapping Productoras](images/AsIsEmpresas.png)
+
+  <img src="/images/As-is Scenario Mapping_Empresas o Marcas.png" alt="Empresas o Marcas"/>
 
 - Productoras Especializadas:
-![Empathy Mapping Productoras](images/AsIsProductoras.png)
+
+  <img src="/images/As-is Scenario Mapping_Productoras Especializadas.png" alt="Productoras Especializadas"/>
   
 ### 2.4. Ubiquitous Language.
-
-Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en 
+<p>Según Domain Driven Design (2019), The ubiquitous language es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en 
 común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear 
-un nexo entre los usuarios y los desarrolladores:
+un nexo entre los usuarios y los desarrolladores:</p>
 
-### Ubiquitous Language – Business Domain Glossary
 
-| **Term (English)**    | **Término (Español)**           | **Definition (Spanish)**                                                                                 |
-|-----------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Brand Activation      | Activación de Marca              | Conjunto de acciones que buscan generar una experiencia memorable para el consumidor y conectar emocionalmente con la marca. |
-| Experiential Marketing| Marketing Experiencial           | Estrategia de marketing que busca involucrar activamente a los consumidores a través de experiencias sensoriales, emocionales o interactivas. |
-| Production Company    | Productora                       | Empresa o equipo especializado en la ejecución técnica y creativa de eventos y activaciones de marca.     |
-| Proposal              | Propuesta                        | Documento o presentación donde una productora describe su solución creativa y operativa para un requerimiento de activación. |
-| Client Brief          | Brief del Cliente                | Documento inicial proporcionado por la empresa donde se detallan los objetivos, público objetivo, presupuesto y expectativas del evento. |
-| Quote                 | Cotización                       | Estimación económica que presenta una productora para ejecutar un evento, basada en los requerimientos del cliente. |
-| Portfolio             | Portafolio                       | Conjunto de trabajos anteriores que muestra la experiencia, estilo y capacidades de una productora.       |
-| Lead                  | Cliente Potencial                | Empresa o persona interesada en contratar servicios para una activación o evento, que aún no ha concretado una contratación. |
-| Engagement            | Interacción / Compromiso         | Grado de conexión emocional o participación que un consumidor muestra hacia una marca durante una experiencia. |
-| Event Staffing        | Personal de Evento               | Equipo de trabajo contratado para ejecutar tareas específicas en un evento (anfitriones, promotores, técnicos, etc.). |
-
+  <table>
+    <caption>Ubiquitous Language – Business Domain Glossary</caption>
+    <thead>
+      <tr>
+        <th>Term (English)</th>
+        <th>Término (Español)</th>
+        <th>Definition (Spanish)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Brand Activation</td>
+        <td>Activación de Marca</td>
+        <td>Conjunto de acciones que buscan generar una experiencia memorable para el consumidor y conectar emocionalmente con la marca.</td>
+      </tr>
+      <tr>
+        <td>Experiential Marketing</td>
+        <td>Marketing Experiencial</td>
+        <td>Estrategia de marketing que busca involucrar activamente a los consumidores a través de experiencias sensoriales, emocionales o interactivas.</td>
+      </tr>
+      <tr>
+        <td>Production Company</td>
+        <td>Productora</td>
+        <td>Empresa o equipo especializado en la ejecución técnica y creativa de eventos y activaciones de marca.</td>
+      </tr>
+      <tr>
+        <td>Proposal</td>
+        <td>Propuesta</td>
+        <td>Documento o presentación donde una productora describe su solución creativa y operativa para un requerimiento de activación.</td>
+      </tr>
+      <tr>
+        <td>Client Brief</td>
+        <td>Brief del Cliente</td>
+        <td>Documento inicial proporcionado por la empresa donde se detallan los objetivos, público objetivo, presupuesto y expectativas del evento.</td>
+      </tr>
+      <tr>
+        <td>Quote</td>
+        <td>Cotización</td>
+        <td>Estimación económica que presenta una productora para ejecutar un evento, basada en los requerimientos del cliente.</td>
+      </tr>
+      <tr>
+        <td>Portfolio</td>
+        <td>Portafolio</td>
+        <td>Conjunto de trabajos anteriores que muestra la experiencia, estilo y capacidades de una productora.</td>
+      </tr>
+      <tr>
+        <td>Lead</td>
+        <td>Cliente Potencial</td>
+        <td>Empresa o persona interesada en contratar servicios para una activación o evento, que aún no ha concretado una contratación.</td>
+      </tr>
+      <tr>
+        <td>Engagement</td>
+        <td>Interacción / Compromiso</td>
+        <td>Grado de conexión emocional o participación que un consumidor muestra hacia una marca durante una experiencia.</td>
+      </tr>
+      <tr>
+        <td>Event Staffing</td>
+        <td>Personal de Evento</td>
+        <td>Equipo de trabajo contratado para ejecutar tareas específicas en un evento (anfitriones, promotores, técnicos, etc.).</td>
+      </tr>
+    </tbody>
+  </table>
 
 ## Capítulo III: Requirements Specification
-### 3.1. To-Be Scenario Mapping.
-**Etapa de Preparación.**
 
-En esta fase nos enfocamos en definir claramente el objetivo de la herramienta y comprender los perfiles clave de usuario para guiar la construcción del To-Be Scenario Mapping.
+### 3.1. To-Be Scenario Mapping.
+
+**Etapa de Preparación.**
+<br>En esta fase nos enfocamos en definir claramente el objetivo de la herramienta y comprender los perfiles clave de
+usuario para guiar la construcción del To-Be Scenario Mapping.
 
 **Objetivo de la plataforma.**
-
-Facilitar la conexión entre empresas productoras y marcas que requieren servicios de activación o eventos, centralizando el proceso de búsqueda, evaluación, contratación y gestión en un solo entorno.
+<br>Facilitar la conexión entre empresas productoras y marcas que requieren servicios de activación o eventos,
+centralizando el proceso de búsqueda, evaluación, contratación y gestión en un solo entorno.
 
 **Identificación de usuarios clave:**
-
-1. Gerente de Marketing: Publica solicitudes de eventos y contrata productoras.
-   
-2. Coordinador Comercial: Publica su portafolio y envía propuestas a solicitudes.
+<br>1. Gerente de Marketing: Publica solicitudes de eventos y contrata productoras.
+<br>2. Coordinador Comercial: Publica su portafolio y envía propuestas a solicitudes.
 
 **Brainstorming inicial:**
-
-Cada miembro del equipo propuso ideas desde la perspectiva de uno de los usuarios. Luego, se recogieron las, se analizaron y se seleccionaron las más relevantes para construir el To-Be Scenario Mapping.
+<br>Cada miembro del equipo propuso ideas desde la perspectiva de uno de los usuarios. Luego, se recogieron las, se
+analizaron y se seleccionaron las más relevantes para construir el To-Be Scenario Mapping.
 
 **Brainstorming con perspectiva del Gerente de Marketing:**
 
@@ -646,7 +884,9 @@ Figura 1: Brainstorming con perspectiva del Gerente de Marketing
 
 ![Brainstorming con perspectiva del gerente](/images/BrainstormingGerenteMarketing.png)
 
-En esta figura el equipo realizó un brainstorming desde la perspectiva del Gerente de Marketing, identificando las necesidades y expectativas al utilizar la plataforma. Se discutieron aspectos como la facilidad de búsqueda de productoras, la evaluación de propuestas y la gestión de solicitudes.
+En esta figura el equipo realizó un brainstorming desde la perspectiva del Gerente de Marketing, identificando las
+necesidades y expectativas al utilizar la plataforma. Se discutieron aspectos como la facilidad de búsqueda de
+productoras, la evaluación de propuestas y la gestión de solicitudes.
 
 **Brainstorming con perspectiva del Coordinador Comercial:**
 
@@ -654,94 +894,178 @@ Figura 2: Brainstorming con perspectiva del Coordinador Comercial
 
 ![Brainstorming con perspectiva del coordinador comercial](/images/BrainstormingCoordinadorComercial.png)
 
-En esta figura el equipo realizó un brainstorming desde la perspectiva del Coordinador Comercial, identificando las necesidades y expectativas al utilizar la plataforma. Se discutieron aspectos como la publicación de su portafolio, el envío de propuestas y la gestión de solicitudes.
+En esta figura el equipo realizó un brainstorming desde la perspectiva del Coordinador Comercial, identificando las
+necesidades y expectativas al utilizar la plataforma. Se discutieron aspectos como la publicación de su portafolio, el
+envío de propuestas y la gestión de solicitudes.
 
 **Construcción del To-Be Scenario Mapping:**
-
-Con base en los resultados del brainstorming, se construyó el To-Be Scenario Mapping, que representa la experiencia ideal de los usuarios al interactuar con la plataforma.
+<br>Con base en los resultados del brainstorming, se construyó el To-Be Scenario Mapping, que representa la experiencia
+ideal de los usuarios al interactuar con la plataforma.
 
 **Figura 3: To-Be Scenario Mapping Gerente de Marketing**
 
 ![To-Be Scenario Mapping](/images/ToBeScenarioMappingGerenteMarketing.png)
 
-En esta figura, se observa el flujo de acciones del Gerente de Marketing al utilizar la plataforma. Se destacan las etapas de búsqueda de productoras, evaluación de propuestas y contratación.
+En esta figura, se observa el flujo de acciones del Gerente de Marketing al utilizar la plataforma. Se destacan las
+etapas de búsqueda de productoras, evaluación de propuestas y contratación.
 
 **Figura 4: To-Be Scenario Mapping Coordinador Comercial**
 
 ![To-Be Scenario Mapping](/images/ToBeScenarioMappingCoordinadorComercial.png)
 
-En esta figura, se observa el flujo de acciones del Coordinador Comercial al utilizar la plataforma. Se destacan las etapas de publicación de portafolio, envío de propuestas y gestión de solicitudes.
+En esta figura, se observa el flujo de acciones del Coordinador Comercial al utilizar la plataforma. Se destacan las
+etapas de publicación de portafolio, envío de propuestas y gestión de solicitudes.
 
 ### 3.2. User Stories.
 
 **User Stories y Requisitos**
 
-A continuación, se presentan los Epics y User Stories que cubren los requisitos funcionales clave del sistema, incluyendo también historias dirigidas al sitio web estático (Landing Page). Las historias están agrupadas por Epic y relacionadas con funcionalidades principales para los distintos tipos de usuario: visitantes, gerentes de marketing y coordinadores comerciales de empresas productoras.
+A continuación, se presentan los Epics y User Stories que cubren los requisitos funcionales clave del sistema,
+incluyendo también historias dirigidas al sitio web estático (Landing Page). Las historias están agrupadas por Epic y
+relacionadas con funcionalidades principales para los distintos tipos de usuario: visitantes, gerentes de marketing y
+coordinadores comerciales de empresas productoras.
 
-| Epic / Story ID | Título                                          | Descripción                                                                                                                                              | Criterios de Aceptación                                                                                                                                                                                                                                                                           | Relacionado con (Epic ID) |
-|-----------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| EP001           | Gestión de solicitudes de activación            | Como Empresa o marca, quiero publicar una solicitud de activación para recibir propuestas de empresas productoras.                                       | - Given que el usuario es una empresa o marca autenticado, When publica una solicitud con detalles del evento, Then la solicitud queda disponible para ser vista por productoras. <br> - Given que el formulario está completo, When lo envía, Then se genera un registro con estado “pendiente”. | —                         |
-| US001           | Publicar solicitud de activación                | Como Empresa o marca, quiero completar un formulario de solicitud con datos del evento.                                                                  | - Given que el usuario ha accedido a la sección de solicitudes, When completa todos los campos requeridos, Then puede enviar la solicitud correctamente. <br> - Given que la solicitud es enviada, When se publica, Then se muestra su evento para las productoras.                               | EP001                     |
-| EP002           | Gestión de portafolios de servicios             | Como Productora especializada, quiero registrar los servicios de mi empresa para que las empresas que buscan activaciones puedan verlos y contratarnos.  | - Given que una productora especializada está autenticada, When accede a su perfil, Then puede crear y editar servicios disponibles. <br> - Given que un servicio es publicado, When está activo, Then es visible para empresas o marcas registradas en la plataforma.                            | —                         |
-| US002           | Registrar portafolio de servicios               | Como Productora especializada, quiero poder registrar y actualizar los servicios que ofrece mi empresa.                                                  | - Given que la productora accede a la sección de portafolio, When completa la información del servicio, Then puede guardarla y publicarla.                                                                                                                                                        | EP002                     |
-| EP003           | Landing Page informativa                        | Como visitante, quiero ver una página con información clara sobre la plataforma, para saber si me conviene registrarme.                                  | - Given que un visitante no autenticado entra a la landing page, When navega por la página, Then puede conocer qué es la plataforma, cómo funciona y a quién está dirigida.                                                                                                                       | —                         |
-| US003           | Sección “Cómo funciona”                         | Como visitante, quiero entender el funcionamiento general de la plataforma desde la landing page.                                                        | - Given que estoy en la landing page, When veo la sección “Cómo funciona”, Then comprendo el flujo entre empresas y productoras.                                                                                                                                                                  | EP003                     |
-| US004           | Sección de beneficios para empresas productoras | Como visitante del segmento Productoras especializadas**, quiero leer los beneficios de unirme a la plataforma.                                          | - Given que ingreso como visitante, When navego a la sección de beneficios para productoras, Then entiendo las ventajas de registrarme como proveedor de servicios de activación.                                                                                                                 | EP003                     |
-| US005           | Sección de beneficios para marcas               | Como visitante del segmento Empresa o marca**, quiero conocer los beneficios de publicar mis necesidades en la plataforma.                               | - Given que soy un visitante interesado en contratar servicios, When leo la sección dirigida a empresas o marcas, Then comprendo por qué la plataforma me ayuda a encontrar proveedores confiables.                                                                                               | EP003                     |
-| US006           | Sección de pie de página (footer)               | Como visitante, quiero acceder desde el footer a información adicional como contacto, redes sociales y políticas.                                        | - Given que estoy navegando por la landing page, When llego al pie de página, Then puedo acceder a enlaces útiles como contacto, redes sociales y términos legales.                                                                                                                               | EP003                     |
-| US007           | Sección “¿Quiénes somos?”                       | Como visitante, quiero conocer quién está detrás de la plataforma, para confiar en su propuesta.                                                         | - Given que soy un visitante, When visualizo la sección “¿Quiénes somos?”, Then entiendo el propósito, visión y respaldo de la plataforma.                                                                                                                                                        | EP003                     |
-| US008           | Llamado a la acción (Call to Action)            | Como visitante, quiero ver un botón claro que me invite a acceder a la app web.                                                                          | - Given que estoy explorando la landing page, When veo el botón de llamado a la acción, Then puedo ir directamente al registro o login de la plataforma.                                                                                                                                          | EP003                     |
-| EP004           | Personalización según rol del usuario           | Como usuario de la plataforma, quiero que la experiencia se adapte a mi rol, para acceder solo a funcionalidades relevantes para mí.                     | - Given que el usuario está registrado, When inicia sesión, Then la plataforma muestra vistas y funciones relevantes según su tipo de cuenta.                                                                                                                                                     | —                         |
-| US008           | Selección de tipo de perfil al registrarse      | Como nuevo usuario, quiero seleccionar si soy una Empresa o marca o una Productora especializada.                                                        | - Given que soy un usuario nuevo, When completo mi registro, Then debo seleccionar mi tipo de cuenta antes de continuar.                                                                                                                                                                          | EP004                     |
-| US009           | Vista principal para productoras                | Como Productora especializada, quiero ver al iniciar sesión una lista de solicitudes de activación.                                                      | - Given que soy una productora autenticada, When accedo a la plataforma, Then visualizo solicitudes activas de empresas.                                                                                                                                                                          | EP004                     |
-| US010           | Vista principal para empresas                   | Como Empresa o marca, quiero ver al iniciar sesión perfiles de productoras, para explorar y seleccionar posibles proveedores.                            | - Given que soy una empresa autenticada, When accedo a la plataforma, Then visualizo perfiles de productoras especializadas disponibles.                                                                                                                                                          | EP004                     |
-| US011           | Historial de solicitudes de activación          | Como Empresa o marca, quiero ver mis solicitudes pasadas y en curso, para hacer seguimiento y gestionar mis eventos.                                     | - Given que soy una empresa con solicitudes creadas, When accedo a “Mis activaciones”, Then puedo ver un listado con estado y detalles.                                                                                                                                                           | EP004                     |
-| US012           | Seguimiento de eventos contratados              | Como Productora especializada, quiero acceder a una sección con las activaciones en las que estoy trabajando.                                            | - Given que fui contratada para eventos, When accedo a “Mis activaciones”, Then visualizo los detalles de cada evento.                                                                                                                                                                            | EP004                     |
-| US013           | Contactar a productora desde su perfil          | Como Empresa o marca, quiero poder contactar a una productora desde su perfil, para coordinar los detalles de una posible contratación.                  | - Given que soy una empresa autenticada, When visualizo el perfil de una productora, Then puedo acceder a una opción para iniciar contacto. - Given que inicio un contacto, When la productora recibe la solicitud, Then ambas partes podemos iniciar una negociación.                            | EP004                     |
-| US014           | Contactar a empresa desde una solicitud         | Como Productora especializada, quiero poder contactar a una empresa desde su solicitud de activación, para ofrecer mis servicios y obtener más detalles. | - Given que soy una productora autenticada, When visualizo una solicitud publicada, Then puedo acceder a una opción para iniciar contacto con la empresa. <br> - Given que inicio un contacto, When la empresa recibe la solicitud, Then ambas partes podemos iniciar una negociación.            | EP004                     |
-| US015           | Sistema de mensajería interna                   | Como usuario autenticado, quiero contar con una mensajería dentro de la plataforma, para comunicarme con otras empresas de forma segura y centralizada.  | - Given que estoy autenticado, When accedo a una conversación activa, Then puedo enviar y recibir mensajes. <br> - Given que recibo un nuevo mensaje, When ingreso a la plataforma, Then puedo ver notificaciones en tiempo real o al iniciar sesión.                                             | EP004                     |
+| Epic / Story ID | Título                                                    | Descripción                                                                                                                                                                                 | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                   | Relacionado con (Epic ID) |
+|-----------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| EP001           | Gestión de solicitudes de activación                      | Como Empresa o marca, quiero gestionar mis solicitudes de activación, para publicar, modificar y revisar solicitudes que permitan recibir propuestas de productoras especializadas.         |                                                                                                                                                                                                                                                                                                                                                                                                                           | —                         |
+| US001           | Registrar solicitud de activación                         | Como Empresa o marca, quiero registrar una solicitud de activación con los datos del evento, para que las productoras puedan conocer mis necesidades.                                       | - Given que accedo a la sección de solicitudes, When ingreso los datos requeridos y confirmo, Then la solicitud se registra como “pendiente”. - Given que la solicitud fue registrada correctamente, When las productoras acceden a sus vistas, Then pueden visualizarla en el listado de oportunidades.                                                                                                                  | EP001                     |
+| US002           | Editar solicitud de activación                            | Como Empresa o marca, quiero editar una solicitud publicada, para actualizar la información del evento si es necesario.                                                                     | - Given que tengo una solicitud activa, When accedo a su detalle, Then puedo editar la información. <br> - Given que edito la solicitud, When guardo los cambios, Then se refleja la versión más reciente para las productoras.                                                                                                                                                                                           | EP001                     |
+| US003           | Eliminar solicitud de activación                          | Como Empresa o marca, quiero eliminar una solicitud publicada, para que no esté visible para las productoras.                                                                               | - Given que tengo una solicitud activa, When accedo a su detalle, Then puedo eliminarla. <br> - Given que elimino la solicitud, When guardo los cambios, Then ya no es visible para las productoras.                                                                                                                                                                                                                      | EP001                     |
+| US004           | Ver solicitudes publicadas                                | Como Empresa o marca, quiero ver mis solicitudes activas, para hacer seguimiento y gestionar mis eventos.                                                                                   | - Given que tengo solicitudes activas, When accedo a “Mis solicitudes”, Then puedo ver un listado con el nombre del evento, la fecha y el estado (pendiente, en curso, finalizado).                                                                                                                                                                                                                                       | EP001                     |
+| US005           | Ver detalle de solicitud publicada                        | Como Empresa o marca, quiero ver el detalle de una solicitud que he creado,para revisar la información y verificar su contenido.                                                            | Given que tengo solicitudes creadas, When accedo al detalle de una, Then veo toda la información ingresada, el estado y la fecha de publicación. <br> - Given que tengo solicitudes creadas, When accedo al detalle de una, Then veo toda la información ingresada, el estado y la fecha de publicación.                                                                                                                  | EP001                     |
+| EP002           | Gestión de portafolios de servicios                       | Como Productora especializada, quiero registrar y gestionar los servicios que ofrecemos, para mostrar nuestra oferta comercial a empresas que buscan activaciones.                          |                                                                                                                                                                                                                                                                                                                                                                                                                           | —                         |
+| US006           | Registrar servicios ofrecidos                             | Como Productora especializada, quiero registrar los servicios que ofrece mi empresa, para mantener actualizada nuestra propuesta de valor.                                                  | - Given que la productora accede a la sección de portafolio, When ingreso un nuevo servicio, Then este se agrega a mi lista de servicios publicados.                                                                                                                                                                                                                                                                      | EP002                     |
+| US007           | Editar servicios ofrecidos                                | Como Productora especializada, quiero editar los servicios que ofrezco, para actualizar la información de mi portafolio.                                                                    | - Given que tengo servicios registrados, When accedo a su detalle, Then puedo editar la información. <br> - Given que edito un servicio, When guardo los cambios, Then se refleja la versión más reciente en mi portafolio.                                                                                                                                                                                               | EP002                     |
+| US008           | Eliminar servicios registrados                            | Como Productora especializada, quiero eliminar un servicio registrado,para evitar mostrar servicios que ya no ofrezco.                                                                      | - Given que tengo un servicio activo, When selecciono la opción eliminar, Then el servicio desaparece de mi listado.                                                                                                                                                                                                                                                                                                      | EP002                     |
+| US009           | Visualizar lista de servicios registrados                 | Como Productora especializada, quiero ver una lista de todos los servicios que he registrado, para verificar qué está disponible para mostrar a las empresas.                               | - Given que tengo servicios registrados, When accedo a “Mis servicios”, Then puedo ver un listado con el nombre y la descripción de cada uno.                                                                                                                                                                                                                                                                             | EP002                     |
+| EP003           | Gestión del portafolio visual de trabajos realizados      | Como Productora especializada, quiero mostrar un portafolio con imágenes y descripciones de eventos pasados, para que las empresas puedan conocer nuestra experiencia y calidad de trabajo. |                                                                                                                                                                                                                                                                                                                                                                                                                           | —                         |
+| US010           | Registrar trabajo previo en el portafolio                 | Como Productora especializada, quiero registrar un trabajo previo con imágenes y descripciones, para mostrar la calidad y variedad de nuestros servicios realizados.                        | Given que accedo a la sección de portafolio, When agrego imágenes y descripciones, Then se genera un nuevo ítem en mi portafolio visible para empresas.                                                                                                                                                                                                                                                                   | EP003                     |
+| US011           | Editar trabajo previo en el portafolio                    | Como Productora especializada, quiero editar un trabajo registrado, para corregir o actualizar la información mostrada a las empresas.                                                      | - Given que tengo trabajos registrados, When accedo a su detalle, Then puedo editar la información. <br> - Given que edito un trabajo, When guardo los cambios, Then se refleja la versión más reciente en mi portafolio.                                                                                                                                                                                                 | EP003                     |
+| US012           | Eliminar trabajo previo en el portafolio                  | Como Productora especializada, quiero eliminar un trabajo registrado, para evitar mostrar trabajos que ya no son relevantes.                                                                | - Given que tengo un trabajo activo, When selecciono la opción eliminar, Then el trabajo desaparece de mi portafolio.                                                                                                                                                                                                                                                                                                     | EP003                     |
+| US013           | Visualizar portafolio de trabajos realizados              | Como Productora especializada, quiero ver un portafolio con todos los trabajos que he registrado, para verificar qué está disponible para mostrar a las empresas.                           | - Given que tengo trabajos registrados, When accedo a mi portafolio, Then puedo ver un listado con el nombre y la descripción de cada uno.                                                                                                                                                                                                                                                                                | EP003                     |
+| EP004           | Landing Page informativa                                  | Como visitante, quiero ver una página con información clara sobre la plataforma, para saber si me conviene registrarme.                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                           | —                         |
+| US014           | Sección “Cómo funciona”                                   | Como visitante, quiero entender el funcionamiento general de la plataforma desde la landing page.                                                                                           | - Given que estoy en la landing page, When veo la sección “Cómo funciona”, Then comprendo el flujo entre empresas y productoras.                                                                                                                                                                                                                                                                                          | EP003                     |
+| US015           | Sección de beneficios para empresas productoras           | Como visitante del segmento Productoras especializada, quiero leer los beneficios de unirme a la plataforma.                                                                                | - Given que ingreso como visitante, When navego a la sección de beneficios para productoras, Then entiendo las ventajas de registrarme como proveedor de servicios de activación.                                                                                                                                                                                                                                         | EP003                     |
+| US016           | Sección de beneficios para marcas                         | Como visitante del segmento Empresa o marca, quiero conocer los beneficios de publicar mis necesidades en la plataforma.                                                                    | - Given que soy un visitante interesado en contratar servicios, When leo la sección dirigida a empresas o marcas, Then comprendo por qué la plataforma me ayuda a encontrar proveedores confiables.                                                                                                                                                                                                                       | EP003                     |
+| US017           | Sección de pie de página (footer)                         | Como visitante, quiero acceder desde el footer a información adicional como contacto, redes sociales y políticas.                                                                           | - Given que estoy navegando por la landing page, When llego al pie de página, Then puedo acceder a enlaces útiles como contacto, redes sociales y términos legales.                                                                                                                                                                                                                                                       | EP003                     |
+| US018           | Sección “¿Quiénes somos?”                                 | Como visitante, quiero conocer quién está detrás de la plataforma, para confiar en su propuesta.                                                                                            | - Given que soy un visitante, When visualizo la sección “¿Quiénes somos?”, Then entiendo el propósito, visión y respaldo de la plataforma.                                                                                                                                                                                                                                                                                | EP003                     |
+| US019           | Llamado a la acción (Call to Action)                      | Como visitante, quiero ver un botón claro que me invite a acceder a la app web.                                                                                                             | - Given que estoy explorando la landing page, When veo el botón de llamado a la acción, Then puedo ir directamente al registro o login de la plataforma.                                                                                                                                                                                                                                                                  | EP003                     |
+| EP005           | Personalización según rol del usuario                     | Como usuario de la plataforma, quiero que la experiencia se adapte a mi rol, para acceder solo a funcionalidades relevantes para mí.                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                           | —                         |
+| US020           | Selección de tipo de perfil al registrarse                | Como nuevo usuario, quiero seleccionar si soy una Empresa o marca o una Productora especializada.                                                                                           | - Given que soy un usuario nuevo, When completo mi registro, Then debo seleccionar mi tipo de cuenta antes de continuar.                                                                                                                                                                                                                                                                                                  | EP005                     |
+| US021           | Vista principal para productoras                          | Como Productora especializada, quiero ver al iniciar sesión una lista de solicitudes de activación.                                                                                         | - Given que soy una productora autenticada, When accedo a la plataforma, Then visualizo solicitudes activas de empresas.                                                                                                                                                                                                                                                                                                  | EP005                     |
+| US022           | Vista principal para empresas                             | Como Empresa o marca, quiero ver al iniciar sesión perfiles de productoras, para explorar y seleccionar posibles proveedores.                                                               | - Given que soy una empresa autenticada, When accedo a la plataforma, Then visualizo perfiles de productoras especializadas disponibles.                                                                                                                                                                                                                                                                                  | EP005                     |
+| EP007           | Contacto y negociación entre usuarios                     | Como usuario autenticado, quiero iniciar contacto con otras empresas o productoras dentro de la plataforma, para coordinar propuestas y negociar detalles de las activaciones.              |                                                                                                                                                                                                                                                                                                                                                                                                                           |                           |
+| US024           | Contactar a productora desde su perfil                    | Como Empresa o marca, quiero contactar a una productora desde su perfil, para coordinar los detalles de una posible contratación.                                                           | - Given que soy una empresa autenticada, When visualizo el perfil de una productora, Then puedo acceder a una opción para iniciar contacto. - Given que inicio un contacto, When la productora recibe la solicitud, Then ambas partes podemos iniciar una negociación.                                                                                                                                                    | EP007                     |
+| US025           | Contactar a empresa desde una solicitud                   | Como Productora especializada, quiero contactar a una empresa desde su solicitud de activación, para ofrecer mis servicios y obtener más detalles.                                          | - Given que soy una productora autenticada, When visualizo una solicitud publicada, Then puedo acceder a una opción para iniciar contacto con la empresa. <br> - Given que inicio un contacto, When la empresa recibe la solicitud, Then ambas partes podemos iniciar una negociación.                                                                                                                                    | EP007                     |
+| US034           | Aceptar propuesta para formalizar activación              | Como Empresa o marca, quiero contratar a una productora desde su propuesta, para formalizar la activación.                                                                                  | - Given que reviso las propuestas de una solicitud, When selecciono una, Then accedo al formulario de pago. <br> - Given que completo el formulario de pago, When la transacción es exitosa, Then la activación cambia su estado a “en curso”.                                                                                                                                                                            | EP006                     |
+| EP008           | Sistema de mensajería interna                             | Como usuario autenticado, quiero contar con un sistema de mensajería dentro de la plataforma, para comunicarme con otros usuarios durante el proceso de activación.                         |                                                                                                                                                                                                                                                                                                                                                                                                                           |                           |
+| US026           | Iniciar conversación con otro usuario                     | Como usuario autenticado, quiero iniciar una conversación con otro usuario desde una solicitud o perfil, para comenzar una comunicación dentro de la plataforma.                            | Given que visualizo una solicitud o perfil, When hago clic en "contactar", Then se crea una conversación inicial si no existe previamente.                                                                                                                                                                                                                                                                                | EP008                     |
+| US027           | Ver listado de conversaciones                             | Como usuario autenticado, quiero ver una lista de mis conversaciones, para acceder rápidamente a mi historial de comunicación.                                                              | - Given que soy un usuario autenticado, When accedo a "Mensajes", Then puedo ver un listado con el nombre de la otra parte y la fecha del último mensaje. <br> - Given que tengo conversaciones, When accedo a una, Then puedo ver el historial completo de mensajes.                                                                                                                                                     | EP008                     |
+| US028           | Leer y escribir mensajes en una conversación              | Como usuario autenticado, quiero entrar a una conversación, para leer los mensajes y enviar nuevos.                                                                                         | - Given que tengo conversaciones, When accedo a una, Then puedo ver el historial completo de mensajes. <br> - Given que tengo conversaciones, When escribo un nuevo mensaje y lo envío, Then queda registrado en la conversación.                                                                                                                                                                                         | EP008                     |
+| EP009           | Gestión de notificaciones del sistema                     | Como usuario autenticado, quiero recibir notificaciones relevantes dentro de la plataforma, para estar informado de eventos importantes como respuestas, contrataciones o mensajes nuevos.  |                                                                                                                                                                                                                                                                                                                                                                                                                           |                           |
+| US029           | Notificaciones de solicitudes                             | Como Empresa o marca, quiero recibir notificaciones cuando una productora responda a mi solicitud, para estar al tanto de las propuestas.                                                   | - Given que soy una empresa autenticada, When una productora responde a mi solicitud, Then recibo una notificación en la plataforma y por correo electrónico.                                                                                                                                                                                                                                                             | EP009                     |
+| US030           | Notificaciones de contratación                            | Como Productora especializada, quiero recibir alertas cuando soy contratada para un evento, para estar al tanto de mis compromisos.                                                         | - Given que soy una productora autenticada, When una empresa me contrata, Then recibo una notificación en la plataforma. <br> - Given que tengo habilitado el correo, When soy contratada, Then también llega una notificación por email.                                                                                                                                                                                 | EP009                     |
+| US031           | Notificaciones de mensajes                                | Como usuario autenticado, quiero recibir notificaciones cuando recibo un mensaje, para no perderme ninguna conversación importante.                                                         | - Given que soy un usuario autenticado, When recibo un nuevo mensaje, Then recibo una notificación en la plataforma. <br> Given que tengo habilitado el correo, When recibo un mensaje, Then también llega una notificación por email.                                                                                                                                                                                    | EP009                     |
+| US032           | Notificaciones de calificaciones                          | Como usuario autenticado, quiero recibir notificaciones cuando recibo una calificación, para estar al tanto de mi reputación.                                                               | - Given que soy un usuario autenticado, When recibo una nueva calificación, Then recibo una notificación en la plataforma y por correo electrónico.                                                                                                                                                                                                                                                                       | EP009                     |
+| EP006           | Gestión de activaciones contratadas                       | Como Empresa o marca, quiero gestionar las activaciones contratadas, para hacer seguimiento y coordinar detalles con la productora.                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                           |                           |
+| US033           | Ver detalles de una activación contratada                 | Como Empresa o marca, quiero ver los detalles de una activación contratada, para hacer seguimiento y coordinar con la productora.                                                           | - Given que soy una empresa autenticada, When accedo a “Eventos”, Then puedo ver un listado con el nombre de la productora, el evento y el estado (en curso, finalizado). <br> - Given que tengo un evento en curso, When accedo a su detalle, Then puedo ver información relevante.                                                                                                                                      | EP006                     |
+| US035           | Ver activaciones en curso y finalizadas                   | Como Empresa o marca, quiero ver las activaciones en curso y finalizadas, para darles seguimiento y gestionar mi historial.                                                                 | - Given que soy una empresa autenticada, When accedo a “Eventos”, Then puedo ver un listado con el nombre de la productora, el evento y sus opciones. <br> - Given que tengo un evento en curso, When accedo a su detalle, Then puedo ver información relevante.                                                                                                                                                          | EP006                     |
+| US036           | Marcar activación como finalizada                         | Como Empresa o marca, quiero marcar una activación como finalizada, para gestionar mi historial de eventos.                                                                                 | - Given que soy una empresa autenticada, When accedo a “Eventos”, Then puedo ver un listado con el nombre de la productora, el evento y la opción para marcar como finalizado. <br> - Given que tengo un evento finalizado, When accedo a su detalle, Then puedo ver información relevante.                                                                                                                               | EP006                     |
+| US037           | Seguimiento de eventos contratados                        | Como Productora especializada, quiero acceder a una sección con las activaciones en las que estoy trabajando.                                                                               | - Given que fui contratada para eventos, When accedo a “Mis activaciones”, Then visualizo los detalles de cada evento.                                                                                                                                                                                                                                                                                                    | EP006                     |
+| EP009           | Gestión de propuestas de activación                       | Como Productora especializada, quiero gestionar mis solicitudes de activación, para ofrecer mis servicios y negociar con empresas.                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                           | —                         |
+| US038           | Enviar propuesta a solicitud de activación                | Como Productora especializada, quiero enviar una propuesta a una solicitud de activación, para ofrecer mis servicios y negociar con la empresa.                                             | - Given que soy una productora autenticada, When accedo al detalle de una solicitud, Then puedo enviar una propuesta detallada. <br> - Given que completo la propuesta, When la envío, Then queda registrada con estado “enviada”.                                                                                                                                                                                        | EP009                     |
+| US039           | Ver propuestas enviadas                                   | Como Productora especializada, quiero ver las propuestas que he enviado a solicitudes de activación, para hacer seguimiento.                                                                | - Given que soy una productora autenticada, When accedo a “Mis propuestas”, Then puedo ver un listado con el nombre de la empresa, la solicitud y el estado (pendiente, aceptada, rechazada).                                                                                                                                                                                                                             | EP009                     |
+| EP010           | Gestión de propuestas recibidas                           | Como Empresa o marca, quiero gestionar las propuestas que recibo en respuesta a mis solicitudes de activación, para evaluar, aceptar o rechazar proveedores potenciales.                    |                                                                                                                                                                                                                                                                                                                                                                                                                           |                           |
+| US040           | Ver propuestas recibidas                                  | Como Empresa o marca, quiero ver las propuestas que he recibido de productoras, para evaluar y seleccionar la más adecuada.                                                                 | - Given que soy una empresa autenticada, When accedo a “Mis solicitudes”, Then puedo ver un listado con el nombre de la productora, la solicitud y el estado (pendiente, aceptada, rechazada).                                                                                                                                                                                                                            | EP010                     |
+| US041           | Ver detalles de una propuesta recibida                    | Como Empresa o marca, quiero ver los detalles de una propuesta que he recibido, para evaluar y seleccionar la más adecuada.                                                                 | - Given selecciono una propuesta, When accedo a su detalle, Then puedo ver de forma detallada la propuesta que realizó la productora a mi solicitud. <br> - Given que tengo una propuesta recibida, When accedo a su detalle, Then puedo ver información relevante.                                                                                                                                                       | EP010                     |
+| US042           | Aceptar o rechazar propuesta                              | Como Empresa o marca, quiero aceptar o rechazar propuestas recibidas, para tomar decisiones según mis necesidades y avanzar en la contratación.                                             | - Given que reviso una propuesta, When la rechazo, Then la productora recibe una notificación y se actualiza su estado a “rechazada”. <br> - Given que reviso una propuesta, When la acepto, Then la productora recibe una notificación y se actualiza su estado a “aceptada”.                                                                                                                                            | EP010                     |
+| EP011           | Calificación y retroalimentación                          | Como usuario, quiero dejar y revisar calificaciones después de una activación, para mejorar la reputación, el servicio y la experiencia futura dentro de la plataforma.                     |                                                                                                                                                                                                                                                                                                                                                                                                                           | —                         |
+| US43            | Registrar calificación al finalizar evento                | Como usuario, quiero calificar a la otra parte al finalizar un evento, para evaluar la experiencia recibida.                                                                                | Given que el evento está finalizado, When accedo a su detalle, Then puedo registrar una evaluación con comentario. <br> Given que envío la evaluación, When se registra correctamente, Then queda asociada al perfil de la otra parte.                                                                                                                                                                                    | EP011                     |
+| US44            | Visualizar calificaciones de otros usuarios               | Como usuario, quiero ver las calificaciones y comentarios recibidos por otros usuarios, para decidir con quién trabajar.                                                                    | - Given que accedo al perfil de otro usuario, When tiene calificaciones, Then puedo ver su historial público. <br> - Given que veo una calificación, When es registrada, Then queda visible para otros usuarios.                                                                                                                                                                                                          | EP011                     |
+| US45            | Visualizar mis calificaciones recibidas                   | Como usuario, quiero ver las calificaciones y comentarios que he recibido, para conocer mi reputación.                                                                                      | - Given que soy un usuario autenticado, When accedo a mi perfil, Then puedo ver las calificaciones y comentarios recibidos. <br> - Given que veo una calificación, When es registrada, Then queda visible para otros usuarios.                                                                                                                                                                                            | EP011                     |
+| EP012           | Implementación técnica del backend RESTful API            | Como Developer, quiero desarrollar y documentar los servicios REST del sistema, para garantizar que cada funcionalidad esté correctamente disponible para el frontend.                      |                                                                                                                                                                                                                                                                                                                                                                                                                           |                           |
+| TS46            | Crear endpoint para registrar una solicitud de activación | Como Developer, quiero crear un endpoint POST para registrar solicitudes de activación, para que las empresas puedan enviar sus requerimientos desde el frontend.                           | -Given que se realiza una solicitud HTTP POST al endpoint /api/activation-requests, When el cuerpo contiene datos válidos, Then se registra una nueva solicitud en la base de datos y se retorna un status 201 con el ID generado. <br> - Given que los datos son inválidos, When se valida la entrada, Then se retorna un error 400 con detalles del fallo.                                                              | EP012                     |
+| TS47            | Crear endpoint para enviar propuestas de activación       | Como Developer, quiero implementar un endpoint POST para que las productoras envíen propuestas, para que puedan responder solicitudes de las empresas.                                      | -Given que se realiza una solicitud POST a /api/activation-proposals, When el cuerpo contiene datos válidos de propuesta, Then se guarda en la base de datos y se retorna 201 Created. <br> -Given que falta información obligatoria, Then el sistema retorna un código 400 con mensaje de error.                                                                                                                         | EP012                     |
+| TS48            | Crear endpoint para obtener propuestas por solicitud      | Como Developer, quiero implementar un endpoint GET que retorne todas las propuestas ligadas a una solicitud de activación, para que las empresas puedan revisar opciones recibidas.         | -Given que se realiza un GET a /api/activation-requests/{id}/proposals, When el ID existe, Then el sistema retorna un array JSON con todas las propuestas asociadas. <br> -Given que el ID no existe, Then el sistema retorna 404 Not Found.                                                                                                                                                                              | EP012                     |
+| TS49            | Crear endpoints para la autenticación de usuarios         | Como Developer, quiero implementar endpoints de login y registro, para autenticar usuarios y otorgar acceso basado en roles.                                                                | -Given que un usuario envía credenciales correctas al endpoint /api/auth/login, Then el sistema retorna un token JWT válido. <br> -Given que se intenta registrar un usuario en /api/auth/register, When los datos son válidos, Then se registra el usuario correctamente y se retorna 201 Created. <br> -Given que el usuario ya existe o los datos son inválidos, Then se retorna un error 400 con el mensaje adecuado. | EP012                     |
+| TS50            | Crear endpoint para calificaciones                        | Como Developer, quiero crear un endpoint para que los usuarios registren calificaciones, para que puedan evaluar su experiencia.                                                            | -Given que un usuario autenticado envía una evaluación a /api/ratings, When los datos son válidos, Then la calificación es almacenada y se retorna 201 Created. <br> -Given que el ID de evento no corresponde a una activación finalizada, Then el sistema retorna un error 403 Forbidden.                                                                                                                               | EP012                     |
 
-**Épicas**
 
-| Epic ID | Título                                      |
-|---------|----------------------------------------------|
-| EP001   | Gestión de solicitudes de activación        |
-| EP002   | Gestión de portafolios de servicios         |
-| EP003   | Landing Page informativa                    |
-| EP004   | Personalización según rol del usuario      |
 
 ### 3.3. Impact Mapping.
 
-En esta sección se presenta el Impact Mapping realizado para nuestros dos user personas previamente definidos: el Gerente de Marketing de una empresa o marca, y el Coordinador Comercial de una empresa productora de eventos.
+En esta sección se presenta el Impact Mapping realizado para nuestros dos user personas previamente definidos: el
+Gerente de Marketing de una empresa o marca, y el Coordinador Comercial de una empresa productora de eventos.
 
 **Figura 5: Impact Mapping**
 
 ![Impact Mapping](/images/ImpactMap.png)
 
-Esta figura muestra el Impact Mapping en el cual se definieron tres Business Goals SMART: (1) alcanzar 600 usuarios registrados en 8 meses, (2) lograr que el 50% de las empresas publiquen una solicitud dentro de los primeros 10 días, y (3) conseguir que el 60% de las productoras activas generen al menos un contrato en los primeros 4 meses. Además, se identificaron las acciones que deben realizar para alcanzar estos objetivos.
+Esta figura muestra el Impact Mapping en el cual se definieron tres Business Goals SMART: (1) alcanzar 600 usuarios
+registrados en 8 meses, (2) lograr que el 50% de las empresas publiquen una solicitud dentro de los primeros 10 días,
+y (3) conseguir que el 60% de las productoras activas generen al menos un contrato en los primeros 4 meses. Además, se
+identificaron las acciones que deben realizar para alcanzar estos objetivos.
 
 ### 3.4. Product Backlog.
 
-En esta sección se presenta el Product Backlog, que incluye las historias de usuario priorizadas y sus respectivas estimaciones de esfuerzo. El backlog está organizado por User Stories, y cada historia tiene asignada una estimación en puntos de historia para facilitar la planificación de sprints.
+En esta sección se presenta el Product Backlog, que incluye las historias de usuario priorizadas y sus respectivas
+estimaciones de esfuerzo. El backlog está organizado por User Stories, y cada historia tiene asignada una estimación en
+puntos de historia para facilitar la planificación de sprints.
 
-| Orden | User Story Id | Título                                  | Descripción                                                                                             | Story Points |
-|-------|---------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------|--------------|
-| 1     | US003         | Sección “Cómo funciona”                 | Como visitante, deseo entender el funcionamiento general de la plataforma desde la landing page.        | 2            |
-| 2     | US004         | Beneficios para empresas productoras    | Como visitante del segmento productora, deseo leer los beneficios de unirme a la plataforma.            | 2            |
-| 3     | US005         | Beneficios para marcas                  | Como visitante del segmento marca, deseo conocer los beneficios de publicar mis necesidades.            | 2            |
-| 4     | US007         | ¿Quiénes somos?                         | Como visitante, deseo conocer quién está detrás de la plataforma para confiar en su propuesta.          | 1            |
-| 5     | US008         | Call to Action                          | Como visitante, deseo ver un botón claro que me invite a acceder a la app web.                          | 1            |
-| 6     | US006         | Footer de la landing                    | Como visitante, deseo acceder desde el footer a información como contacto y políticas.                  | 1            |
-| 7     | US008         | Selección de tipo de perfil             | Como nuevo usuario, deseo seleccionar si soy una empresa productora o una empresa que solicita eventos. | 3            |
-| 8     | US009         | Vista de solicitudes (productora)       | Como productora, deseo ver una lista de solicitudes de activación para identificar oportunidades.       | 5            |
-| 9     | US010         | Vista de perfiles (empresa solicitante) | Como empresa, deseo ver perfiles de productoras disponibles para contratarlas.                          | 5            |
-| 10    | US011         | Historial de solicitudes                | Como empresa, deseo ver mis solicitudes pasadas y en curso para hacer seguimiento.                      | 3            |
-| 11    | US012         | Seguimiento de eventos contratados      | Como productora, deseo acceder a mis eventos en curso para organizarlos.                                | 3            |
-| 12    | US013         | Contactar a productora                  | Como empresa o marca, deseo contactar a una productora desde su perfil para coordinar una contratación. | 3            |
-| 13    | US014         | Notificaciones de solicitudes           | Como empresa, deseo recibir notificaciones cuando una productora responda a mi solicitud.               | 2            |
-| 14    | US015         | Notificaciones de contratación          | Como productora, deseo recibir alertas cuando soy contratada para un evento.                            | 2            |
-| 15    | US002         | Registrar portafolio de servicios       | Como productora, deseo registrar y actualizar los servicios que ofrece mi empresa.                      | 3            |
+| Orden | User Story ID | Título                                          | Descripción                                                                                                          | Story Points |
+|-------|---------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------|
+| 1     | US014         | Sección “Cómo funciona”                         | Como visitante, quiero entender el funcionamiento general de la plataforma desde la landing page.                    | 1            |
+| 2     | US015         | Sección de beneficios para empresas productoras | Como visitante del segmento Productoras, quiero leer los beneficios de unirme a la plataforma.                       | 1            |
+| 3     | US016         | Sección de beneficios para marcas               | Como visitante del segmento Empresa o marca, quiero conocer los beneficios de publicar necesidades en la plataforma. | 1            |
+| 4     | US017         | Sección de pie de página (footer)               | Como visitante, quiero acceder desde el footer a información adicional.                                              | 1            |
+| 5     | US018         | Sección “¿Quiénes somos?”                       | Como visitante, quiero conocer quién está detrás de la plataforma.                                                   | 1            |
+| 6     | US019         | Llamado a la acción (Call to Action)            | Como visitante, quiero ver un botón claro que me invite a acceder a la app web.                                      | 1            |
+| 7     | US001         | Registrar solicitud de activación               | Como Empresa o marca, quiero registrar una solicitud de activación.                                                  | 3            |
+| 8     | US038         | Enviar propuesta a solicitud de activación      | Como Productora, quiero enviar una propuesta a una solicitud de activación.                                          | 3            |
+| 9     | US034         | Aceptar propuesta para formalizar activación    | Como Empresa o marca, quiero contratar a una productora desde su propuesta.                                          | 3            |
+| 10    | US036         | Marcar activación como finalizada               | Como Empresa o marca, quiero marcar una activación como finalizada.                                                  | 2            |
+| 11    | US043         | Registrar calificación al finalizar evento      | Como usuario, quiero calificar a la otra parte al finalizar un evento.                                               | 2            |
+| 12    | US002         | Editar solicitud de activación                  | Como Empresa o marca, quiero editar una solicitud publicada.                                                         | 2            |
+| 13    | US003         | Eliminar solicitud de activación                | Como Empresa o marca, quiero eliminar una solicitud publicada.                                                       | 2            |
+| 14    | US004         | Ver solicitudes publicadas                      | Como Empresa o marca, quiero ver mis solicitudes activas.                                                            | 1            |
+| 15    | US005         | Ver detalle de solicitud publicada              | Como Empresa o marca, quiero ver el detalle de una solicitud que he creado.                                          | 1            |
+| 16    | US040         | Ver propuestas recibidas                        | Como Empresa o marca, quiero ver las propuestas que he recibido.                                                     | 2            |
+| 17    | US041         | Ver detalles de una propuesta recibida          | Como Empresa o marca, quiero ver los detalles de una propuesta que he recibido.                                      | 2            |
+| 18    | US042         | Aceptar o rechazar propuesta                    | Como Empresa o marca, quiero aceptar o rechazar propuestas recibidas.                                                | 2            |
+| 19    | US039         | Ver propuestas enviadas                         | Como Productora, quiero ver las propuestas que he enviado.                                                           | 1            |
+| 20    | US033         | Ver detalles de una activación contratada       | Como Empresa o marca, quiero ver los detalles de una activación contratada.                                          | 1            |
+| 21    | US035         | Ver activaciones en curso y finalizadas         | Como Empresa o marca, quiero ver las activaciones en curso y finalizadas.                                            | 1            |
+| 22    | US037         | Seguimiento de eventos contratados              | Como Productora, quiero acceder a las activaciones en las que estoy trabajando.                                      | 1            |
+| 23    | US006         | Registrar servicios ofrecidos                   | Como Productora, quiero registrar los servicios que ofrece mi empresa.                                               | 2            |
+| 24    | US007         | Editar servicios ofrecidos                      | Como Productora, quiero editar los servicios que ofrezco.                                                            | 2            |
+| 25    | US008         | Eliminar servicios registrados                  | Como Productora, quiero eliminar un servicio registrado.                                                             | 2            |
+| 26    | US009         | Visualizar lista de servicios registrados       | Como Productora, quiero ver una lista de todos los servicios registrados.                                            | 1            |
+| 27    | US010         | Registrar trabajo previo en el portafolio       | Como Productora, quiero registrar un trabajo previo con imágenes y descripciones.                                    | 2            |
+| 28    | US011         | Editar trabajo previo en el portafolio          | Como Productora, quiero editar un trabajo registrado.                                                                | 2            |
+| 29    | US012         | Eliminar trabajo previo en el portafolio        | Como Productora, quiero eliminar un trabajo registrado.                                                              | 2            |
+| 30    | US013         | Visualizar portafolio de trabajos realizados    | Como Productora, quiero ver un portafolio con todos los trabajos registrados.                                        | 1            |
+| 31    | TS46          | Crear endpoint para registrar solicitud         | Como Developer, quiero crear un endpoint POST para registrar solicitudes.                                            | 3            |
+| 32    | TS47          | Crear endpoint para enviar propuestas           | Como Developer, quiero implementar un endpoint POST para propuestas.                                                 | 3            |
+| 33    | TS48          | Obtener propuestas por solicitud                | Como Developer, quiero implementar un GET para propuestas ligadas a una solicitud.                                   | 3            |
+| 34    | TS49          | Endpoints de login y registro                   | Como Developer, quiero implementar endpoints de login y registro.                                                    | 3            |
+| 35    | TS50          | Endpoint para calificaciones                    | Como Developer, quiero crear un endpoint para registrar calificaciones.                                              | 3            |
+| 36    | US020         | Selección de tipo de perfil al registrarse      | Como nuevo usuario, quiero seleccionar si soy Empresa o Productora.                                                  | 1            |
+| 37    | US021         | Vista principal para productoras                | Como Productora, quiero ver solicitudes de activación al iniciar sesión.                                             | 1            |
+| 38    | US022         | Vista principal para empresas                   | Como Empresa, quiero ver perfiles de productoras al iniciar sesión.                                                  | 1            |
+| 39    | US026         | Iniciar conversación con otro usuario           | Como usuario, quiero iniciar conversación desde una solicitud o perfil.                                              | 2            |
+| 40    | US027         | Ver listado de conversaciones                   | Como usuario, quiero ver una lista de mis conversaciones.                                                            | 2            |
+| 41    | US028         | Leer y escribir mensajes                        | Como usuario, quiero entrar a una conversación, leer mensajes y enviar nuevos.                                       | 2            |
+| 42    | US029         | Notificaciones de solicitudes                   | Como Empresa, quiero recibir notificaciones cuando una productora responde.                                          | 2            |
+| 43    | US030         | Notificaciones de contratación                  | Como Productora, quiero recibir alertas cuando soy contratada.                                                       | 2            |
+| 44    | US031         | Notificaciones de mensajes                      | Como usuario, quiero recibir notificaciones al recibir un mensaje.                                                   | 2            |
+| 45    | US032         | Notificaciones de calificaciones                | Como usuario, quiero recibir notificaciones cuando recibo una calificación.                                          | 2            |
+| 46    | US024         | Contactar a productora desde su perfil          | Como Empresa, quiero contactar a una productora desde su perfil.                                                     | 2            |
+| 47    | US025         | Contactar a empresa desde una solicitud         | Como Productora, quiero contactar a una empresa desde una solicitud.                                                 | 2            |
+| 48    | US044         | Visualizar calificaciones de otros usuarios     | Como usuario, quiero ver calificaciones y comentarios de otros usuarios.                                             | 1            |
+| 49    | US045         | Visualizar mis calificaciones recibidas         | Como usuario, quiero ver las calificaciones y comentarios que he recibido.                                           | 1            |
+| 50    | US023         | Visualizar mis activaciones                     | Como Productora, quiero ver el listado de activaciones donde estoy trabajando.                                       | 1            |
 
+**Link del Product Backlog en Trello:** https://trello.com/b/XIu3pRLo/matchevent
 
 # **Capítulo IV: Product Design**
 
@@ -900,43 +1224,91 @@ En esta sección se explicará cuáles serán las acciones y técnicas que guiar
     - Navegación basada en tipo de usuario: Dependiendo de la clase de usuario que se desee ser (empresa o productora), las funciones de la aplicación variarán ya que cada uno de los segmentos objetivos demandan un objetivo diferente.
     - Ayuda contextual: Se presentará un mini tutorial sobre el uso de la aplicación web para ayudar al usuario a poder entender el funcionamiento de la app.
 ### 4.3. Landing Page UI Design.
-### 4.3.1. Landing Page Wireframe.
-![Wireframe del Landing Page](images/WireframeLanding.png)
-### 4.3.2. Landing Page Mock-up.
-![MockUp del Landing Page](images/MockUpLanding.png)
+### 4.3.1. Landing Page Wireframe  
+![WireframeLanding](https://github.com/user-attachments/assets/24f5f748-cec6-4213-a73b-ac4f5253b6af)
+
+> **Descripción del wireframe**  
+> El bosquejo en baja fidelidad define **la estructura jerárquica** sin distracciones visuales.  
+>
+> | Sección | Objetivo | Componentes claves |
+> |---------|----------|--------------------|
+> | **Header** | Navegación principal | Logo, menú de 5 enlaces y botón CTA destacado |
+> | **Hero (faja en Z-pattern)** | Mensaje de valor + acción inmediata | Título triple-línea, copy breve, 2 CTAs paralelos |
+> | **Bloque “Para Empresas”** | Beneficios dirigidos al segmento demandante | Cuadro de título + 4 tarjetas de ícono/beneficio |
+> | **Bloque “Para Productoras”** | Beneficios al segmento proveedor | Estructura gemela al bloque anterior |
+> | **Proceso Paso-a-Paso** | Explicar flujo MatchEvent | Columna izquierda “Para Empresas” vs. derecha “Para Productoras” con bullet-steps y check-icons |
+> | **Sobre Nosotros** | Presentar al equipo | Avatares circulares y nombres debajo |
+> | **Footer CTA** | Conversión final | Copy de cierre + botones Registro / Iniciar Sesión + footer legal oscuro |
+
+---
+
+### 4.3.2. Landing Page Mock-up  
+![MockUpLanding](https://github.com/user-attachments/assets/a79c6de3-8b0a-4245-b801-2db4e3e94b34)
+
+> **Descripción del mock-up**  
+> La maqueta en alta fidelidad aplica los estilos definidos (paleta azul-mostaza, Roboto, patrón Z) y valida **tono visual y jerarquía de contenidos** antes del prototipo interactivo.  
+>
+> - **Header**: logo minimalista + navegación en texto gris y CTA “Iniciar Sesión” en mostaza para contraste.  
+> - **Hero**: fondo azul medio con pattern, headline centrado (“Conecta con las mejores productoras…”), subcopy y CTAs diferenciados por rol (“Buscar Productora” vs. “Registrarme como Productora”).  
+> - **Secciones de beneficio**: tarjetas con bordes suaves y placeholder de imagen, manteniendo consistencia cromática.  
+> - **Proceso**: dos tarjetas blancas con sombra sutil; bullets azules y numeración clara para reforzar facilidad de uso.  
+> - **Sobre Nosotros**: avatares gris claro listos para foto real; nombres en gris oscuro bajo cada círculo.  
+> - **Footer**: banda azul oscuro replicando el hero; CTA final doble y créditos en gris claro sobre fondo casi negro para completar el patrón Z y reforzar contraste.
+
 ### 4.4. Web Applications UX/UI Design.
-### 4.4.1. Web Applications Wireframes.
-![Imagen de WhatsApp 2025-04-23 a las 18 30 08_a4425784](https://github.com/user-attachments/assets/9f5df8c3-bb12-41c4-94d0-7285fa1cf0f7)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 08_2a73fd3b](https://github.com/user-attachments/assets/e2de93a7-155f-4ca5-80b4-d86d6c0b0b51)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 08_72a69ae1](https://github.com/user-attachments/assets/d190434f-14e7-4d8c-a418-48e6bf1893be)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 08_bdd41016](https://github.com/user-attachments/assets/f64717a5-0c20-4c91-9317-6a966db01982)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 08_86cd069f](https://github.com/user-attachments/assets/5fffe2a8-b7f7-47c9-b802-18aa8e3d6fc8)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 09_cc12d505](https://github.com/user-attachments/assets/afda922c-3c13-4217-8def-02fc998791a2)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 09_754c0668](https://github.com/user-attachments/assets/32961d00-7f2d-4c59-93ff-ecbd281fa767)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 09_c385783d](https://github.com/user-attachments/assets/7ec1e0fe-52ac-4f3d-91d3-7467e53f3680)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 09_f2628220](https://github.com/user-attachments/assets/8b03dcf3-ed74-4346-b6f0-fa6c1d2fa9c1)
-![Imagen de WhatsApp 2025-04-23 a las 18 30 09_3a1ab92e](https://github.com/user-attachments/assets/41436ca4-c718-4660-8ee1-7b1df8e83789)
+### 4.4.1. Web Applications – Wireframes  
+
+> Los wireframes a continuación muestran la navegación núcleo de la aplicación web antes de aplicar estilos finales. Se enumeran en el mismo orden en que un usuario típico (empresa o productora) los encontraría.
+
+| # | Pantalla (wireframe) | Propósito y componentes principales |
+|---|----------------------|-------------------------------------|
+| 1 | ![WF-Home](https://github.com/user-attachments/assets/9f5df8c3-bb12-41c4-94d0-7285fa1cf0f7) | **Home feed** tras iniciar sesión: hero contextual, buscador rápido y carrusel de tarjetas con oportunidades destacadas. |
+| 2 | ![WF-Directory](https://github.com/user-attachments/assets/e2de93a7-155f-4ca5-80b4-d86d6c0b0b51) | **Directorio de productoras** / solicitudes: filtros superiores y tarjetas con mini-portafolio, rating y CTA “Conectar”. |
+| 3 | ![WF-DashboardProd](https://github.com/user-attachments/assets/d190434f-14e7-4d8c-a418-48e6bf1893be) | **Dashboard de productora**: KPIs (propuestas enviadas, contratos, rating) y lista de solicitudes pendientes. |
+| 4 | ![WF-ProfileEdit](https://github.com/user-attachments/assets/f64717a5-0c20-4c91-9317-6a966db01982) | **Edición de perfil** (empresa o productora): avatar, datos de contacto y servicios ofrecidos. |
+| 5 | ![WF-Wizard](https://github.com/user-attachments/assets/5fffe2a8-b7f7-47c9-b802-18aa8e3d6fc8) | **Wizard de publicación de solicitud** (paso a paso, 3 steps): selección de tipo de evento, fechas y presupuesto. |
+| 6 | ![WF-Inbox/List](https://github.com/user-attachments/assets/afda922c-3c13-4217-8def-02fc998791a2) | **Lista de conversaciones / propuestas**: búsqueda, pestañas por estado y paginado inferior. |
+| 7 | ![WF-Login](https://github.com/user-attachments/assets/32961d00-7f2d-4c59-93ff-ecbd281fa767) | **Login simple** con correo y contraseña; enlace a registro y recuperación. |
+| 8 | ![WF-Signup](https://github.com/user-attachments/assets/7ec1e0fe-52ac-4f3d-91d3-7467e53f3680) | **Registro**: selector de tipo de cuenta, datos básicos y doble contraseña. |
+| 9 | ![WF-Verify](https://github.com/user-attachments/assets/8b03dcf3-ed74-4346-b6f0-fa6c1d2fa9c1) | **Pantalla de verificación de correo** con CTA para volver al login. |
+|10 | ![WF-RequestForm](https://github.com/user-attachments/assets/41436ca4-c718-4660-8ee1-7b1df8e83789) | **Formulario completo de solicitud de activación**: detalles del evento, servicios requeridos y fechas. |
+
+Cada wireframe se diseñó en **blanco y negro** para concentrarse en la disposición de elementos, jerarquía visual y flujos de usuario antes de aplicar color, tipografía y componentes definitivos de UI.
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ![Imagen de WhatsApp 2025-04-23 a las 18 37 58_6c910836](https://github.com/user-attachments/assets/c23f74af-9c92-41bd-b895-de8d6c209ba1)
-### 4.4.2. Web Applications Mock-ups.
-![Imagen de WhatsApp 2025-04-23 a las 18 33 06_db9017a1](https://github.com/user-attachments/assets/2a6635cc-35ed-42ca-b4f4-ce9460d05d2d)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 06_086bcc56](https://github.com/user-attachments/assets/befa5c6f-15fc-45d2-a9ff-5cafe3e357e6)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 06_30a3100f](https://github.com/user-attachments/assets/6265fd47-62ac-4597-8a2a-5d42383ef22c)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_be358643](https://github.com/user-attachments/assets/ac7eff66-435d-4eba-bb55-7e76b34f6ed2)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_c8571cb8](https://github.com/user-attachments/assets/17a75f86-e5f8-4da9-82bd-ba929b471169)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_31b32b2f](https://github.com/user-attachments/assets/b2805d70-bff6-4433-b260-2ff812b76f22)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_c0617160](https://github.com/user-attachments/assets/98f32083-7559-4458-8cbc-0a6377a5ab92)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_1f4e5e7d](https://github.com/user-attachments/assets/90b2c936-f2f2-4714-8a4f-2675f21eb11e)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 07_2df65abb](https://github.com/user-attachments/assets/1727a0c9-7cd6-4305-b36b-d63fd2ed2b35)
-![Imagen de WhatsApp 2025-04-23 a las 18 33 08_6f6afaee](https://github.com/user-attachments/assets/31a1857c-4a80-4db5-bb4d-dff8d028b474)
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.2. Web Applications Mock-ups  
+
+| # | Mock-up | Pantalla / flujo representado | Resumen funcional |
+|---|---------|------------------------------|-------------------|
+| 1 | ![Directorio de productoras](https://github.com/user-attachments/assets/2a6635cc-35ed-42ca-b4f4-ce9460d05d2d) | **Directorio – vista Empresas** | Tarjetas con mini-portafolio, rating y CTA *Ver perfil*; buscador + filtros por categoría/intereses. |
+| 2 | ![Dashboard productora](https://github.com/user-attachments/assets/befa5c6f-15fc-45d2-a9ff-5cafe3e357e6) | **Dashboard – vista Productoras** | KPIs (solicitudes recibidas, contratos, rating), tabs por estado y botón *Enviar propuesta*. |
+| 3 | ![Perfil empresa](https://github.com/user-attachments/assets/6265fd47-62ac-4597-8a2a-5d42383ef22c) | **Perfil de empresa editable** | Sidebar con métricas + formulario con datos, intereses y seguridad. |
+| 4 | ![Wizard nueva solicitud](https://github.com/user-attachments/assets/ac7eff66-435d-4eba-bb55-7e76b34f6ed2) | **Wizard paso 1 – Nueva solicitud** | Selección de tipo de servicio en pasos progresivos (1/3). |
+| 5 | ![Wizard nueva solicitud – pasos](https://github.com/user-attachments/assets/17a75f86-e5f8-4da9-82bd-ba929b471169) | **Wizard paso 2–3** | Datos logísticos y confirmación antes de publicar la solicitud. |
+| 6 | ![Historial solicitudes](https://github.com/user-attachments/assets/b2805d70-bff6-4433-b260-2ff812b76f22) | **Historial de solicitudes** | Listado paginado con filtros (todos/en revisión) y CTA *Ver detalle* / *Cancelar*. |
+| 7 | ![Login](https://github.com/user-attachments/assets/90b2c936-f2f2-4714-8a4f-2675f21eb11e) | **Inicio de sesión** | Logotipo, campos de credenciales y enlaces a registro / recuperación. |
+| 8 | ![Verificación email](https://github.com/user-attachments/assets/1727a0c9-7cd6-4305-b36b-d63fd2ed2b35) | **Confirmación de correo** | Mensaje de éxito con CTA para volver al login. |
+| 9 | ![Formulario publicación solicitud](https://github.com/user-attachments/assets/31a1857c-4a80-4db5-bb4d-dff8d028b474) | **Publicar solicitud (formulario completo)** | Campos de información general, logística y presupuesto con validaciones obligatorias. |
+| 10 | ![Portafolio servicios](https://github.com/user-attachments/assets/98f32083-7559-4458-8cbc-0a6377a5ab92) | **Gestión de portafolio – Productoras** | Alta de nuevos servicios: nombre, categoría, precio, disponibilidad y upload de imagen. |
+
+Cada mock-up aplica la **paleta azul–mostaza y la tipografía Roboto** definida en las *Style Guides*, ilustrando la experiencia final tras la fase de prototipado.### 4.4.3. Web Applications User Flow Diagrams.
 ![Imagen de WhatsApp 2025-04-23 a las 18 33 08_6f6afaee](/images/wireflow1.png)
 ### 4.5. Web Applications Prototyping.
+
 ### 4.6. Domain-Driven Software Architecture.
-Domain-Driven software architecture es un enfoque de diseño de software que se centra en la creación de un modelo conceptual del dominio del problema, permitiendo una mejor comprensión y comunicación entre los desarrolladores y los expertos en el dominio. Este enfoque ayuda a alinear el diseño del software con las necesidades del negocio y a crear una arquitectura más flexible y mantenible.
-MatchEvent es un ejemplo de una aplicación web que utiliza este enfoque, permitiendo a las empresas y productoras gestionar sus eventos de manera eficiente.
+
+Domain-Driven software architecture es un enfoque de diseño de software que se centra en la creación de un modelo
+conceptual del dominio del problema, permitiendo una mejor comprensión y comunicación entre los desarrolladores y los
+expertos en el dominio. Este enfoque ayuda a alinear el diseño del software con las necesidades del negocio y a crear
+una arquitectura más flexible y mantenible.
+MatchEvent es un ejemplo de una aplicación web que utiliza este enfoque, permitiendo a las empresas y productoras
+gestionar sus eventos de manera eficiente.
+
 ### 4.6.1. Software Architecture Context Diagram.
+
 Elementos en el diagrama de contexto:
+
 - MatchEvent: Aplicación web que conecta empresas y productoras.
 - Visitor: Usuario no autenticado que navega por la landing page.
 - Customer: Empresa o marca que publica solicitudes de activación o compañía productora que publica su portafolio.
@@ -944,29 +1316,38 @@ Elementos en el diagrama de contexto:
 **Figura 6: Software Architecture Context Diagram**
 
 ![Software Architecture Context Diagram](/images/contextDiagram.png)
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
 Elementos en el diagrama de contenedores:
+
 - Web Application: Aplicación web que permite a los usuarios interactuar con la plataforma.
 - Database: Base de datos que almacena la información de los usuarios, solicitudes y servicios.
 - Backend API: API que gestiona la lógica de negocio y la comunicación entre la aplicación web y la base de datos.
-- Landing Page: Página de inicio que proporciona información sobre la plataforma y permite a los usuarios registrarse o iniciar sesión.
+- Landing Page: Página de inicio que proporciona información sobre la plataforma y permite a los usuarios registrarse o
+  iniciar sesión.
 - Developer: Desarrollador que trabaja en la implementación y mantenimiento de la aplicación.
 - Visitor: Usuario no autenticado que navega por la landing page.
-- Customer: Empresa o marca que publica solicitudes de activación o compañía productora que publica su portafolio.
+- Empresa o marca: Segmento objetivo que publica solicitudes de activación 
+- Productoras Especializadas: Compañía productora que publica su portafolio.
 
 **Figura 7: Software Architecture Container Diagrams**
 
 ![Software Architecture Container Diagrams](/images/containerDiagram.png)
 
 ![Software Architecture Container Diagrams](/images/containerDiagram2.png)
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
 **Bounded Context Identity and Access:**
 
 Elementos en el diagrama de componentes:
+
 - Web Application: Aplicación web que permite a los usuarios interactuar con la plataforma.
 - User Controller: Controlador que gestiona las solicitudes de los usuarios y la autenticación.
 - User Service: Servicio que maneja la lógica de negocio relacionada con los usuarios.
-- User Repository: Repositorio que interactúa con la base de datos para almacenar y recuperar información de los usuarios.
+- User Repository: Repositorio que interactúa con la base de datos para almacenar y recuperar información de los
+  usuarios.
 - Database: Base de datos que almacena la información de los usuarios, solicitudes y servicios.
 
 **Figura 8: Bounded Context Identity and Access**
@@ -982,13 +1363,14 @@ Responsabilidad:
 - Listado de solicitudes
 - Visualización de detalles de una solicitud
 
-**Figura 9: Bounded Activation Request** 
+**Figura 9: Bounded Activation Request**
 
 ![Bounded Context Activation Request](/images/activationRequestsBoundedContext.png)
 
 **Bounded Context Activation Quotes**
 
 Responsabilidad:
+
 - Permitir a una productora enviar una propuesta para una solicitud publicada.
 - Listar propuestas enviadas por cada productora.
 - Posible relación con estados: "enviada", "aceptada", "rechazada".
@@ -1012,6 +1394,7 @@ Responsabilidad:
 **Bounded Context Portafolio Management**
 
 Responsabilidad:
+
 - Permitir a una productora registrar y editar su portafolio de servicios.
 - Cada servicio podría tener: nombre, descripción, categoría, precio, etc.
 - Mostrar estos servicios como parte del perfil público de la productora.
@@ -1035,7 +1418,7 @@ Responsabilidad:
 ### 4.7. Software Object-Oriented Design.
 
 #### 4.7.1. Class Diagrams.
-![diagrama-clases](https://github.com/user-attachments/assets/380e381a-ebbe-4255-9195-99cd121cb86e)
+![diagrama-de-clases](https://github.com/user-attachments/assets/3dd6e07b-c408-4975-b5ff-3b1845a87fb2)
 
 #### 4.7.2. Class Dictionary
 
